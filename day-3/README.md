@@ -43,6 +43,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <tr>
         <td>11:00 - 12:00</td>
         <td>Intro to Arrays</td>
+        <td>
         	<a href="lectures/data-structures">Lecture: Intro to Arrays</a></br>
         	
         	<a href="https://github.com/learn-co-curriculum/hs-manipulating-arrays-mini-lab">Interactive Practice: Arrays</a></br>
