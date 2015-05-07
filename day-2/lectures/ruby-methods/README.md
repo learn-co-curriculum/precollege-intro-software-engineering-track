@@ -1,4 +1,4 @@
-## Unit 2: Ruby Methods
+## Unit 2: Ruby Methods - Lecture Notes
 
 ### SWBATs
 + Look up pre-written Ruby methods, write their own methods, and understand the importance and function of scope and return values.

@@ -1,4 +1,4 @@
-## Unit 2: Git and GitHub
+## Unit 2: Git and GitHub - Lecture Notes
 
 ### SWBATs
 + Understand the purpose of GitHub and learn how to fork and clone repositories.

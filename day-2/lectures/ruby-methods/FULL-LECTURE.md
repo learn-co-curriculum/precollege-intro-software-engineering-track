@@ -1,3 +1,5 @@
+## Unit 2: Ruby Methods - Full Lecture
+
 ### SWABTS
 ***Students will be able to create and use their own custom methods***
 
