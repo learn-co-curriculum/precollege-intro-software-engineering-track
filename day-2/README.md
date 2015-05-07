@@ -25,6 +25,14 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>Intro to Git</td>
         <td>
             <a href="lectures/intro-to-git">Lecture: Intro to Git</a></br>
+
+            <a href="https://github.com/learn-co-curriculum/hs-git-environment-setup">Setup: Git Environment</a></br>
+
+            <a href="https://github.com/learn-co-curriculum/hs-git-code-along-lab">Lab: Git Code Along</a></br>
+
+            <a href="https://github.com/learn-co-curriculum/hs-git-website-lab">Lab: Personal Website</a></br>
+            
+            <a href="https://github.com/learn-co-curriculum/hs-github-lab">Lab: Using Git with Github</a></br>
         </td>
     </tr>
     <tr>
