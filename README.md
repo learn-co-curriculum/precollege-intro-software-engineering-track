@@ -1,6 +1,12 @@
 # HS INTRO SOFTWARE COURSE OUTLINE
 
 ## Overview
+This repository will act as a course guide/masterplan for Intro to Software Engineering. 
+Here you'll find:
+
++A course outline listing days and topics
++A guide for each day listing with schedule for deck, lectures, and labs
++A full lecture script as well as abridged notes for each lecture
 
 ## Course Outline
 
@@ -8,22 +14,9 @@
 
 ### [Day 2 - Methods](day-2/README.md)
 
-
-
 ### [Day 3 - Arrays and Hashes](day-3/README.md)
-+ 9 - 9:15 ToDo
-+ 9:15 - 10:30 Intro to Test Driven Development
-+ 10:30 - 11:00 Improv
-+ 11:00 - 12:00 Intro to Arrays
-+ 12:00 - 1:00 Lunch
-+ 1:00 - 2:00 Intro to Hashes
-+ 2:00 - 2:50 Labs
-+ 2:50 Wrap Up
 
-[Lesson Plan](https://docs.google.com/a/flatironschool.com/document/d/1aq8P8PI1WwDCW-FSGpKRg9mh16kdHNQpqPM0dBUkIfA/edit)
-
-
-**Day 4 - If/Else + Group Project**
+### [Day 4 - Arrays and Hashes](day-4/README.md)
 + 9 - 9:15 ToDo
 + 9:15 - 10:30 Review of Arrays and Hashes
 + 10:30 - 11:00 Improv
