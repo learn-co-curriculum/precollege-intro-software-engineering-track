@@ -16,9 +16,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 + 1:00 - 2:50 Ruby data types and labs (pause 30 minutes for improv where needed)
 + 2:50 - 3:00 Wrap Up
 
-[Lesson Plan](https://docs.google.com/a/flatironschool.com/document/d/1TUf9RNzjDt_A82l300wY3dmiUlG7qLo4-ekly5xIf98/edit)
-
-
 **Day 2 - Methods**+
 + 9 - 9:15 ToDo
 + 9:15 - 10:00 Intro to Git: forking and Cloning
