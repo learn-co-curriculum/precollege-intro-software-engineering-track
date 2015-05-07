@@ -76,8 +76,14 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>2:00 - 2:50</td>
         <td>Labs</td>
         <td>
-            Keep working on Labs</br>
-
+        	Keep working on Labs</br>
+          <a href="https://github.com/learn-co-curriculum/hs-ruby-binary-stretch-lab">Stretch Lab: Ruby Binary Conversion</a></br>
+          
+          <a href="https://github.com/learn-co-curriculum/apples-and-holidays">Stretch Lab: Apples and Holidays</a></br>
+          
+          <a href="https://github.com/learn-co-curriculum/hashketball">Stretch Lab: Hashketball</a></br>
+           
+          <a href="https://github.com/learn-co-curriculum/my-each">Stretch Lab: Creating Your Own .each</a>
         </td>
     </tr>
     <tr>
@@ -85,6 +91,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>Wrap Up</td>
         <td>
             Tell kids they are awesome.</br>
+            <a href="https://github.com/learn-co-curriculum/hs-intro-ruby-code-challenge-3">Code Challenge: Arrays and Hashes</a>
         </td>
     </tr>
 </table>
@@ -95,5 +102,5 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 
 ## Lectures
 
-- [Intro to Ruby](lectures/ruby-methods)
-- [Intro to Git](lectures/intro-to-git)
+- [Test Driven Development](test-driven-development)
+- [Data Structures](lectures/data-structures)
