@@ -33,6 +33,18 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
             <a href="lectures/environment-setup">Lecture: Environment Setup</a>
         </td>
     </tr>
+    <tr>
+        <td>11:30 - 12:00</td>
+        <td>Intro to Ruby</td>
+        <td>
+            <a href="lectures/intro-to-ruby">Lecture: Intro to Ruby</a></br>
+            <a href="https://github.com/learn-co-curriculum/hs-strings-mini-lab">Lab: Interactive Practice - Strings</a></br>
+            <a href="https://github.com/learn-co-curriculum/hs-variables-mini-lab">Lab: Interactive Practice II - Variables</a></br>
+            <a href="https://github.com/learn-co-curriculum/hs-user-input-mini-lab">Lab: User Input</a></br>
+            <a href="https://github.com/learn-co-curriculum/hs-invitation-maker-lab">Lab: Invitation Maker</a></br>
+
+        </td>
+    </tr>
 </table>
 
 9 - 10:00 Intros
