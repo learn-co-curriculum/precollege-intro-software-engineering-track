@@ -3,3 +3,4 @@
 ## Resources
 
 - [Schedule](SCHEDULE.md)
+- [Deck](DECK.md)
