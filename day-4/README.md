@@ -50,6 +50,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <tr>
         <td>12:00 - 1:00</td>
         <td>Lunch</td>
+        <td>
+        </td>
     </tr>
     <tr>
         <td>1:00 - 2:50</td>
