@@ -7,4 +7,4 @@
 
 ## Lectures
 
-- [Intro to Ruby](/day-1/lectures/intro-to-ruby)
+- [Intro to Ruby](lectures/intro-to-ruby)
