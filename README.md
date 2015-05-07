@@ -17,16 +17,6 @@ Here you'll find:
 ### [Day 3 - Arrays and Hashes](day-3/README.md)
 
 ### [Day 4 - Arrays and Hashes](day-4/README.md)
-+ 9 - 9:15 ToDo
-+ 9:15 - 10:30 Review of Arrays and Hashes
-+ 10:30 - 11:00 Improv
-+ 11:00 - 12:00 If/Else Statements
-+ 12:00 - 1:00 Lunch
-+ 1:00 - 2:50 Group Project - Ruby Calculator
-+ 2:50 - 3:00 Wrap Up
-
-[Lesson Plan](https://docs.google.com/a/flatironschool.com/document/d/1Ave3y7NFJWPg4ioFpfxt0a1i4SDKc_KasvDhgtUVKVo/edit)
-
 
 **Day 5 - Object Orientation**
 + 9 - 10:00 ToDo - Ruby Jeopardy
