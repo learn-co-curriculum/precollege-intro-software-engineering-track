@@ -24,7 +24,13 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>9:15 - 10:30</td>
         <td>Test Driven Development</td>
         <td>
+           <a href="lectures/test-driven-development">Lecture: Test Driven Development</a></br>
            
+           <a href="https://github.com/learn-co-curriculum/hs-setup-homebrew-rvm">Setup: RSpec and Learn Gems</a></br>
+
+           <a href="https://github.com/learn-co-curriculum/hs-tdd-structure-code-along">Lab: TDD Code Along</a></br>
+           
+           <a href="https://github.com/learn-co-curriculum/hs-tdd-sweet-ride-bro-lab">Lab: Sweet Ride Bro</a>
         </td>
     </tr>
     <tr>
