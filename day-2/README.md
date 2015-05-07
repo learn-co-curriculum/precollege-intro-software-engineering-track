@@ -76,5 +76,5 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 
 ## Lectures
 
-- [Intro to Ruby](lectures/intro-to-ruby)
+- [Intro to Ruby](lectures/ruby-methods)
 - [Intro to Git](lectures/intro-to-git)
