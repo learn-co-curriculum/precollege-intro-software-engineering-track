@@ -48,7 +48,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         	
         	<a href="https://github.com/learn-co-curriculum/hs-manipulating-arrays-mini-lab">Interactive Practice: Arrays</a></br>
         	
-        	<a href="https://github.com/learn-co-curriculum/hs-array-iteration-mini-lab">Interactive Practice II: Iteration</a>
+        	<a href="https://github.com/learn-co-curriculum/hs-array-iteration-mini-lab">Interactive Practice II: Iteration</a></br>
+        	
+        	<a href="https://github.com/learn-co-curriculum/hs-elective-arrays-lab">Lab: Elective Arrays</a>
         </td>
     </tr>
     <tr>
@@ -62,8 +64,12 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>Intro to Hashes</td>
         <td>
            <a href="lectures/data-structures">Lecture: Intro to Hashes</a></br>
+
+           <a href="https://github.com/learn-co-curriculum/hs-array-iteration-mini-lab">Interactive Practice III: Hash Iteration</a></br>
+
+           <a href="https://github.com/learn-co-curriculum/hs-nested-data-structures-mini-lab">Interactive Practice IV: Nested Data Structures</a></br>
            
-           <a href="lectures/data-structures">Lecture: Intro to Hashes</a>
+           <a href="https://github.com/learn-co-curriculum/hs_recipe_hash_lab">Lab: Recipe Hash</a>
         </td>
     </tr>
     <tr>
