@@ -18,7 +18,7 @@ Here you'll find:
 
 ### [Day 4 - Arrays and Hashes](day-4/README.md)
 
-**Day 5 - Object Orientation**
+### [Day 5 - Object Orientation](day-5/README.md)
 + 9 - 10:00 ToDo - Ruby Jeopardy
 + 10:00 - 11:00 Intro to OO
 + 11:00 - 11:30 Improv
