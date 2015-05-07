@@ -1,4 +1,3 @@
-
-# Environment Setup
+# Environment Setup - Lecture Notes
 
 Have the students figure out which environment setup guide to use and run through that...

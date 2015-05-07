@@ -1,4 +1,4 @@
-## Unit 1: Introduction to Ruby
+## Unit 1: Introduction to Ruby - Lecture Notes
 
 ### SWBATs
 + Use Ruby’s basic data types to make a simple command line application that manipulates data.
