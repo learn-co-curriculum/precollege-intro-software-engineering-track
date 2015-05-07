@@ -14,7 +14,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>9:00 - 9:15</td>
         <td>To-Do</td>
         <td>
-            Welcome everyone to Day 2! Have them choose one of the two To-Do activites to work on</br>
+            <a href="https://docs.google.com/presentation/d/12UUR25OZ7OX5KROlIlgoiykaq7Za-9Ztn-BsXjtxCdA/edit#slide=id.p">Day 2 Deck</a></br>
 
             <a href="https://github.com/learn-co-curriculum/hs-cli-world-travel-todo">World Travel</a></br>
 
@@ -40,6 +40,17 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>Ruby Methods</td>
         <td>
             <a href="lectures/ruby-methods">Lecture: Ruby Methods</a></br>
+
+            <a href="https://github.com/learn-co-curriculum/hs-ruby-2-methods-practice-lab">Lab: Methods Practice</a></br>
+
+            <a href="https://github.com/learn-co-curriculum/hs-ruby-2-flyover-lab">Lab: Flyover</a></br>
+
+            <a href="https://github.com/learn-co-curriculum/hs-ruby-2-parrot-lab">Lab: Parrot</a></br>
+
+            <a href="https://github.com/learn-co-curriculum/hs-ruby-2-meal-choice-lab">Lab: Meal Choice</a></br>
+
+            <a href="https://github.com/learn-co-curriculum/hs-speaking-grandma-lab">Lab: Speaking Grandma</a></br>
+
         </td>
     </tr>
     <tr>
@@ -52,7 +63,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>1:00 - 1:30</td>
         <td>Ruby Labs</td>
         <td>
-            Keep working on Ruby Labs from earlier
+            Keep working on Methods Labs from earlier
         </td>
     </tr>
     <tr>
@@ -66,14 +77,18 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>2:00 - 2:50</td>
         <td>Labs</td>
         <td>
-            Keep working on Labs
+            Keep working on Methods Labs</br>
+
+            <a href="https://github.com/learn-co-curriculum/hs-mario-stretch-lab">Stretch Lab: Mario</a></br>
         </td>
     </tr>
     <tr>
         <td>2:50 - 3:00</td>
         <td>Wrap Up</td>
         <td>
-            Tell kids they are awesome.
+            Tell kids they are awesome.</br>
+
+            <a href="https://github.com/learn-co-curriculum/hs-intro-ruby-code-challenge-2">Code Challenge: Temperature Conversion</a></br>
         </td>
     </tr>
 </table>
