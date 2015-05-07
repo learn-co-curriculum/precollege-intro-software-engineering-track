@@ -13,22 +13,25 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <tr>
         <td>9:00 - 10:00</td>
         <td>Orientation</td>
-        <td><a href="https://docs.google.com/presentation/d/1mlaIykpMkEtuGoOOKpup_dcJGLfew3RGAL3rHlwvQmg/edit#slide=id.p">Day 1 Deck</a></td>
+        <td>
+            <a href="https://docs.google.com/presentation/d/1mlaIykpMkEtuGoOOKpup_dcJGLfew3RGAL3rHlwvQmg/edit#slide=id.p">Day 1 Deck</a>
+        </td>
     </tr>
     <tr>
         <td>10:00 - 10:30</td>
         <td>Navigating the Command Line</td>
         <td>
-            <ul>
-                <li><a href="lectures/intro-to-command-line">Lecture: Intro to the Command Line</a></li>
-                <li><a href="https://github.com/learn-co-curriculum/find-missing-pet">Lab: Find the Missing Pet</a></li>
-            </ul?
+            <a href="lectures/intro-to-command-line">Lecture: Intro to the Command Line</a></br>
+            
+            <a href="https://github.com/learn-co-curriculum/find-missing-pet">Lab: Find the Missing Pet</a>
         </td>
     </tr>
     <tr>
         <td>10:30 - 11:30</td>
         <td>Environment Set Up</td>
-        <td><a href="lectures/environment-setup">Lecture: Environment Setup</a></td>
+        <td>
+            <a href="lectures/environment-setup">Lecture: Environment Setup</a>
+        </td>
     </tr>
 </table>
 
