@@ -1,3 +1,5 @@
+## Intro to Command Line - Full Lecture
+
 ### SWABTS  
 ***Students will be able to navigate their system’s file structure using the command line in
 terminal.***
