@@ -42,23 +42,21 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>If/Else Statements</td>
         <td>
           <a href="lectures/if-else-statements">Lecture: If/Else Statements</a></br>
-          
-          Lab Links Here
-
+          <a href="https://github.com/learn-co-curriculum/hs-conditional-diet-lab">Lab: Homer's Diet</a></br>
+          <a href="https://github.com/learn-co-curriculum/curfew-checker">Lab: Curfew Checker</a></br>
+          <a href="https://github.com/learn-co-curriculum/hs-caesar-cipher-stretch-lab">Stretch Lab: Caesar's Cipher</a></br>
         </td>
     </tr>
     <tr>
         <td>12:00 - 1:00</td>
         <td>Lunch</td>
-        <td>
-        </td>
     </tr>
     <tr>
         <td>1:00 - 2:50</td>
         <td>Group Project - Ruby Calculator</td>
         <td>
             Introduce the Ruby Calculator Project</br>
-            <a href="https://github.com/learn-co-curriculum/hs-ruby-group-project">Group Project- Ruby Calculator</a>
+            <a href="https://github.com/learn-co-curriculum/hs-ruby-group-project">Group Project: Ruby Calculator</a>
         </td>
     </tr>
     <tr>
