@@ -10,7 +10,7 @@
 
 
 
-**Day 3 - Arrays and Hashes**
+### [Day 2 - Arrays and Hashes](day-3/README.md)
 + 9 - 9:15 ToDo
 + 9:15 - 10:30 Intro to Test Driven Development
 + 10:30 - 11:00 Improv
