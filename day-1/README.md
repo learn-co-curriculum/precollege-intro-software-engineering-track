@@ -8,3 +8,4 @@
 ## Lectures
 
 - [Intro to Ruby](lectures/intro-to-ruby)
+- [Intro to Command Line](lectures/intro-to-command-line)
