@@ -1,4 +1,4 @@
-## Unit 1: Command Line
+## Unit 1: Command Line - Lecture Notes
 
 ### SWBATs
 ***Students will be able to navigate their system’s file structure using the command line in terminal.***
