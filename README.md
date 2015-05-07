@@ -4,11 +4,9 @@
 
 ## Course Outline
 
-This is just a suggested schedule. Improv shouldn't take up a full half hour and lunch can be cut down if more time is needed for lectures/labs/projects.
-
 ### [Day 1 - Intro to Ruby](day-1/README.md)
 
-**Day 2 - Methods**+
+### [Day 2 - Methods](day-2/README.md)
 + 9 - 9:15 ToDo
 + 9:15 - 10:00 Intro to Git: forking and Cloning
 + 10:00 - 12:00 Ruby methods

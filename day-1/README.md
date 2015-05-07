@@ -69,9 +69,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 
 ## Resources
 
-- [Orientation Deck](https://docs.google.com/presentation/d/1mlaIykpMkEtuGoOOKpup_dcJGLfew3RGAL3rHlwvQmg/edit#slide=id.p)
-
 ## Lectures
 
-- [Intro to Ruby](lectures/intro-to-ruby)
-- [Intro to Command Line](lectures/intro-to-command-line)
+- [Intro to Ruby](lectures/ruby-methods)
+- [Intro to Git](lectures/intro-to-git)
