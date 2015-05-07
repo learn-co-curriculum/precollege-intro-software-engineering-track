@@ -40,11 +40,14 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 
         </td>
     </tr>
-     <tr>
+    <tr>
         <td>11:00 - 12:00</td>
         <td>Intro to Arrays</td>
-        <td>
-
+        	<a href="lectures/data-structures">Lecture: Intro to Arrays</a></br>
+        	
+        	<a href="https://github.com/learn-co-curriculum/hs-manipulating-arrays-mini-lab">Interactive Practice: Arrays</a></br>
+        	
+        	<a href="https://github.com/learn-co-curriculum/hs-array-iteration-mini-lab">Interactive Practice II: Iteration</a>
         </td>
     </tr>
     <tr>
@@ -57,7 +60,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>1:00 - 2:00</td>
         <td>Intro to Hashes</td>
         <td>
+           <a href="lectures/data-structures">Lecture: Intro to Hashes</a></br>
            
+           <a href="lectures/data-structures">Lecture: Intro to Hashes</a>
         </td>
     </tr>
     <tr>
