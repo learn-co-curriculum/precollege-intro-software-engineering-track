@@ -1,3 +1,5 @@
+## Unit 3: Ruby Data Structures - Full Lecture
+
 ### SWABTS
 ***Students will be able use and manipulate Ruby’s core data structures (Arrays and
 Hashes).***

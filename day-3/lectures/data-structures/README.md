@@ -1,4 +1,4 @@
-## Unit 3: Ruby Data Structures
+## Unit 3: Ruby Data Structures - Lecture Notes
 
 ### SWBATs
 + Use and manipulate Ruby’s core data structures of arrays and hashes.
