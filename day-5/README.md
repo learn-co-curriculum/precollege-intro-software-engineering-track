@@ -25,8 +25,10 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 	  <td>Intro to OO</td>
 	  <td>
 	      <a href="lectures/object-orientation">Lecture: Object Orientation</a></br>
-	      
-	      Lab Links Here
+	      <a href="https://github.com/learn-co-curriculum/hs-basic-objects-mini-lab">Interactive Practice: Basic Objects</a></br>
+		 		<a href="https://github.com/learn-co-curriculum/hs-oo-existing-classes-mini-lab">Interactive Practice II: Reopening Existing Classes</a></br>
+		 		<a href="https://github.com/learn-co-curriculum/hs-detention-oo-lab">Lab: Detention</a></br>
+		 		<a href="https://github.com/learn-co-curriculum/hs-my-pets-oo-lab">Lab: My Pets</a>
 	  </td>
    </tr>
    <tr>
@@ -39,10 +41,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 		 <td>More OO</td>
 		 <td>
 		 	<a href="lectures/object-orientation">Lecture: Object Orientation</a></br>
-		 	<a href="https://github.com/learn-co-curriculum/hs-basic-objects-mini-lab">Interactive Practice: Basic Objects</a></br>
-		 	<a href="https://github.com/learn-co-curriculum/hs-oo-existing-classes-mini-lab">Interactive Practice II: Reopening Existing Classes</a></br>
-		 	<a href="https://github.com/learn-co-curriculum/hs-detention-oo-lab">Lab: Detention</a></br>
-		 	<a href="https://github.com/learn-co-curriculum/hs-my-pets-oo-lab">Lab: My Pets</a></br>
+		 	<a href="https://github.com/learn-co-curriculum/hs-oo-stretch-labs">Stretch Lab: Ruby Monk Color Contrast</a></br>
+		 	<a href="https://github.com/learn-co-curriculum/hs-oo-banking">Stretch Lab: Object Oriented Banking</a></br>
+		 	<a href="https://github.com/learn-co-curriculum/hs-oo-stretch-challenges-lab">Stretch Lab: More Stretch Challenges</a>
 			</td>
    	</tr>
    	<tr>
