@@ -26,8 +26,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>Review of Arrays and Hashes</td>
         <td>
             <a href="lectures/data-structures-review">Lecture: Data Structures Review</a></br>
-            
-            Lab Links Here
         </td>
     </tr>
     <tr>
