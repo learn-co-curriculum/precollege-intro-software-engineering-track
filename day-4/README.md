@@ -32,7 +32,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>10:30 - 11:00</td>
         <td>Improv</td>
         <td>
-
+            <a href="https://github.com/learn-co-curriculum/tf-improv-games">Improv Games</a>
         </td>
     </tr>
     <tr>
