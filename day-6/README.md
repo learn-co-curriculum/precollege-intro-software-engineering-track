@@ -23,7 +23,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>9:15 - 10:30</td>
     <td>OO Review</td>
     <td>
-
+    <a href="https://github.com/learn-co-curriculum/oo-basics">Walkthrough: Object Oriented Basics</a>
     </td>
   </tr>
   <tr>
@@ -37,7 +37,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>11:00 - 12:00</td>
     <td>Start Group Lab</td>
     <td>
-       
+      <a href="lectures/object-oriented-group-project">Lecture: Object Oriented Group Project</a></br>
+		 	<a href="https://github.com/learn-co-curriculum/hs-oo-cash-register">Lab: Cash Register</a>
     </td>
   </tr>
   <tr>
@@ -51,21 +52,24 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>1:00 - 2:50</td>
     <td>Finish Group Lab - Present to Class</td>
     <td>
-       
+       <a href="https://github.com/learn-co-curriculum/oo-jukebox">Lab: OO Jukebox</a>
    	</td>
   </tr>
   <tr>
     <td>2:50 - 3:00</td>
     <td>Wrap Up</td>
     <td>
-       
+       Tell kids they are awesome.</br>
+
+	     <a href="https://github.com/learn-co-curriculum/hs-intro-ruby-code-challenge-6">Code Challenge: Batman</a>
    	</td>
   </tr>
 
 </table>
 
-Day 6 - OO Group Project+
+## Resources
 
 
-1:00 - 2:50 Finish Group Lab - present to class
-2:50 - 3:00 Wrap Up
+## Lectures
+
+- [Object Oriented Group Project](lectures/object-orientated-group-project)
