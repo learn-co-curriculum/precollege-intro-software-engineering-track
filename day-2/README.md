@@ -36,7 +36,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>10:00 - 12:00</td>
+        <td>10:00 - 11:30</td>
         <td>Ruby Methods</td>
         <td>
             <a href="lectures/ruby-methods">Lecture: Ruby Methods</a></br>
@@ -56,13 +56,13 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>12:00 - 1:00</td>
+        <td>11:30 - 12:30</td>
         <td>Lunch</td>
         <td>
         </td>
     </tr>
     <tr>
-        <td>1:00 - 1:30</td>
+        <td>12:30 - 1:30</td>
         <td>Ruby Labs</td>
         <td>
             Keep working on Methods Labs from earlier
