@@ -36,7 +36,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>11:00 - 12:00</td>
+        <td>11:00 - 11:40</td>
         <td>If/Else Statements</td>
         <td>
           <a href="lectures/if-else-statements">Lecture: If/Else Statements</a></br>
@@ -46,13 +46,13 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>12:00 - 1:00</td>
+        <td>11:40 - 12:40</td>
         <td>Lunch</td>
         <td>
         </td>
     </tr>
     <tr>
-        <td>1:00 - 2:50</td>
+        <td>12:40 - 2:50</td>
         <td>Group Project - Ruby Calculator</td>
         <td>
             <a href="https://github.com/learn-co-curriculum/hs-ruby1-teachers-guide-calculator-project">Introduce the Ruby Calculator Project</a></br>
