@@ -16,9 +16,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>
             <a href="https://docs.google.com/presentation/d/1XFklyQuHRVgEgERYsHcyhIniOL3kewq6-Ajjp5HiPt4/edit#slide=id.p">Day 3 Deck</a></br>
 
-            <a href="https://github.com/learn-co-curriculum/hs-leap-year-todo">Leap Years</a></br>
+            <a href="https://github.com/learn-co-curriculum/hs-leap-year-todo">To-Do: Leap Years</a></br>
 
-            <a href="https://github.com/learn-co-curriculum/hs-data-structures-to-do">Crazy Strings</a>
+            <a href="https://github.com/learn-co-curriculum/hs-data-structures-to-do">To-Do: Crazy Strings</a>
         </td>
     </tr>
     <td>9:15 - 10:30</td>
@@ -50,7 +50,11 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         	
         	<a href="https://github.com/learn-co-curriculum/hs-array-iteration-mini-lab">Interactive Practice II: Iteration</a></br>
         	
-        	<a href="https://github.com/learn-co-curriculum/hs-elective-arrays-lab">Lab: Elective Arrays</a>
+        	<a href="https://github.com/learn-co-curriculum/hs-elective-arrays-lab">Lab: Elective Arrays</a></br>
+
+            <a href="https://github.com/learn-co-curriculum/hs-ruby-binary-stretch-lab">Stretch Lab: Ruby Binary Conversion</a></br>
+
+            <a href="https://github.com/learn-co-curriculum/my-each">Stretch Lab: Creating Your Own .each</a>
         </td>
     </tr>
     <tr>
@@ -69,7 +73,11 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 
            <a href="https://github.com/learn-co-curriculum/hs-nested-data-structures-mini-lab">Interactive Practice IV: Nested Data Structures</a></br>
            
-           <a href="https://github.com/learn-co-curriculum/hs_recipe_hash_lab">Lab: Recipe Hash</a>
+           <a href="https://github.com/learn-co-curriculum/hs_recipe_hash_lab">Lab: Recipe Hash</a></br>
+
+            <a href="https://github.com/learn-co-curriculum/hashketball">Stretch Lab: Hashketball</a></br>
+
+            <a href="https://github.com/learn-co-curriculum/apples-and-holidays">Stretch Lab: Apples and Holidays</a></br>
         </td>
     </tr>
     <tr>
@@ -77,13 +85,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>Labs</td>
         <td>
         	Keep working on Labs</br>
-          <a href="https://github.com/learn-co-curriculum/hs-ruby-binary-stretch-lab">Stretch Lab: Ruby Binary Conversion</a></br>
-          
-          <a href="https://github.com/learn-co-curriculum/apples-and-holidays">Stretch Lab: Apples and Holidays</a></br>
-          
-          <a href="https://github.com/learn-co-curriculum/hashketball">Stretch Lab: Hashketball</a></br>
-           
-          <a href="https://github.com/learn-co-curriculum/my-each">Stretch Lab: Creating Your Own .each</a>
         </td>
     </tr>
     <tr>
