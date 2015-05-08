@@ -85,7 +85,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 
        <a href="https://github.com/learn-co-curriculum/hs-post-class-survey">Micro Feedback</a></br>
 
-	     <a href="https://github.com/learn-co-curriculum/hs-intro-ruby-code-challenge-6">Code Challenge: Batman</a>
+	     <a href="https://github.com/learn-co-curriculum/hs-spotify-code-challenge">Code Challenge: Spotify</a>
    	</td>
   </tr>
 </table>
