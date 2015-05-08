@@ -17,7 +17,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>
         <a href="https://docs.google.com/presentation/d/1QtA-vrZUxAFszcRta9kCW1Xk6rRnO7-Qe2PYdu9kYxc/edit#slide=id.g497b61ce2_018">Day 5 Deck</a></br>
 
-        <a href="https://github.com/learn-co-curriculum/hs-more-methods-todo">More Methods</a>
+        <a href="https://github.com/learn-co-curriculum/hs-more-methods-todo">To-Do: More Methods</a>
     </td>
   </tr>
   <tr>
@@ -32,17 +32,18 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
    <tr>
 		 <td>11:00 - 11:30</td>
 		 <td>Improv</td>
-		 <td>
-
-		 </td>
+		 <td></td>
    </tr>
    <tr>
 		 <td>11:30 - 12:00</td>
 		 <td>More OO</td>
 		 <td>
 		 	<a href="lectures/object-orientation">Lecture: Object Orientation</a></br>
-		  	Lab Links Here
-		 </td>
+		 	<a href="https://github.com/learn-co-curriculum/hs-basic-objects-mini-lab">Interactive Practice: Basic Objects</a></br>
+		 	<a href="https://github.com/learn-co-curriculum/hs-oo-existing-classes-mini-lab">Interactive Practice II: Reopening Existing Classes</a></br>
+		 	<a href="https://github.com/learn-co-curriculum/hs-detention-oo-lab">Lab: Detention</a></br>
+		 	<a href="https://github.com/learn-co-curriculum/hs-my-pets-oo-lab">Lab: My Pets</a></br>
+			</td>
    	</tr>
    	<tr>
    		<td>12:00 - 1:00</td>
@@ -53,8 +54,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
      	<td>1:00 - 2:50</td>
       <td>Garden Gnome Lab</td>
 	  		<td>
-	        Introduce the Ruby Calculator Project</br>
-	        <a href="">Lab: Garden Gnomre</a>
+	        <a href="https://github.com/learn-co-curriculum/hs-garden-gnome-oo-lab">Lab: Garden Gnome</a>
 	    </td>
     </tr>
     <tr>
