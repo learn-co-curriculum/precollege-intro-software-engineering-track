@@ -27,14 +27,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </td>
   </tr>
   <tr>
-    <td>10:30 - 11:00</td>
-    <td>Improv</td>
-    <td>
-       <a href="https://github.com/learn-co-curriculum/tf-improv-games">Improv Games</a>
-    </td>
-  </tr>
-  <tr>
-    <td>11:00 - 12:00</td>
+    <td>10:30 - 11:30</td>
     <td>Start Group Lab</td>
     <td>
       <a href="lectures/object-oriented-group-project">Lecture: Object Oriented Group Project</a></br>
@@ -42,11 +35,18 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </td>
   </tr>
   <tr>
-    <td>12:00 - 1:00</td>
+    <td>11:30 - 12:30</td>
     <td>Lunch</td>
     <td>
        
    	</td>
+  </tr>
+  <tr>
+    <td>12:30 - 1:00</td>
+    <td>Improv</td>
+    <td>
+       <a href="https://github.com/learn-co-curriculum/tf-improv-games">Improv Games</a>
+    </td>
   </tr>
   <tr>
     <td>1:00 - 2:50</td>
