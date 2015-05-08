@@ -51,6 +51,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 
             <a href="https://github.com/learn-co-curriculum/hs-speaking-grandma-lab">Lab: Speaking Grandma</a></br>
 
+            <a href="https://github.com/learn-co-curriculum/hs-mario-stretch-lab">Stretch Lab: Mario</a>
+
         </td>
     </tr>
     <tr>
@@ -78,8 +80,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>Labs</td>
         <td>
             Keep working on Methods Labs</br>
-
-            <a href="https://github.com/learn-co-curriculum/hs-mario-stretch-lab">Stretch Lab: Mario</a></br>
         </td>
     </tr>
     <tr>
