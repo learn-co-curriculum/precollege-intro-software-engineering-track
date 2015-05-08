@@ -19,15 +19,6 @@ Here you'll find:
 ### [Day 4 - Arrays and Hashes](day-4/README.md)
 
 ### [Day 5 - Object Orientation](day-5/README.md)
-+ 9 - 10:00 ToDo - Ruby Jeopardy
-+ 10:00 - 11:00 Intro to OO
-+ 11:00 - 11:30 Improv
-+ 11:30 - 12:00 More OO
-+ 12:00 - 1:00 Lunch
-+ 1:00 - 2:50 Garden Gnome Lab
-+ 2:50 - 3:00 Wrap Up
-
-[Lesson Plan](https://docs.google.com/a/flatironschool.com/document/d/1RJ4jahKT-iFfnUMEw1D0Cnud7k0ZF1aTtV7uHyXAklA/edit)
 
 
 **Day 6 - OO Group Project**+
