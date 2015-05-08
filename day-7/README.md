@@ -41,6 +41,11 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     	<a href="https://github.com/learn-co-curriculum/hs-zhw-shoes-layout">Lab: ZHW Shoes</a></br>
     	<a href="https://github.com/learn-co-curriculum/css-issue-bot-9000">Lab: CSS Issue Bot 9000</a></br>
     	<a href="https://github.com/learn-co-curriculum/animal-save">Stretch Lab: Animal Save</a></br>
+    	<a href="https://github.com/learn-co-curriculum/hs-responsive-web-design-stretch">Stretch Lab: Responsive Web Design</a></br>
+    	<a href="https://github.com/learn-co-curriculum/fe-concentration-game">Stretch Lab: Concentration Game</a></br>
+    	<a href="https://github.com/learn-co-curriculum/ecard-site-layout">Stretch Lab: eCard</a></br>
+    	<a href="https://github.com/learn-co-curriculum/fe-jquery-exploring-selectors">Stretch Lab: jQuery Selectors</a></br>
+    	<a href="https://github.com/learn-co-curriculum/fe-jquery-exploring-methods">Stretch Lab: jQuery Methods</a></br>
 
     </td>
   </tr>
