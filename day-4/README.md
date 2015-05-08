@@ -16,9 +16,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>
             <a href="https://docs.google.com/presentation/d/1qCYRks3hYRcXla9FNjf7zIljL9c3hZucpa6OBM2HJnY/edit#slide=id.p">Day 4 Deck</a></br>
 
-            <a href="https://github.com/learn-co-curriculum/hs-arrays-hashes-todo">Arrays and Hashes</a></br>
+            <a href="https://github.com/learn-co-curriculum/hs-arrays-hashes-todo">To-Do: Arrays and Hashes</a></br>
 
-            <a href="https://github.com/learn-co-curriculum/hs-if-else-todo">If Else</a>
+            <a href="https://github.com/learn-co-curriculum/hs-if-else-todo">To-Do: If Else</a>
         </td>
     </tr>
     <tr>
