@@ -24,18 +24,9 @@ Here you'll find:
 
 ### [Day 7 - HTML and CSS](day-7/README.md)
 
-**Day 8 - MVC + Ideation**
-+ 9 - 9:15 ToDo
-+ 9:15 - 10:30 MVC
-+ 10:30 - 11:00 Improv
-+ 11:00 - 12:00 MVC
-+ 12:00 - 1:00 Lunch
-+ 1:00 - 2:50 Ideation and Project Review
-+ 2:50 - 3:00 Wrap Up
+### [Day 8 - MVC and Ideation](day-8/README.md)
 
-Lesson Plans
-[MVC](https://docs.google.com/a/flatironschool.com/document/d/1MUWXzm2O7UQINZqkEBRoVYivPjDbKySYLqNgcEOrDeM/edit)
-[Ideation](https://docs.google.com/a/flatironschool.com/document/d/17nLZH_dYm30km0pbiL64-gxJhZrlqO-VF04gTzfN4ok/edit)
+
 
 
 Bonus Modules:
