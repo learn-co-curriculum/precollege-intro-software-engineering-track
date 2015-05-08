@@ -47,7 +47,12 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 		 </td>
    </tr>
    <tr>
-		 <td>11:30 - 12:00</td>
+      <td>11:30 - 12:30</td>
+      <td>Lunch</td>
+      <td></td>
+    </tr>
+   <tr>
+		 <td>12:30 - 1:00</td>
 		 <td>More OO</td>
 		 <td>
 		 	<a href="lectures/object-orientation">Lecture: Object Orientation</a></br>
@@ -56,11 +61,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 		 	<a href="https://github.com/learn-co-curriculum/hs-oo-stretch-challenges-lab">Stretch Lab: More Stretch Challenges</a>
 			</td>
    	</tr>
-   	<tr>
-   		<td>12:00 - 1:00</td>
-      <td>Lunch</td>
-      <td></td>
-    </tr>
+   	
     <tr>
      	<td>1:00 - 2:50</td>
       <td>More Labs</td>
