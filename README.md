@@ -22,30 +22,7 @@ Here you'll find:
 
 ### [Day 6 - OO Group Project](day-6/README.md)
 
-+ 9 - 9:15 ToDo
-+ 9:15 - 10:30 OO Review a
-+ 10:30 - 11:00 Improv
-+ 11:00 - 12:00 Start Group Lab
-+ 12:00 - 1:00 Lunch
-+ 1:00 - 2:50 Finish Group Lab - present to class
-+ 2:50 - 3:00 Wrap Up
-
-[Lesson Plan](https://docs.google.com/a/flatironschool.com/document/d/1YA0fPctqq2PdkEgV454kVCOKn2FHsyVit9utqNSuz6A/edit)
-
-
-**Day 7 - HTML/CSS**
-+ 9 - 9:15 ToDo
-+ 9:15 - 11:00 Intro to HTML/CSS
-+ 11:00 - 11:30 Improv
-+ 11:30 - 12:00 Intro to Group Project
-+ 12:00 - 1:00 Lunch
-+ 1:00 - 2:50 Group Project - Choose Your Own Adventure
-+ 2:50 - 3:00 Wrap Up
-
-Lesson Plans
-[HTML/CSS](https://docs.google.com/a/flatironschool.com/document/d/1S1_IrnxaMq82v8ze3ixxSRuByB3EnKaj6ZvH6OT_IaQ/edit)
-[Group Project](https://docs.google.com/a/flatironschool.com/document/d/16INiSdyUbd2zRx_fGZQOX7hs5zR6O12WU9gCr-hpj0g/edit)
-
+### [Day 7 - HTML and CSS](day-7/README.md)
 
 **Day 8 - MVC + Ideation**
 + 9 - 9:15 ToDo

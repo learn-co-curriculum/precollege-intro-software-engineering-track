@@ -74,7 +74,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>1:00 - 2:50</td>
     <td>Group Project - Choose Your Own Adventure</td>
     <td>
-
+    <a href="https://github.com/learn-co-curriculum/Hs-Html-Css-Group-Project">Lab: Choose Your Own Adventure</a>
    </td>
   </tr>
   <tr>
@@ -95,12 +95,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 
 ## Lectures
 
-- [Object Oriented Group Project](lectures/object-orientated-group-project)
-
-9 - 9:15 ToDo
-9:15 - 11:00 Intro to HTML/CSS
-11:00 - 11:30 Improv
-11:30 - 12:00 Intro to Group Project
-12:00 - 1:00 Lunch
-1:00 - 2:50 Group Project - Choose Your Own Adventure
-2:50 - 3:00 Wrap Up
+- [HTML](lectures/html)
+- [CSS](lectures/css)
+- [Group Project Introduction](lectures/group-project-introduction)
