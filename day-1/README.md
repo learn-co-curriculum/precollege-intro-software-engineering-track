@@ -35,7 +35,14 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>11:30 - 12:00</td>
+        <td>11:30 - 12:30</td>
+        <td>Lunch</td>
+        <td>
+            <p>Order Pizza</p>
+        </td>
+    </tr>
+    <tr>
+        <td>12:30 - 1:30</td>
         <td>Intro to Ruby</td>
         <td>
             <a href="lectures/intro-to-ruby">Lecture: Intro to Ruby</a></br>
@@ -47,14 +54,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>12:00 - 1:00</td>
-        <td>Lunch</td>
-        <td>
-            <p>Order Pizza</p>
-        </td>
-    </tr>
-    <tr>
-        <td>1:00 - 2:50</td>
+        <td>1:30 - 2:50</td>
         <td>Ruby Labs</td>
         <td>
             Keep working on Ruby Labs from earlier
