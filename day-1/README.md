@@ -24,6 +24,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
             <a href="lectures/intro-to-command-line">Lecture: Intro to the Command Line</a></br>
             
             <a href="https://github.com/learn-co-curriculum/find-missing-pet">Lab: Find the Missing Pet</a>
+            <a href="https://github.com/learn-co-curriculum/hs-advanced-cli">Stretch Lab: Bash Script</a>
         </td>
     </tr>
     <tr>
@@ -42,6 +43,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
             <a href="https://github.com/learn-co-curriculum/hs-variables-mini-lab">Lab: Interactive Practice II - Variables</a></br>
             <a href="https://github.com/learn-co-curriculum/hs-user-input-mini-lab">Lab: User Input</a></br>
             <a href="https://github.com/learn-co-curriculum/hs-invitation-maker-lab">Lab: Invitation Maker</a>
+            <a href="https://github.com/learn-co-curriculum/hs-phone-number-formatter">Stretch Lab: Phone Number Formatter</a>
         </td>
     </tr>
     <tr>
