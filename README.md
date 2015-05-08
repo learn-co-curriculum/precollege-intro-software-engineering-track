@@ -16,7 +16,7 @@ Here you'll find:
 
 ### [Day 3 - Arrays and Hashes](day-3/README.md)
 
-### [Day 4 - Arrays and Hashes](day-4/README.md)
+### [Day 4 - If/Else Statements](day-4/README.md)
 
 ### [Day 5 - Object Orientation](day-5/README.md)
 
