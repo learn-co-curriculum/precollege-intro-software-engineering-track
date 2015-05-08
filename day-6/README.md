@@ -49,7 +49,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </td>
   </tr>
   <tr>
-    <td>1:00 - 2:50</td>
+    <td>1:00 - 2:20</td>
     <td>Finish Group Lab</td>
     <td>
        <a href="https://github.com/learn-co-curriculum/oo-jukebox">Stretch Lab: OO Jukebox</a>
