@@ -34,14 +34,14 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>10:30 - 11:00</td>
-        <td>Improv</td>
+        <td>10:30 - 10:35</td>
+        <td>Take a break</td>
         <td>
-            <a href="https://github.com/learn-co-curriculum/tf-improv-games">Improv Games</a>
+            TDD is hard - make sure to take a break afterwards!
         </td>
     </tr>
     <tr>
-        <td>11:00 - 12:00</td>
+        <td>10:35 - 11:30</td>
         <td>Intro to Arrays</td>
         <td>
         	<a href="lectures/data-structures">Lecture: Intro to Arrays</a></br>
@@ -58,9 +58,16 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>12:00 - 1:00</td>
+        <td>11:30 - 12:30</td>
         <td>Lunch</td>
         <td>
+        </td>
+    </tr>
+    <tr>
+        <td>12:30 - 1:30</td>
+        <td>Improv</td>
+        <td>
+            <a href="https://github.com/learn-co-curriculum/tf-improv-games">Improv Games</a>
         </td>
     </tr>
     <tr>
