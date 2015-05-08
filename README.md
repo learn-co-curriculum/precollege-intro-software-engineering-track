@@ -20,8 +20,8 @@ Here you'll find:
 
 ### [Day 5 - Object Orientation](day-5/README.md)
 
+### [Day 6 - OO Group Project](day-6/README.md)
 
-**Day 6 - OO Group Project**+
 + 9 - 9:15 ToDo
 + 9:15 - 10:30 OO Review a
 + 10:30 - 11:00 Improv
