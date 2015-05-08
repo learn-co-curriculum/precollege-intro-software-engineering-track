@@ -20,24 +20,11 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </td>
   </tr>
   <tr>
-    <td>9:15 - 10:30</td>
+    <td>9:15 - 11:30</td>
     <td>MVC</td>
     <td>
     	<a href="lectures/mvc">Lecture: MVC</a></br>
-    </td>
-  </tr>
-  <tr>
-    <td>10:30 - 11:00</td>
-    <td>Improv</td>
-    <td>
-       <a href="https://github.com/learn-co-curriculum/tf-improv-games">Improv Games</a>
-    </td>
-  </tr>
-  <tr>
-    <td>11:00 - 11:30</td>
-    <td>MVC</td>
-    <td>
-    	<a href="lectures/mvc">Lecture: MVC</a></br>
+    	<a href="https://github.com/learn-co-curriculum/hs-mvc-interactive-practice">Interactive Practice: MVC Framework</a>
     </td>
   </tr>
   <tr>
@@ -72,17 +59,5 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 
 ## Lectures
 
-- [HTML](lectures/html)
-- [CSS](lectures/css)
-- [Group Project Introduction](lectures/group-project-introduction)
-
-
-Day 8 - MVC + Ideation
-
-
-9:15 - 10:30 MVC
-10:30 - 11:00 Improv
-11:00 - 12:00 MVC
-12:00 - 1:00 Lunch
-1:00 - 2:50 Ideation and Project Review
-2:50 - 3:00 Wrap Up
+- [MVC](lectures/mvc)
+- [Ideation](lectures/ideation)
