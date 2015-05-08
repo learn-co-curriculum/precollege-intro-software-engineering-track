@@ -71,8 +71,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 	    <td>Wrap Up</td>
 	    <td>
 	        Tell kids they are awesome.</br>
-
-	        <a href="https://github.com/learn-co-curriculum/hs-post-class-survey">Micro Feedback</a></br>
 	        
 	        <a href="https://github.com/learn-co-curriculum/hs-mid-course-survey">Mid Course Survey</a></br>
 
