@@ -50,10 +50,16 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
   </tr>
   <tr>
     <td>1:00 - 2:50</td>
-    <td>Finish Group Lab - Present to Class</td>
+    <td>Finish Group Lab</td>
     <td>
-       <a href="https://github.com/learn-co-curriculum/oo-jukebox">Lab: OO Jukebox</a>
+       <a href="https://github.com/learn-co-curriculum/oo-jukebox">Stretch Lab: OO Jukebox</a>
    	</td>
+  </tr>
+   <tr>
+    <td>2:20 - 2:50</td>
+    <td>Present to Class</td>
+    <td>
+   </td>
   </tr>
   <tr>
     <td>2:50 - 3:00</td>
