@@ -23,14 +23,25 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>9:15 - 11:00</td>
     <td>Intro to HTML/CSS</td>
     <td>
-    	<a href="lectures/html">Lecture: HTML</a>
-    	<a href="lectures/css">Lecture: CSS</a>
+    	<a href="lectures/html">Lecture: HTML</a></br>
+    	<a href="lectures/css">Lecture: CSS</a></br>
+    	<a href="https://github.com/learn-co-curriculum/css-walkthrough-hs">Walkthrough: CSS</a></br>
+    	HTML Labs</br>
     	<a href="https://github.com/learn-co-curriculum/hs-tourism-website-lab">Lab: Tourism</a></br>
     	<a href="https://github.com/learn-co-curriculum/html-playground">Lab: HTML Playground</a></br>
     	<a href="https://github.com/learn-co-curriculum/hs-album-cover">Lab: Album Cover</a></br>
     	<a href="https://github.com/learn-co-curriculum/dev-tools-super-power">Lab: Dev Tools Super Power</a></br>
     	<a href="https://github.com/learn-co-curriculum/fe-riyadh-blog">Lab: Riyadh Blog</a></br>
     	<a href="https://github.com/learn-co-curriculum/html-issue-bot-9000">Lab: HTML Issue Bot 9000</a></br>
+    	CSS Labs</br>
+    	<a href="https://github.com/learn-co-curriculum/hs-empire-state-css-challenge">Lab: Empire State CSS Challenge</a></br>
+    	<a href="https://github.com/learn-co-curriculum/hs-my-little-rainbow">Lab: My Little Rainbow</a></br>
+    	<a href="https://github.com/learn-co-curriculum/hs-css-graffiti-override">Lab: Grafitti Override</a></br>
+    	<a href="https://github.com/learn-co-curriculum/hs-zetsy">Lab: Zetsy</a></br>
+    	<a href="https://github.com/learn-co-curriculum/hs-zhw-shoes-layout">Lab: ZHW Shoes</a></br>
+    	<a href="https://github.com/learn-co-curriculum/css-issue-bot-9000">Lab: CSS Issue Bot 9000</a></br>
+    	<a href="https://github.com/learn-co-curriculum/animal-save">Stretch Lab: Animal Save</a></br>
+
     </td>
   </tr>
   <tr>
