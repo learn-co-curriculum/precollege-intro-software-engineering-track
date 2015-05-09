@@ -7,7 +7,7 @@
 + Organize sections of HTML with div tags
 
 ### Motivation / Why Should You Care?
-+ Start with an altered Tweet from a celebrity, which you've changed using Chrome's Developer Tools. For exmaple, you can have Justin Bieber tweet: “I love Flatiron School and coding SO SO much!” Tell students they'll know how to do that by the end of the lesson.
++ Start with an altered Tweet from a celebrity, which you've changed using Chrome's Developer Tools. For exmaple, you can have Justin Bieber tweet: “I love Flatiron School and coding SO SO much!,” or President Obama, "I am Barack Obama and I approve the Flatiron School." Tell students they'll know how to do that by the end of the lesson.
 + So far we've learned only about backend languages, Ruby in particular. How do we control what we see, though? That's where front-end programming comes in!
 + Ask students for their favorite websites and bring it up on the screen and click `view source`.
   + Students can go to a website of their choice on their own computers and right click and see the source code.
