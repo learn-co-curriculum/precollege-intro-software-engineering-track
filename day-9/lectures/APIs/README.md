@@ -29,15 +29,14 @@ auth_token: cb1dd832eda91ea39319fe6827f1650b
   * Now we have access to all the methods in the gem.
 + Setup Work:
 ```ruby
-require 'rubygems' # not necessary with ruby 1.9 but included for completeness
 require 'twilio-ruby'
 
-# put your own credentials here
 account_sid = 'ACed3ed813257f8acedfce46a695216257'
 auth_token = 'cb1dd832eda91ea39319fe6827f1650b'
 
-# set up a client to talk to the Twilio REST API
+
 @client = Twilio::REST::Client.new(account_sid, auth_token)
+```
 
   * Typically when you use an app, you have to enter a username and password to log in. The `account_sid` and `auth_token` are the information Twilio needs to programmatically log us into our account
   * Twillio::Rest::Client are classes defined in the twilio-ruby gem.
