@@ -26,7 +26,7 @@ Here you'll find:
 
 ### [Day 8 - MVC and Ideation](day-8/README.md)
 
-
+### [Day 9 - APIs](day-9/README.md)
 
 
 Bonus Modules:
