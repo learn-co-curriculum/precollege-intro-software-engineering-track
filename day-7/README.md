@@ -23,8 +23,10 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>9:15 - 11:00</td>
     <td>Intro to HTML/CSS</td>
     <td>
-    	<a href="lectures/html">Lecture: HTML</a></br>
-    	<a href="lectures/css">Lecture: CSS</a></br>
+    	<a href="lectures/html/LECTURE.md">Lecture: HTML</a></br>
+      <a href="lectures/html">Lecture Notes</a></br>
+    	<a href="lectures/css/LECTURE.md">Lecture: CSS</a></br>
+      <a href="lectures/css/LECTURE.md">Lecture Notes</a></br>
     	<a href="https://github.com/learn-co-curriculum/css-walkthrough-hs">Walkthrough: CSS</a></br>
     	HTML Labs</br>
     	<a href="https://github.com/learn-co-curriculum/hs-tourism-website-lab">Lab: Tourism</a></br>
@@ -89,9 +91,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
    	</td>
   </tr>
 </table>
-
-## Resources
-
 
 ## Lectures
 

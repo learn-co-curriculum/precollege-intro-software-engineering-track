@@ -1,7 +1,5 @@
 ## DAY-04 Data Structure Review
 
-_A full lecture is available [here](LECTURE.md)_
-
 ### Motivation / Why Should You Care?
 + Sometimes it takes a bit of repetition for a concept to click. Coding is like any new skill you might pick up -- the more you do it, the better you get at it. Last unit we covered arrays and hashes. Let's review what we learned.
 
@@ -136,9 +134,9 @@ end
   + How do we pull individual items out if this is the case?
 ```ruby
 school_subjects = [
-	["algebra", "geometry", "trigonometry"],
-	["physics", "biology", "chemistry"],
-	["European history", "world civilizations", "U.S. history"]
+  ["algebra", "geometry", "trigonometry"],
+  ["physics", "biology", "chemistry"],
+  ["European history", "world civilizations", "U.S. history"]
 ]
 ```
   * Algebra"
@@ -153,9 +151,9 @@ school_subjects = [
   + Convert `school_subjects` to a hash.
 ```ruby
  school_subjects = {
-	:math => ["algebra", "geometry", "trigonometry"],
-	:science => ["physics", "biology", "chemistry"],
-	:social_studies => ["European history", "world civilizations", "U.S. history"]
+  :math => ["algebra", "geometry", "trigonometry"],
+  :science => ["physics", "biology", "chemistry"],
+  :social_studies => ["European history", "world civilizations", "U.S. history"]
 }
 ```
   + Now how do I access `"biology"`?

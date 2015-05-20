@@ -1,4 +1,4 @@
-## Unit 8: Ideation - Lecture Notes
+## DAY-08 Ideation 
 
 ### SWBATs
 + Understand the brainstorming and design process and decide on an idea for their final project.

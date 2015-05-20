@@ -1,4 +1,6 @@
-## Unit 1: Introduction to Ruby - Lecture Notes
+## DAY-01 Introduction to Ruby 
+
+_A full lecture is available [here](LECTURE.md)_
 
 ### SWBATs
 + Use Ruby’s basic data types to make a simple command line application that manipulates data.

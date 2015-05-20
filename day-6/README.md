@@ -23,7 +23,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>9:15 - 10:30</td>
     <td>OO Review</td>
     <td>
-    <a href="lectures/oo-review/README.md">OO Review</a>
+    <a href="lectures/oo-review/LECTURE.md">Lecture: OO Review</a></br>
+    <a href="lectures/oo-review">Lecture Notes</a></br>
     </td>
   </tr>
   <tr>

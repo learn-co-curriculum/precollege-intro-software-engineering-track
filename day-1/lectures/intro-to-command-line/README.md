@@ -1,4 +1,6 @@
-## Unit 1: Command Line - Lecture Notes
+## DAY-01 Command Line
+
+_A full lecture is available [here](LECTURE.md)_
 
 ### SWBATs
 ***Students will be able to navigate their system’s file structure using the command line in terminal.***

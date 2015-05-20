@@ -1,4 +1,4 @@
-## Unit 7: HTML/CSS Group Project - Lecture Notes
+## DAY-07 HTML/CSS Group Project 
 
 ### SWBATs
 + Build a multi-page Choose Your Own Adventure game website

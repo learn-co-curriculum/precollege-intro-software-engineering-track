@@ -24,7 +24,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>9:15 - 10:30</td>
         <td>Test Driven Development</td>
         <td>
-           <a href="lectures/test-driven-development">Lecture: Test Driven Development</a></br>
+           <a href="lectures/test-driven-development/LECTURE.md">Lecture: Test Driven Development</a></br>
+           <a href="lectures/test-driven-development">Lecture Notes</a></br>
            
            <a href="https://github.com/learn-co-curriculum/hs-setup-homebrew-rvm">Setup: RSpec and Learn Gems</a></br>
 
@@ -44,7 +45,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>10:35 - 11:30</td>
         <td>Intro to Arrays</td>
         <td>
-        	<a href="lectures/data-structures">Lecture: Intro to Arrays</a></br>
+        	<a href="lectures/arrays/LECTURE.md">Lecture: Intro to Arrays</a></br>
+            <a href="lectures/arrays">Lecture Notes</a></br>
         	
         	<a href="https://github.com/learn-co-curriculum/hs-manipulating-arrays-mini-lab">Interactive Practice: Arrays</a></br>
         	
@@ -74,7 +76,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>1:00 - 2:00</td>
         <td>Intro to Hashes</td>
         <td>
-           <a href="lectures/data-structures">Lecture: Intro to Hashes</a></br>
+           <a href="lectures/hashes/LECTURE.md">Lecture: Intro to Hashes</a></br>
+           <a href="lectures/hashes">Lecture Notes</a></br>
 
            <a href="https://github.com/learn-co-curriculum/hs-array-iteration-mini-lab">Interactive Practice III: Hash Iteration</a></br>
 

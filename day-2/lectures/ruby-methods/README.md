@@ -1,4 +1,6 @@
-## Unit 2: Ruby Methods - Lecture Notes
+## DAY-02 Ruby Methods
+
+_A full lecture is available [here](LECTURE.md)_
 
 ### SWBATs
 + Look up pre-written Ruby methods, write their own methods, and understand the importance and function of scope and return values.

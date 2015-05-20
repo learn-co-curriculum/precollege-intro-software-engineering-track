@@ -1,4 +1,6 @@
-## Unit 3: Test-Driven Development - Lecture Notes
+## DAY-03 Test-Driven Development
+
+_A full lecture is available [here](LECTURE.md)_
 
 ### SWBATs
 + Understand the purpose of Test Driven Development and use it to solve challenges.

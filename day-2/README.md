@@ -24,8 +24,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>9:15 - 9:40</td>
         <td>Intro to Git</td>
         <td>
-            <a href="lectures/intro-to-git/README.md">Lecture: Intro to Git</a></br>
-
+            <a href="lectures/intro-to-git/LECTURE.md">Lecture: Intro to Git</a></br>
+            <a href="lectures/intro-to-git">Lecture Notes</a></br>
             <a href="https://github.com/learn-co-curriculum/hs-git-code-along-lab">Lab: Git Code Along</a></br>
 
         </td>
@@ -34,7 +34,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>9:40 - 11:30</td>
         <td>Ruby Methods</td>
         <td>
-            <a href="lectures/ruby-methods">Lecture: Ruby Methods</a></br>
+            <a href="lectures/ruby-methods/LECTURE.md">Lecture: Ruby Methods</a></br>
+            <a href="lectures/ruby-methods">Lecture Notes</a></br>
 
             <a href="https://github.com/learn-co-curriculum/hs-ruby-2-methods-practice-lab">Lab: Methods Practice</a></br>
 

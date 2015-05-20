@@ -1,4 +1,6 @@
-## Unit 4: Ruby Control Flow - Lecture Notes
+## DAY-04 Ruby Control Flow 
+
+_A full lecture is available [here](LECTURE.md)_
 
 ### SWBATs
 + Explain what an if statement is and why it’s used

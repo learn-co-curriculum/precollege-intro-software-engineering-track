@@ -1,4 +1,6 @@
-## Unit 5: Object Orientation - Lecture Notes
+## DAY-05 Object Orientation 
+
+_A full lecture is available [here](LECTURE.md)_
 
 ### SWBATs
 ***Students will be able to use and explain the function of objects to model real-life structures.***

@@ -1,4 +1,4 @@
-## Unit 6: Object Oriented Group Project - Lecture Notes
+## DAY-06 Object Oriented Group Project 
 
 ### SWBATs
 + Work collaboratively to develop an object-oriented set of models that simulate real world environments.

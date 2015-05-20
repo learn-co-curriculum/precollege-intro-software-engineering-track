@@ -1,4 +1,6 @@
-## Unit 3: Ruby Arrays - Lecture Notes
+## DAY-03 Ruby Arrays
+
+_A full lecture is available [here](LECTURE.md)_
 
 ### SWBATs
 + Use and manipulate Ruby arrays

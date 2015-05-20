@@ -28,8 +28,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>10:30 - 11:30</td>
         <td>Navigating the Command Line</td>
         <td>
-            <a href="lectures/intro-to-command-line">Lecture: Intro to the Command Line</a></br>
-            
+            <a href="lectures/intro-to-command-line/LECTURE.md">Lecture: Intro to the Command Line</a></br>
+            <a href="lectures/intro-to-command-line">Lecture Notes</a></br>
             <a href="https://github.com/learn-co-curriculum/find-missing-pet">Lab: Find the Missing Pet</a></br>
             <a href="https://github.com/learn-co-curriculum/hs-advanced-cli">Stretch Lab: Bash Script</a>
         </td>
@@ -45,7 +45,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>12:30 - 1:30</td>
         <td>Intro to Ruby</td>
         <td>
-            <a href="lectures/intro-to-ruby">Lecture: Intro to Ruby</a></br>
+            <a href="lectures/intro-to-ruby/LECTURE.md">Lecture: Intro to Ruby</a></br>
+            <a href="lectures/intro-to-ruby">Lecture Notes</a></br>
             <a href="https://github.com/learn-co-curriculum/hs-strings-mini-lab">Lab: Interactive Practice - Strings</a></br>
             <a href="https://github.com/learn-co-curriculum/hs-variables-mini-lab">Lab: Interactive Practice II - Variables</a></br>
             <a href="https://github.com/learn-co-curriculum/hs-user-input-mini-lab">Lab: User Input</a></br>

@@ -1,4 +1,4 @@
-## Unit 8: MVC - Lecture Notes
+## DAY-08 MVC 
 
 ### SWBATs
 + Understand and articulate the purpose of an MVC framework and begin building out their MVC final projects.

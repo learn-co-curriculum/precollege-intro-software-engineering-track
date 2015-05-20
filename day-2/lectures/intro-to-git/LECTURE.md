@@ -1,7 +1,5 @@
 ## DAY-02 Git and GitHub 
 
-_A full lecture is available [here](LECTURE.md)_
-
 ### SWBATs
 + Understand the purpose of GitHub and learn how to fork and clone repositories.
 

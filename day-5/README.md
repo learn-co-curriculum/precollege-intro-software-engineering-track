@@ -24,14 +24,16 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 	  <td>9:15 - 10:00</td>
 	  <td>Getting Your Code on Github</td>
 	  <td>
-	      <a href="lectures/github-and-git-ii">Lecture: Github and Git II</a>
+	      <a href="lectures/github-and-git-ii/LECTURE.md">Lecture: Github and Git II</a></br>
+        <a href="lectures/github-and-git-ii">Lecture Notes</a></br>
 	  </td>
    </tr>
   <tr>
 	  <td>10:00 - 11:30</td>
 	  <td>Intro to OO</td>
 	  <td>
-	      <a href="lectures/object-orientation">Lecture: Object Orientation</a></br>
+	      <a href="lectures/object-orientation/LECTURE.md">Lecture: Object Orientation</a></br>
+        <a href="lectures/object-orientation">Lecture Notes</a></br>
 	      <a href="https://github.com/learn-co-curriculum/hs-basic-objects-mini-lab">Interactive Practice: Basic Objects</a></br>
 		 		<a href="https://github.com/learn-co-curriculum/hs-oo-existing-classes-mini-lab">Interactive Practice II: Reopening Existing Classes</a></br>
 		 		<a href="https://github.com/learn-co-curriculum/hs-detention-oo-lab">Lab: Detention</a></br>

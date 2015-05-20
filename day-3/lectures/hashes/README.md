@@ -1,4 +1,6 @@
-## Unit 3: Ruby Hashes - Lecture Notes
+## DAY-03 Ruby Hashes
+
+_A full lecture is available [here](LECTURE.md)_
 
 ### SWBATs
 + Use and manipulate Ruby hashes
