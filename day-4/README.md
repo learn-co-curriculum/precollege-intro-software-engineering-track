@@ -74,3 +74,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
 </table>
 
+## SWBATS
+
++ Explain what an if statement is and why it’s used
++ Implement an if state with 1, 2, and 3+ branches
++ Implement the comparison operators
+

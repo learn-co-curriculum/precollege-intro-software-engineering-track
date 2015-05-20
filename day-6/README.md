@@ -75,8 +75,3 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
   </tr>
 
 </table>
-
-## Lectures
-- [OO Review](lectures/oo-review/README.md)
-
-- [Object Oriented Group Project](lectures/object-orientated-group-project)

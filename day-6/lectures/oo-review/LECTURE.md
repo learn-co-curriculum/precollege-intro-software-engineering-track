@@ -1,4 +1,4 @@
-##DAY-06 Let's Review OO
+## Let's Review OO - Full Lecture
 
 _A full lecture is available [here](LECTURE.md)_
 

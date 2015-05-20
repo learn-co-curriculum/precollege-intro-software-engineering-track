@@ -1,19 +1,21 @@
-## Ruby Control Flow - Full Lecture
+# Ruby Control Flow - Full Lecture
 
-### SWBATS
+## Objective
 ***Students will be able to use if-statements to automatically control the flow of their programs***
+
+## SWBATS
 
 + Explain what an if statement is and why it’s used
 + Implement an if state with 1, 2, and 3+ branches
 + Implement the comparison operators
 
 
-### Motivation
+## Motivation
 Let’s say we want our code to be event based so that an input triggers one flow and one specific output, as opposed to a different input, so that we’re not always manually calling all of our methods. For example, when the time is 12am, we get tired and go to bed. When the time is 10am, we’re awake.
 
 What if we’re going camping, and we need to make a list of everything to pack. We can create an array of our packing list. When you’re packing for camping, your packing list is really important. If you forget a raincoat and it rains, you’re going to be soaking. If you forget matches, you can’t cook any food over a fire. If you pack sunscreen, you won’t get sunburned. So how could we implement something like that in code? If statements! ***Has anyone used if statements in math? Can someone explain what it is in math?***
 
-### Lesson Plan 
+## Lesson Plan 
 We have if statements in Ruby. They start with the keyword `if`, and end with the keyword  `end`
   ```ruby
   	packing_list = [“socks”, “sleeping bag”, “trail mix”]
@@ -104,10 +106,10 @@ packing_list = [“socks”, “matches”, “trail mix”]
 + ***Students implement an if statement with > and < operators***
 
 
-### Conclusion 
+## Conclusion 
 + An if statement allows us to trigger events based on specific conditions.
 + Ruby is a lazy interpreter, meaning it will evaluate the code associated with the first line of the if statement that evaluates to true.
 
 
-### Hints and Hurdles
+## Hints and Hurdles
 + Students can struggle with the concept of boolean data types. That the word `true` in your program means the value true.
