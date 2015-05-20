@@ -1,6 +1,6 @@
 ## Ruby Control Flow - Full Lecture
 
-### SWABTS
+### SWBATS
 ***Students will be able to use if-statements to automatically control the flow of their programs***
 
 + Explain what an if statement is and why it’s used
