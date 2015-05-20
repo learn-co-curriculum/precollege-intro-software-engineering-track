@@ -35,51 +35,46 @@ steph = {
 }
 ```
 + It would take forever to build a hash for each Facebook user.
-  * Instead we can make a standardized template using and class.
+  * Instead we can make a standardized template using and class. Before we jump into building out Facebook, we're going to backtrack to a more simple example, let's make babies
 + Class Syntax:
 ```ruby
-  class User
+  class Baby
   end
 
-  steph = User.new
+  north_west = Baby.new
 ```
 + Define class and instance of a class - we created our class (blueprint) and an instance of a class above (actual user)
 + Objects have descriptors (attributes) and actions (methods)
   * List possible descriptors and actions for a Facebook user
-  * Descriptor: name, email, birthday, profile picture
-  * Actions: add a photo, comment, create a status
+  * Descriptor: name, hair_color, birthday, eye_color
+  * Actions: cry, eat, spit_up
 + Reader and writer methods: methods that allow us to assign a value to an attribute and get the value of that attribute
   * Define the reader and writer methods inside the user class
   * Start by using reallllly long reader and writer method names so that students get frustrated typing them over and over again.
   * Reader and writer methods are called on instances of a class
   * Name attribute writer method:
 ```ruby
-  def assign_user_name=(name)
+  def give_baby_name=(name)
     @name = name
   end
 
-  steph.assign_user_name("Stephanie")
+  north_west.give_baby_name("North West")
 ```
     * The `=` is part of the method name
-    * The method is called `assign_user_name=`
+    * The method is called `give_baby_name=`
     * This method accepts an argument, and the argument gets assigned as the value of the `@name` attribute (instance variable)
   * Name attribute reader method:
   ```ruby
-  def read_user_name
+  def ask_baby_name
     @name
   end
-  steph.read_user_name
+  north_west.ask_baby_name
   ```
     * Method returns the value of the `@name` variable
     
-+ Instance variables: is the attribute: `@name`, `@email`. This variable stores a different value for each instance of our class
++ Instance variables: is the attribute: `@name`, `eye_color`. This variable stores a different value for each instance of our class
 + Interactive Lab: (Basic Objects)[https://github.com/learn-co-curriculum/hs-basic-objects-mini-lab]
 + Initialize method:
-  * Let's create a baby class.
-```ruby
-  class Baby
-  end
-```
   * What's the one thing in movies or tv shows that you always want to have happen right when the baby is born.Like it's dramatic, the baby is coming early, the mother's health is bad, they're not sure the baby is going to live. What's the first sign that the baby is ok? It cries.
   * The initialize method is a set of instructions that happens at the moment of creation. Let's make our babies cry the moment they're born.
   ```ruby
@@ -93,6 +88,7 @@ steph = {
   suri = Baby.new
   princess_charlotte = Baby.new
   ```
+  * We don't ever call the initialize method works. every time we call `new`, the `initialize` method is automatically called.
   * Now, every time we create a new baby, it cries.
   * Have students add an initialize method to their interactive lab classes
   * Passing arguments to the initialize method
@@ -154,6 +150,39 @@ steph = {
     north_west.name
     ```
 + Create a functionality method called `cry` that makes the baby cry
++ Now let's build out a Facebook User class
+  * Ask students what attributes and actions they want to build out. 
+  * Below is a rough example of methods to build out for a Facebook user class
+  ```ruby
+    class User
+      def initialize(username, password)
+        @username = username
+        @password = password
+        @friend_count = 0
+        @pics = []
+      end
+
+      def username=(username)
+        @username = username
+      end
+
+      def username
+        @username
+      end
+
+      def upload_pic(picture)
+        @pics << picture
+      end
+
+      def birthday=(birthday)
+        @birthday = birthday
+      end
+
+      def birthday
+        @birthday
+      end
+    end
+    ```
 + Lab: [Garden Gnome](https://github.com/learn-co-curriculum/hs-garden-gnome-oo-lab)
 + Everything is an object
   * The string `"hi"` is actually `String.new("hi")`
@@ -177,37 +206,40 @@ steph = {
 ### Conclusion / So What?
 Object-oriented programming is powerful for a few main reasons. First of all, when you make an instance of a class, it is its own discrete object. If you make a change to that object, it won't affect any of your other code. This is called encapsulation. Second of all, OOP allows you to have many different methods with the same name that do the same job, but on different objects. This is called polymorphism, and it keeps your code DRY. Along with this, OOP allows you to write generic code (your blueprint!), which can be used over and over again without having to rewrite the same code. All these concepts make complex code much more reliable and easier to maintain and change.
 
+
+
 ### Hints and Hurdles
 + Instead of automatically naming reader and writer methods as we normally would, give them much more descriptive names at first like `tell_me_how_much_money_I_have` or `set_my_money_to`.
 + Use writers with () first when changing an attribute. Then show that we don't need them because Ruby is friendly - and that's why we are putting the = in the name of the writer method.
 ```ruby
-  class User
-    def initialize(username, password)
-      @username = username
-      @password = password
+  class Baby
+    def initialize(name, gender)
+      name = name
+      @gender = gender
     end
 
-    def username
-      @username
+    def name
+      @name
     end
 
-    def username=(username)
-      @username = username
+    def name=(name)
+      @name = name
     end
 
   end
 
-  steph = User.new("steph1031", "flatiron")
+  north_west = Baby.new("North West", "Female")
 
   # First show writer like this:
 
-  steph.username=("steph5000")
+  north_west.name=("North West")
 
   # Then explain that the above is the same as:
 
-  steph.username = "steph5000"
+  north_west.name = "North West"
 
 ```
 + Hit home that a writer is a statement ("Your name is John") and a reader is a question ("What is your name?")
 + Get students to understand that anything can be turned into a class with attributes and actions. Pick a bunch of different items and make them say the attributes and actions for those classes.
 + Wait to introduce attr_accessor until the next class so they can really dig their teeth into how reader and writer methods work.
++ The baby example works really well to explain to students how reader, writer and initialize methods work
