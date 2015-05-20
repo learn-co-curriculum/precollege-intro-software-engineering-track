@@ -1,6 +1,6 @@
-## Unit 3: Test-Driven Development - Full Lecture
+## Test-Driven Development - Full Lecture
 
-### SWABTS 
+### SWBATS 
 ***Students will be able to understand the purpose of and use Test Driven Development to solve challenges.***
 
 + GEMS - install a gem

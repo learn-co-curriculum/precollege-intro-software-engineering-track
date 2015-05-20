@@ -110,9 +110,3 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
 </table>
 
-
-## Lectures
-
-- [Test Driven Development](test-driven-development)
-- [Arrays](lectures/arrays)
-- [Hashes](lectures/hashes)

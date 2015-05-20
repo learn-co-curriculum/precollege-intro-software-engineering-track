@@ -1,6 +1,6 @@
-## Unit 3: Ruby Arrays - Full Lecture
+## Ruby Arrays - Full Lecture
 
-### SWABTS
+### SWBATS
 ***Students will be able use and manipulate Ruby arrays.***
 
 + Explain what an array is and why it's used

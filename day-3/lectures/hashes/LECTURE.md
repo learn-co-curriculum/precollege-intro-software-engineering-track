@@ -1,6 +1,6 @@
-## Unit 3: Ruby Hashes - Full Lecture
+## Ruby Hashes - Full Lecture
 
-### SWABTS
+### SWBATS
 ***Students will be able use and manipulate Ruby hashes.***
 
 + Explain what a hash is and why it's used
