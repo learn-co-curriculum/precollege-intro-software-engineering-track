@@ -1,9 +1,9 @@
-## Object Orientation - Full Lecture
+# Object Orientation - Full Lecture
 
-### Objective
+## Objective
 ***Students will be able to use and explain the function of objects to model real-life structures.***
 
-###SWBATs
+##SWBATs
 + Create a class
 + Explain what object orientation is and why we use it
 + Create an instance of a class
@@ -15,7 +15,7 @@ use correct syntax in naming classes
 + Convert scripted code into object oriented code
 
 
-### Motivation / Why Should You Care?
+## Motivation / Why Should You Care?
 Who knows how many people are on Facebook? Close to a quarter of the world is on Facebook (roughly 2 billion). What do you think the average number of friends a user has? What about the number of photos? How many likes happen in a day? We're talking about trillions of pieces of data that Facebook tracks and stores on huge tracks on land that they bought literally just to store all their data.
 
 When you log in, how does Facebook know to your data? Your exact profile and data loaded for you and you alone, and not someone else's? How does that work? How in the world are they able to do that for 2 billion users?
@@ -24,7 +24,7 @@ Object Orientation is a way to organize, manipulate and store data. It's so powe
 
 The answer is through a type of programming called object-oriented programming. It’s a way a building new objects (alien enemies, Sim people, cars, etc.) by making "factories" that standardize how the objects are made. Programmers don’t have to code every car in GTA individually, every Facebook account, or every Amazon payment. What they do is create a template for objects that can then be tailored without having to recreate all of the code for each new object. The same goes for applications like Facebook and Twitter.
 
-### Lesson Plan
+## Lesson Plan
 + Create an instance of a Facebook user with a hash
 ```ruby
 steph = {
@@ -208,7 +208,7 @@ Object-oriented programming is powerful for a few main reasons. First of all, wh
 
 
 
-### Hints and Hurdles
+## Hints and Hurdles
 + Instead of automatically naming reader and writer methods as we normally would, give them much more descriptive names at first like `tell_me_how_much_money_I_have` or `set_my_money_to`.
 + Use writers with () first when changing an attribute. Then show that we don't need them because Ruby is friendly - and that's why we are putting the = in the name of the writer method.
 ```ruby
