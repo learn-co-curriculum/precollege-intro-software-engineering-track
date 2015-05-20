@@ -50,7 +50,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 		 <td>12:30 - 1:00</td>
 		 <td>More OO</td>
 		 <td>
-		 	<a href="lectures/object-orientation">Lecture: Object Orientation</a></br>
+		 	<a href="lectures/object-orientation/LECTURE.md">Lecture: Object Orientation</a></br>
+      <a href="lectures/object-orientation">Lecture Notes</a></br>
 		 	<a href="https://github.com/learn-co-curriculum/hs-oo-stretch-labs">Stretch Lab: Ruby Monk Color Contrast</a></br>
 		 	<a href="https://github.com/learn-co-curriculum/hs-oo-banking">Stretch Lab: Object Oriented Banking</a></br>
 		 	<a href="https://github.com/learn-co-curriculum/hs-oo-stretch-challenges-lab">Stretch Lab: More Stretch Challenges</a>
@@ -77,8 +78,3 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
 </table>
 
-
-## Lectures
-
-- [Object Orientation](lectures/object-orientation)
-- [Github and Git II](lectures/github-and-git-ii)

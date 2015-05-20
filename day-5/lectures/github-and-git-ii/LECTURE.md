@@ -1,4 +1,4 @@
-## DAY-05 Git Part 2 
+## Git Part 2 - Full Lecture
 
 ### SWBATs
 + Understand the purpose of Git and GitHub, commit locally, and push to a remote repository.

@@ -1,4 +1,4 @@
-## Unit 5: Object Orientation - Lecture Notes
+## Object Orientation - Full Lecture
 
 ### Objective
 ***Students will be able to use and explain the function of objects to model real-life structures.***
