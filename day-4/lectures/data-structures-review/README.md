@@ -71,29 +71,52 @@
     total
   ```
   + The average age
-  ages = [15, 16, 17, 19]
-  sum = 0.0
-  ages.each do |age|
-    sum += age
-  end
-  puts sum/ages.length
   ```ruby
+    ages = [15, 16, 17, 19]
+    sum = 0.0
+    ages.each do |age|
+      sum += age
+    end
+    puts sum/ages.length
   ```
   + The oldest age
   ```ruby
+    ages = [15, 16, 17, 19]
+    biggest_age = ages[0]
+    ages.each do |age|
+      if biggest_age < age
+      biggest_age = age
+    end
+    puts biggest_age
   ```
 + Turn ages array into a hash with students' names as keys. Then calcuate:
   + The sum of all the ages
   ```ruby
+    ages = { :beth => 15,:sarah => 16,:jeff => 17,:carrie => 19}
+    array = ages.values
+    sum = 0
+    array.each do |number|
+      sum += number
+    end
+    puts sum
   ```
   + The average age
   ```ruby
+    ages = { :beth => 15,:sarah => 16,:jeff => 17,:carrie => 19}
+    array = ages.values
+    sum = 0.0
+    ages.each_value do |age|
+      sum += age
+    end
+    puts sum/array.length
   ```
   + The youngest
   ```ruby
+    youngest_student = ages.sort_by {|keys,values| values}[0]
   ```
   + Organize the students alphabetically.
   ```ruby
+    alphabetical_student = ages.keys.sort
   ```
 + Write a method that takes in any array of numbers as an argument and gives back the average?
 
@@ -105,7 +128,6 @@ def find_average(array)
   end
   puts sum / array.length
 end
-
 ```
 + Nested hashes and arrays
   + How do we pull individual items out if this is the case?
