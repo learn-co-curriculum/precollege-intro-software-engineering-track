@@ -23,7 +23,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>9:15 - 10:30</td>
     <td>OO Review</td>
     <td>
-    <a href="https://github.com/learn-co-curriculum/oo-basics">Walkthrough: Object Oriented Basics</a>
+    <a href="lectures/oo-review/README.md">OO Review</a>
     </td>
   </tr>
   <tr>
@@ -75,9 +75,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 
 </table>
 
-## Resources
-
-
 ## Lectures
+- [OO Review](lectures/oo-review/README.md)
 
 - [Object Oriented Group Project](lectures/object-orientated-group-project)
