@@ -85,7 +85,8 @@
     biggest_age = ages[0]
     ages.each do |age|
       if biggest_age < age
-      biggest_age = age
+        biggest_age = age
+      end
     end
     puts biggest_age
   ```
