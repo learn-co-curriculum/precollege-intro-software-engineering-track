@@ -1,4 +1,4 @@
-## DAY-04 Data Structure Review
+## Data Structure Review - Full Lecture
 
 ### Motivation / Why Should You Care?
 + Sometimes it takes a bit of repetition for a concept to click. Coding is like any new skill you might pick up -- the more you do it, the better you get at it. Last unit we covered arrays and hashes. Let's review what we learned.

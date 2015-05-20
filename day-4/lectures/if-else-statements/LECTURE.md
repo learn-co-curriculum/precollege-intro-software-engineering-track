@@ -1,4 +1,4 @@
-## Unit 4: Ruby Control Flow - Full Lecture
+## Ruby Control Flow - Full Lecture
 
 ### SWABTS
 ***Students will be able to use if-statements to automatically control the flow of their programs***

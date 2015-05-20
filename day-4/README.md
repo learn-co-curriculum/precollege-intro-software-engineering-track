@@ -74,7 +74,3 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
 </table>
 
-## Lectures
-
-- [Data Structures Review](lectures/data-structures-review)
-- [If/Else Statements](lectures/if-else-statements)
