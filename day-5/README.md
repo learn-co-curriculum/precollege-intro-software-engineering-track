@@ -78,3 +78,14 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
 </table>
 
+## SWBATs
++ Understand the purpose of Git and GitHub, commit locally, and push to a remote repository.
++ Create a class
++ Explain what object orientation is and why we use it
++ Create an instance of a class
++ Add attributes (reader and writer methods) to a class
++ Use instance variables within a class
+use correct syntax in naming classes
++ Create an initialize method to assign values to attributes when an instance is created
++ Create instance methods to have objects take action
++ Convert scripted code into object oriented code
