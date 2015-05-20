@@ -71,8 +71,3 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
 </table>
-
-
-## Lectures
-- [Intro to Command Line](lectures/intro-to-command-line)
-- [Intro to Ruby](lectures/ruby-methods)
