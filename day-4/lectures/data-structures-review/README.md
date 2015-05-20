@@ -4,13 +4,78 @@
 + Sometimes it takes a bit of repetition for a concept to click. Coding is like any new skill you might pick up -- the more you do it, the better you get at it. Last unit we covered arrays and hashes. Let's review what we learned.
 
 ### Lesson Plan
-+ Difference between an array and a hash
++ Difference between an array and a hash - 
+  * Think of an array as a list of items. We access information in an array from an index, starting with 0.
+  * A hash is more specific way of labeling information. A hash is made up of key-value pairs. Keys have to be unique. Access information in a hash through the key.
 + Syntax for arrays and hashes
+  *Array:
+  ```ruby
+    snax = ["chips", "oreos", "celery"]
+    snax[0] #returns "chips"
+    snax.delete("celery") #removes celery
+    snax << "popcorn" #adds popcorn to the end of the array)]
+    snax.push("trail mix") #adds trail mix to the end of the array
+    snax.last #returns trail mix
+    snax.first #returns chips
+    snax[3] = "Cotton Candy" #replaces trail mix with cotton candy
+  ```
+  * Hashes
+  ```Ruby
+    todo = {
+      :homework => "Algebra problems",
+      :chores => "make my bed",
+      :shopping => "buy new shoes"
+    }
+
+    todo[:homework] #returns Algebra Problems
+    todo.delete(:homework) #removes that key-value pair from the hash
+    todo[:travel] = "Go to Spain" #adds that key value pair to the hash
+    todo[:chores] = "laundry" #changes the value of the :chores key to laundry
+  ```
 + Iterating over arrays and hashes
+  * Arrays:
+  ```ruby
+    snax = ["chips", "oreos", "celery"]
+    snax.each do |snack|
+      "I love #{snack}"
+    end
+  ```
+  * Hashes:
+  ```ruby
+    todo = {
+      :homework => "Algebra problems",
+      :chores => "make my bed",
+      :shopping => "buy new shoes"
+    }
+
+    todo.each do |category, task|
+      "I have so much to do! #{category}: #{task}"
+    end
+
+    todo.each_key do |category|
+      "I have to do #{category}"
+    end
+
+    todo.each_value do |task|
+      "I have to #{task}!!!"
+    end
+  ```
 + Create array with the different ages in the class. Then calculate:
   + The sum of all the ages
+  ```ruby
+    total = 0
+    ages = [15, 16, 17, 19]
+    ages.each do |age|
+      total += age
+    end
+    total
+  ```
   + The average age
+  ```ruby
+  ```
   + The oldest age
+  ```ruby
+  ```
 + Turn ages array into a hash with students' names as keys. Then calcuate:
   + The sum of all the ages
   + The average age

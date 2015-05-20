@@ -16,7 +16,7 @@
             <br>
             <a href="lectures/APIs/twilio_example.rb"> Twilio Example</a>
         </td>
-        <td>9:45 - 3:00</td>
+        <td>9:45 - 3:00</td>    
         <td>Project Mode</td>
         <td>
             Students Build!
@@ -24,6 +24,6 @@
     </tr>
 </table>
 
-## Resources
 
 ## Lectures
+<a href="lectures/APIs/README.md">Twilio API Lecture</a>

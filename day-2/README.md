@@ -21,22 +21,17 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
             <a href="https://github.com/learn-co-curriculum/hs-ruby-strings-todo">Ruby Strings</a>
         </td>
     </tr>
-    <td>9:15 - 10:00</td>
+    <td>9:15 - 9:40</td>
         <td>Intro to Git</td>
         <td>
-            <a href="lectures/intro-to-git">Lecture: Intro to Git</a></br>
-
-            <a href="https://github.com/learn-co-curriculum/hs-git-environment-setup">Setup: Git Environment</a></br>
+            <a href="lectures/intro-to-git/README.md">Lecture: Intro to Git</a></br>
 
             <a href="https://github.com/learn-co-curriculum/hs-git-code-along-lab">Lab: Git Code Along</a></br>
 
-            <a href="https://github.com/learn-co-curriculum/hs-git-website-lab">Lab: Personal Website</a></br>
-            
-            <a href="https://github.com/learn-co-curriculum/hs-github-lab">Lab: Using Git with Github</a></br>
         </td>
     </tr>
     <tr>
-        <td>10:00 - 11:30</td>
+        <td>9:40 - 11:30</td>
         <td>Ruby Methods</td>
         <td>
             <a href="lectures/ruby-methods">Lecture: Ruby Methods</a></br>
@@ -94,10 +89,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
 </table>
-
-
-## Resources
-
 
 ## Lectures
 

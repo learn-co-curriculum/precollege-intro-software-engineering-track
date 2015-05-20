@@ -19,19 +19,19 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
     <tr>
         <td>10:00 - 10:30</td>
+        <td>Learn Setup and Demo</td>
+        <td>
+           ??
+        </td>
+    </tr>
+    <tr>
+        <td>10:30 - 11:30</td>
         <td>Navigating the Command Line</td>
         <td>
             <a href="lectures/intro-to-command-line">Lecture: Intro to the Command Line</a></br>
             
             <a href="https://github.com/learn-co-curriculum/find-missing-pet">Lab: Find the Missing Pet</a></br>
             <a href="https://github.com/learn-co-curriculum/hs-advanced-cli">Stretch Lab: Bash Script</a>
-        </td>
-    </tr>
-    <tr>
-        <td>10:30 - 11:30</td>
-        <td>Environment Set Up</td>
-        <td>
-            <a href="lectures/environment-setup">Lecture: Environment Setup</a>
         </td>
     </tr>
     <tr>
@@ -71,9 +71,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
 </table>
 
-## Resources
 
 ## Lectures
-
+- [Intro to Command Line](lectures/intro-to-command-line)
 - [Intro to Ruby](lectures/ruby-methods)
-- [Intro to Git](lectures/intro-to-git)

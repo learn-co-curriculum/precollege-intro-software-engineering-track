@@ -5,10 +5,9 @@
 
 ### Motivation / Why Should You Care?
 + How many of you have used Google Docs? It’s a great way to store documents online and makes it easy to collaborate with other people. It works best for files like word documents and spreadsheets, but it isn’t equipped to store code. Thankfully, there’s GitHub, which is basically the Google Docs of code.
++ When you click the Nitrous button on Learn, this process of forking and cloning is automatically happening for you. Forking and cloning is a huge part of a developer workflow, so we wanted to teach you guys how that button actually works
 
 ### Lesson Plan
-+ Students follow Git Environment Setup instructions
-  + Learn Week 2 > Git and GitHub > Setup: Git Environment
 + Navigate to Week 2 > Git and GitHub > Study Guide 
   + We’ll use this to get code from GitHub and bring it down to our computers.
 + Click “Fork this lab” link to open GitHub repository.
