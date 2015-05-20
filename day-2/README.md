@@ -90,8 +90,3 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
 </table>
-
-## Lectures
-
-- [Intro to Ruby](lectures/ruby-methods)
-- [Intro to Git](lectures/intro-to-git)
