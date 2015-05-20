@@ -71,6 +71,12 @@
     total
   ```
   + The average age
+  ages = [15, 16, 17, 19]
+  sum = 0.0
+  ages.each do |age|
+    sum += age
+  end
+  puts sum/ages.length
   ```ruby
   ```
   + The oldest age
@@ -78,10 +84,29 @@
   ```
 + Turn ages array into a hash with students' names as keys. Then calcuate:
   + The sum of all the ages
+  ```ruby
+  ```
   + The average age
+  ```ruby
+  ```
   + The youngest
+  ```ruby
+  ```
   + Organize the students alphabetically.
+  ```ruby
+  ```
 + Write a method that takes in any array of numbers as an argument and gives back the average?
+
+```ruby
+def find_average(array)
+  sum = 0.0
+  array.each do |number|
+    sum += number
+  end
+  puts sum / array.length
+end
+
+```
 + Nested hashes and arrays
   + How do we pull individual items out if this is the case?
 ```ruby
@@ -91,6 +116,15 @@ school_subjects = [
 	["European history", "world civilizations", "U.S. history"]
 ]
 ```
+  * Algebra"
+  ```ruby
+  school_subjects.first.first
+  school_subjects[0][0]
+  ```
+  * World Civilizations:
+  ```ruby
+  school_subjects[2][1]
+  ```
   + Convert `school_subjects` to a hash.
 ```ruby
  school_subjects = {
@@ -100,6 +134,8 @@ school_subjects = [
 }
 ```
   + Now how do I access `"biology"`?
-
+  ```ruby
+    school_subjects[science][1]
+  ```
 ### More Practice
 + [Mini-lab: Ruby Menu Challenge](https://github.com/learn-co-curriculum/hs-ruby-menu-challenge)
