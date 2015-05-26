@@ -1,4 +1,4 @@
-###GROUP PROJECT:
+#GROUP PROJECT:
 + **Challenge:** Build a Command Line Calculator Application
 
 + **Group Size:** 3-4 students per group. Heterogeneous groups (mixing strong students with students that need more support). Teachers assign groups.
