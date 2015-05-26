@@ -54,8 +54,3 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
   </tr>
 </table>
 
-
-## Lectures
-
-- [MVC](lectures/mvc)
-- [Ideation](lectures/ideation)

@@ -28,10 +28,3 @@ Here you'll find:
 
 ### [Day 9 - APIs](day-9)
 
-
-Bonus Modules:
-[Forms](https://docs.google.com/a/flatironschool.com/document/d/1e0cq958w_gMclGEyPKtNRgyFkEQ5Jsm3F9Y00hcQnDw/edit)
-
-[APIs](https://docs.google.com/a/flatironschool.com/document/d/1jIuyGUuwPU3_zjdhUMMRc40SlDaCT-4PiGgSHYxgTrY/edit)
-
-[Scraping](https://docs.google.com/a/flatironschool.com/document/d/1xrmCRaG1LkxUeFZiuHCpA7fDJIIG4z8Uc0ijiaDLt8A/edit)
