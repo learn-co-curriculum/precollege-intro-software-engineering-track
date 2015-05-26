@@ -1,5 +1,7 @@
 # DAY-07 HTML 
 
+_A full lecture is available [here](LECTURE.md)_
+
 ## SWBATs
 + Structure an HTML page using doctype, html, head, title, and body tags
 + Add an image, link, paragraph text, and header text to a page

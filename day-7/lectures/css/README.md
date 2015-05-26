@@ -1,5 +1,7 @@
 # DAY-07 CSS 
 
+_A full lecture is available [here](LECTURE.md)_
+
 ## SWBATs
 + Explain the purpose and structure of CSS
 + Link an html file to CSS
