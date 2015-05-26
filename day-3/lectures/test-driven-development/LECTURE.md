@@ -1,17 +1,18 @@
-## Test-Driven Development - Full Lecture
+# Test-Driven Development - Full Lecture
 
-### SWBATS 
+##Objective
 ***Students will be able to understand the purpose of and use Test Driven Development to solve challenges.***
 
+## SWBATS 
 + GEMS - install a gem
 + GEMS - explain what a ruby gem is
 + TDD - understand the core concepts of TDD
 + TDD - read and understand rspec tests
 
-### Motivation
+## Motivation
 So far we’ve been checking our work by manually testing our programs (show). But what if it’s a huge program that many developers have been working on? Manual testing becomes very hard! We’re going to be learning about test driven development with a program called RSPEC. What is Test Driven Development, you ask? ***In a nutshell, it’s a way that developers work to build high quality programs and prevent errors/bugs from developing in the program (FLESH OUT - many devs working on single codebase. Changing one small thing can have unforeseen effects, industry standard).*** Developers first write ***tests*** that check to make sure that their code is doing what it’s supposed to be doing. For example, I write a test that says when the ‘triple’ method is called on a number, the number should be three times the amount of the argument. After these are written, they can use the failures that the tests give them to guide their writing of the code. In this course, we’re not going to be writing tests, but instead we’re going to be using labs that have tests written in them and we have to get the tests to pass by writing passing code.
 
-### Lesson Plan
+## Lesson Plan
 + We’re going to start by looking at a set of code that has tests built in to it already. I’m going to clone a git repository that has rspec tests built in to it. You should clone it too. [Students Clone this- linked in Learn](https://github.com/learn-co-curriculum/hs-tdd-structure-code-along)
 + Once you’ve done this, cd in to the directory. You’ll notice a directory called `spec` with some files in it. CD in there. Our tests are written in a file that ends in `spec.rb`. Open up `my_code_spec.rb`, which is a set of tests for `my_code.rb`. Notice how the naming is standard - the tests are written in a file with `_spec.rb` added on to the end of the name of the file that it’s running tests on.
 + Open up `my_code_spec.rb` and we can look at the tests that we are going to have to solve.
@@ -24,9 +25,9 @@ So far we’ve been checking our work by manually testing our programs (show). B
 + Second test should be done as a class.
 + Third and fourth tests should be done in partners, and then shared with the class.
 
-### Conclusion
+## Conclusion
 + Rspec is incredibly valuable because it lets us test all our code at once. When apps get really big and complex it's easy to make a change to one area, that could unexpectedly break another. Rspec would catch that mistake before you sent a bug live into your code.
 
 
-### Hints and Hurdles
+## Hints and Hurdles
 + Rspec actually runs your methods for you. Code will break if you call your methods inside the actual file with code.
