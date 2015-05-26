@@ -1,26 +1,28 @@
-## Ruby Methods - Full Lecture
+# Ruby Methods - Full Lecture
 
-### SWBATS
+## Objective
 ***Students will be able to create and use their own custom methods***
 
-	+ METHODS - explain what a method is and why it's used
-	+ METHODS - use built in methods for each data type and structure
-	+ METHODS - chain methods together
-	+ METHODS - experiment and investigate unknown ruby methods using documentation and other 
-	+ internet resources
-	+ METHODS - explain what a return value is and what it's used for
-	+ METHODS - explain and determine the return value of a method
-	+ METHODS - explain what the return value of the puts method is
-	+ METHODS - differentiate between methods that puts and methods that return a value
-	+ IRB - use IRB to test out ruby code
-	+ SCOPE - explain that local variables cannot work between methods because of scope
-	+ METHODS - explain the difference between defining and calling a method
-	+ METHODS - call previously defined custom methods
-	+ METHODS - create a custom method using def and end key words
-	+ METHODS - use correct syntax in naming methods
-	+ METHODS - create a custom method using arguments
+## SWBATS
 
-### Motivation
++ METHODS - explain what a method is and why it's used
++ METHODS - use built in methods for each data type and structure
++ METHODS - chain methods together
++ METHODS - experiment and investigate unknown ruby methods using documentation and other 
++ internet resources
++ METHODS - explain what a return value is and what it's used for
++ METHODS - explain and determine the return value of a method
++ METHODS - explain what the return value of the puts method is
++ METHODS - differentiate between methods that puts and methods that return a value
++ IRB - use IRB to test out ruby code
++ SCOPE - explain that local variables cannot work between methods because of scope
++ METHODS - explain the difference between defining and calling a method
++ METHODS - call previously defined custom methods
++ METHODS - create a custom method using def and end key words
++ METHODS - use correct syntax in naming methods
++ METHODS - create a custom method using arguments
+
+## Motivation
 + Remember the cool drone we played with on day 1? We gave it commands using methods. [Show the class some of the code.] 
 ```ruby
 	drone.take_off
@@ -36,7 +38,7 @@
 + Coding becomes powerful when you start writing your own methods like the ones used to control the drone. Soon you will know enough about methods to create your own drone army.
 
 
-### Lesson Plan 
+## Lesson Plan 
 + A method is just a set of instructions that tells the computer to do something. They are awesome because they allow us to write code ONCE and then re-use it as many times as we want! 
 + Call out someone in the class and start giving them commands. Write them on the board
 	```
@@ -232,7 +234,7 @@ puts “hello #{name}”
 + For now, just remember that you’ll need to feed information into a method with an argument. Otherwise your method will not know what you are talking about.
 
 
-### Conclusion 
+## Conclusion 
 + Now you know: 
 	+ how to write your own methods
 	+ where to look for pre-written ruby methods (in ruby 	documentation)
@@ -241,5 +243,5 @@ puts “hello #{name}”
 	+ what scope is
 
 
-### Hints and Hurdles 
+## Hints and Hurdles 
 + For method arguments: Ask the class "What if I told you to dye my hair, is that enough instructions for you to do anything?" - Usually students say no, they need to know what color. The color, "blue" is an argument, its the additional piece of information that could change, but is needed to complete the task

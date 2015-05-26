@@ -1,14 +1,14 @@
-## DAY-02 Ruby Methods
+# DAY-02 Ruby Methods
 
 _A full lecture is available [here](LECTURE.md)_
 
-### SWBATs
+## SWBATs
 + Look up pre-written Ruby methods, write their own methods, and understand the importance and function of scope and return values.
 
-### Motivation / Why Should You Care?
+## Motivation / Why Should You Care?
 + Remember all that cool stuff we can do to a string, like `reverse` and `swapcase`? Those methods are part of Ruby’s built-in methods. Coding becomes very powerful when you start to write your own methods. They allow you to invoke powerful tasks that you’ve defined yourself using just one word (the method call). 
 
-### Lesson Plan
+## Lesson Plan
 WHAT ARE METHODS
 + CHAINING METHODS: How would you make the word “Ruby” appear in all caps and backwards?
 + There are PRE-WRITTEN METHODS for different data types. You can use `upcase` on a string but not on an integer or a float.
@@ -189,8 +189,8 @@ puts “hello #{name}”
 + Why does it print hello to both people? Because of SCOPE. 
 + Remember to use arguments to send variables into a method, otherwise the method won't know what you're talking about if they're defined outside the method.
 
-### Conclusion / So What?
+## Conclusion / So What?
 + If variables and data are the nouns, then methods are the verbs of programming. These are the actions that get called on objects, like strings or integers. Understanding the relationship between objects and methods is very important as we make our journey towards fully implementing object orientation in Ruby. Essentially, everything is an object in Ruby and, as such, can have methods called on it. This is the meat and potatoes of programming in Ruby, so it's imperative to understand methods.
 
-### Hints and Hurdles
+## Hints and Hurdles
 + Students might need clarification on the difference between passing in an argument to a method and getting input by calling `gets` from within the method.
