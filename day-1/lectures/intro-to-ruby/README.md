@@ -1,15 +1,15 @@
-## DAY-01 Introduction to Ruby 
+# DAY-01 Introduction to Ruby 
 
 _A full lecture is available [here](LECTURE.md)_
 
-### SWBATs
+## SWBATs
 + Use Ruby’s basic data types to make a simple command line application that manipulates data.
 
-### Motivation / Why Should You Care?
+## Motivation / Why Should You Care?
 
 + Ruby is a backend programming language that can be used to build web applications. A web application is different from a website. A website is static. Think about the site for a pizza parlor. It will show the same info to everyone who visits: telephone number, location, menu. The content never changes. A web application has different content depending on the user. Facebook is a web application. When you log in, you get a unique experience. It knows who you are and who your friends are. It also lets you, and only you, connect to new friends, upload photos, update your status, etc. A "backend" is what makes this possible. The "backend" of an application is hooked into a database that keeps track of all the unique content and information for each user. And Ruby is a language that we use to write the backend. Today we’ll build a small program that takes in input from the user and gives an output.
 
-### Lesson Plan
+## Lesson Plan
 CREATE YOUR FIRST PROGRAM
 + Programs = lines of text read by a computer. A Ruby program is a text file w/ extension ‘.rb’.
 + Create development directory on Desktop:
@@ -136,8 +136,8 @@ name = gets
 puts “hello #{name}”
 ```
 
-### Conclusion / So What?
+## Conclusion / So What?
 + The apps you use on your phone and web browsers are all built on the all-important concept of input - output. They take some input from you, like 140 characters for your latest Tweet, and then output something back to you, like the addition of that Tweet to your timeline. While our input/output application is much simpler than a huge application like Twitter, the same principles are in play. 
 
-### Hints and Hurdles
+## Hints and Hurdles
 + To show students how strings can be comprised of all different kinds of characters, you can use the example of `"ke$ha"`. Students always chuckle at this one.
