@@ -14,7 +14,7 @@
 + These sites don't change over time - every time you refresh, you have the same experience.
 
 + Some examples built by other students are:
-  * [Erin and Priya](WAITING ON URL FROM THEM)
+  * [Erin and Priya](moodmusic-fi.herokuapp.com)
   * [Clarence and Fiona](http://breaking-as.herokuapp.com/)
   * [Caroline](monogram-maker.herokuapp.com)
   * [Malachi and Jovan](http://which-fruit-are-you.herokuapp.com
