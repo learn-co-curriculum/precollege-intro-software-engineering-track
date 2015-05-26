@@ -1,7 +1,9 @@
-## Ruby Arrays - Full Lecture
+# Ruby Arrays - Full Lecture
 
-### SWBATS
+##Objective
 ***Students will be able use and manipulate Ruby arrays.***
+
+## SWBATS
 
 + Explain what an array is and why it's used
 + Create an array
@@ -12,13 +14,13 @@
 + Use .split to change a string into an array
 + Assign various an array to a variable
 
-### Motivation
+## Motivation
 + What are things that we make lists of? ***(Prompt students, on board make a list of the lists given: groceries, names, countries, places to go, tasks, etc).***
 + We’re going to be learning about Ruby’s other main data structure - Hashes. They are awesome because they let us store data in unique ways that make it easy to manipulate and access. Essentially hashes and arrays are two different types of list that can be used to store data like strings, floats, and integers, (and symbols, booleans).
 + Imagine a string with an item as being an individual post-it note. If we have 20 items, we’d need 20 different post it notes. Instead, with an array, we can have all 20 of those to-dos on one post it note. Pretty sweet!
 + Or maybe sheets of paper floating around - using an array is like putting them in a binder?
 
-### Lesson Plan 
+## Lesson Plan 
 ***ARRAYS*** - Let’s start by learning about arrays. We’ll do this by making our own arrays.
 
 + Think about an array as an ordered list that can be visualized as a two-column table where the left column is the index (or the order) and the right column is the thing you’re listing (Draw on board, using one of the students’ examples):
@@ -75,8 +77,8 @@ end
 + Let’s go back to our names example. ***Model using .each to output the names with “`Our class has a student named #{name}`”***
 + ***Mini-Lab - Iteration through arrays***
 
-### Conclusion
+## Conclusion
 Arrays are incredible important data structures that allow us organize our data into manageable chunks. You will literally never escape them
 
-#### Hints and Hurdles 
+## Hints and Hurdles 
 + Students confuse the `[]` notation for arrays and hashes with `()` used in method arguments.

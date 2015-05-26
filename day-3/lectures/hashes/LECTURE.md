@@ -1,7 +1,9 @@
-## Ruby Hashes - Full Lecture
+# Ruby Hashes - Full Lecture
 
-### SWBATS
+##Objective 
 ***Students will be able use and manipulate Ruby hashes.***
+
+## SWBATS
 
 + Explain what a hash is and why it's used
 + Create a hash
@@ -13,10 +15,10 @@
 + Iterate through hashes using the each, each_key, and each_value methods
 + Parse through nested hashes and arrays to pull out specific pieces data
 
-### Motivation
+## Motivation
 + Make two different arrays, one storing all the names of all the students in the class and another storing all their names. It's hard to match a name to an age. What if we delete an name from the name array? Suddenly nothing matches up. There has to be a better way to organize all of that material. That's where hashes come in to play.
 
-### Lesson Plan 
+## Lesson Plan 
 
 + Hashes are the second data structure we’re going to talk about. (Use in real life, show a screenshot of a hash from an api call). Hashes give context to data (a bunch of birthdays without names means nothing), it’s a additional data dimension. They’re really similar to arrays in that they are like two column tables. The difference is that for an array the left side of the column is the index, for hashes there is no numbered index, but there is another piece of data on the left side of the table, called the key.
 
@@ -72,8 +74,8 @@ salad_ingredients ={ :lettuce => [“romaine”, “kale”, “spring mix”],
   + define a method that takes a hash and outputs the key value pair with nice formatting.
   + define a method that returns the first item from an array.
 
-### Conclusion
+## Conclusion
 Arrays and hashes are incredible important data structures that allow us organize our data into manageable chunks. You will literally never escape them
 
-#### Hints and Hurdles 
+## Hints and Hurdles 
 + Students confuse the `[]` notation for arrays and hashes with `()` used in method arguments.

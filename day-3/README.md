@@ -110,3 +110,25 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
 </table>
 
+##SWBATS
++ GEMS - install a gem
++ GEMS - explain what a ruby gem is
++ TDD - understand the core concepts of TDD
++ TDD - read and understand rspec tests
++ Explain what a hash is and why it's used
++ Create a hash
++ Return a specific value from a hash using it's key
++ Mutate hashes using methods available to all hashes
++ Add delete and modify key-value pairs in a hash
++ Explain what a symbol is and why it's used
++ Use symbols as keys in hashes
++ Iterate through hashes using the each, each_key, and each_value methods
++ Parse through nested hashes and arrays to pull out specific pieces data
++ Explain what an array is and why it's used
++ Create an array
++ Return a specific value from an array using it's index
++ Add, delete and modify items in an array
++ Mutate arrays using methods available to all arrays
++ Iterate through arrays using the each method
++ Use .split to change a string into an array
++ Assign various an array to a variable
