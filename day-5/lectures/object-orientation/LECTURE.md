@@ -199,7 +199,6 @@ steph = {
     end
   end
   ```
-
 + Interactive Practice: [Extending Existing Objects Mini-Lab](https://github.com/learn-co-curriculum/hs-basic-objects-mini-lab)
 
 ### Conclusion / So What?
