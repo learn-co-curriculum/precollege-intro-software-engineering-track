@@ -201,11 +201,11 @@ steph = {
 
   end
 ```
+
 + Interactive Practice: [Extending Existing Objects Mini-Lab](https://github.com/learn-co-curriculum/hs-basic-objects-mini-lab)
 
 ### Conclusion / So What?
 Object-oriented programming is powerful for a few main reasons. First of all, when you make an instance of a class, it is its own discrete object. If you make a change to that object, it won't affect any of your other code. This is called encapsulation. Second of all, OOP allows you to have many different methods with the same name that do the same job, but on different objects. This is called polymorphism, and it keeps your code DRY. Along with this, OOP allows you to write generic code (your blueprint!), which can be used over and over again without having to rewrite the same code. All these concepts make complex code much more reliable and easier to maintain and change.
-
 
 
 ## Hints and Hurdles
@@ -237,7 +237,6 @@ Object-oriented programming is powerful for a few main reasons. First of all, wh
   # Then explain that the above is the same as:
 
   north_west.name = "North West"
-
 ```
 + Hit home that a writer is a statement ("Your name is John") and a reader is a question ("What is your name?")
 + Get students to understand that anything can be turned into a class with attributes and actions. Pick a bunch of different items and make them say the attributes and actions for those classes.
