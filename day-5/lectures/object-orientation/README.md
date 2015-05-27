@@ -70,9 +70,9 @@ steph = {
         puts item
       end
     end
-
   end
 ```
+
 + Interactive Practice: [Extending Existing Objects Mini-Lab](https://github.com/learn-co-curriculum/hs-basic-objects-mini-lab)
 
 ## Conclusion / So What?
@@ -81,6 +81,7 @@ Object-oriented programming is powerful for a few main reasons. First of all, wh
 ### Hints and Hurdles
 + Instead of automatically naming reader and writer methods as we normally would, give them much more descriptive names at first like `tell_me_how_much_money_I_have` or `set_my_money_to`.
 + Use writers with () first when changing an attribute. Then show that we don't need them because Ruby is friendly - and that's why we are putting the = in the name of the writer method.
+
 ```ruby
   class User
     def initialize(username, password)
