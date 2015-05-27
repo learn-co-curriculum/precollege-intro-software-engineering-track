@@ -2,7 +2,7 @@
 
 _A full lecture is available [here](LECTURE.md)_
 
-###] SWBATs
+## SWBATs
 + Explain what an if statement is and why it’s used
 + Implement an if statemenet with 1, 2, and 3+ branches
 + Implement the comparison operators
