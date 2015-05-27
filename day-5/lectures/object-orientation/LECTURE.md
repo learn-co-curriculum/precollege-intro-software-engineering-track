@@ -189,6 +189,7 @@ steph = {
     * Shortcut is just syntactic sugar
   * Same for arrays, integers, hashes, etc.
   * We can add methods to existing classes
+
   ```ruby
     class Array
     def say_items
@@ -222,18 +223,16 @@ Object-oriented programming is powerful for a few main reasons. First of all, wh
     def name=(name)
       @name = name
     end
-
   end
-
   north_west = Baby.new("North West", "Female")
   ```
 
-  # First show writer like this:
+  + First show writer like this:
   ```ruby
   north_west.name=("North West")
   ```
 
-  # Then explain that the above is the same as:
+  + Then explain that the above is the same as:
   ```ruby
   north_west.name = "North West"
   ```
