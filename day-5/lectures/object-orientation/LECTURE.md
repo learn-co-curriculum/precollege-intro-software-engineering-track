@@ -190,8 +190,7 @@ steph = {
   * Same for arrays, integers, hashes, etc.
   * We can add methods to existing classes
   ```ruby
-  class Array
-
+    class Array
     def say_items
       puts “The items in this array are:”
       self.each do |item|
@@ -237,6 +236,7 @@ Object-oriented programming is powerful for a few main reasons. First of all, wh
 
   north_west.name = "North West"
 ```
+
 + Hit home that a writer is a statement ("Your name is John") and a reader is a question ("What is your name?")
 + Get students to understand that anything can be turned into a class with attributes and actions. Pick a bunch of different items and make them say the attributes and actions for those classes.
 + Wait to introduce attr_accessor until the next class so they can really dig their teeth into how reader and writer methods work.
