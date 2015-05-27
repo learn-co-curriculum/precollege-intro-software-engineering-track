@@ -63,7 +63,6 @@ steph = {
   * We can add methods to existing classes
 ```ruby
   class Array
-
     def say_items
       puts “The items in this array are:”
       self.each do |item|
