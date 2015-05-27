@@ -69,9 +69,10 @@ we can use the data types true and false:
 packing_list = [“socks”, “matches”, “trail mix”]
 
 	if packing_list.includes?(“sleeping bag”) && packing_list.includes?(“blanket”)
-	    puts “I’ll be warm”
-		elsif packing_list.includes?(“sleeping bag”) || packing_list.includes?(“blanket”)
-		    puts “i have a place to sleep!”                       		else
+	   puts “I’ll be warm”
+	elsif packing_list.includes?(“sleeping bag”) || packing_list.includes?(“blanket”)
+		puts “i have a place to sleep!”                       	
+  else
     puts “I have nowhere to sleep”
 	end
 ```
