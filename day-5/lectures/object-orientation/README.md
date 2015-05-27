@@ -107,7 +107,6 @@ Object-oriented programming is powerful for a few main reasons. First of all, wh
   # Then explain that the above is the same as:
 
   steph.username = "steph5000"
-
 ```
 + Hit home that a writer is a statement ("Your name is John") and a reader is a question ("What is your name?")
 + Get students to understand that anything can be turned into a class with attributes and actions. Pick a bunch of different items and make them say the attributes and actions for those classes.
