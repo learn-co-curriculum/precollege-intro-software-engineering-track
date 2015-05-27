@@ -1,14 +1,14 @@
-## DAY-03 Test-Driven Development
+# DAY-03 Test-Driven Development
 
 _A full lecture is available [here](LECTURE.md)_
 
-### SWBATs
+## SWBATs
 + Understand the purpose of Test Driven Development and use it to solve challenges.
 
-### Motivation / Why Should You Care?
+## Motivation / Why Should You Care?
 + So far we’ve been checking our work by manually testing our programs. Writing code and then running it in the terminal. But what if we're building a huge program that many developers have been working on? Manual testing becomes very hard! TDD is a way that developers work to build high quality programs and prevent errors and bugs from developing in the program Changing one small thing can have unforeseen effects, so developers first write tests that check to make sure that their code is doing what it’s supposed to be doing. Then they write the code and get their tests to pass. In this course, we’re not going to be writing tests, but instead we’re going to be using labs that have tests written in them and we have to get the tests to pass by writing passing code.
 
-### Lesson Plan
+## Lesson Plan
 WHAT IS TDD?
 + It’s a way that developers work to build high quality programs and prevent errors and bugs from developing in the program.
 
@@ -43,10 +43,10 @@ FROM TERMINAL
 + Second test should be done as a class.
 + Third and fourth tests should be done in partners, and then shared with the class.
 
-### Conclusion / So What?
+## Conclusion / So What?
 + Programming is very much about efficiency. We want our programs to run quickly, we want to write code that is DRY so we never repeat ourselves. TDD helps us be more efficient coders. Although it adds time to write tests, the tests are essential to stopping bugs and errors before they ever surface. And not only does TDD make a programmer's life easier, it helps ensure that the user has as problem-free an experience with the program as possible. Because TDD helps cut back on the number of bugs in a program, that means that the user is going to have a smooth and pleasant ride with your app. 
 
-### Hints and Hurdles
+## Hints and Hurdles
 + If you have a personal experience with a bug that you battled against over many sleepless nights that could have been avoided with testing or TDD, share that with the students. They like to hear about real life programming experiences.
 + It's also helpful to explain the RSpec syntax in terms of nouns and verbs. `describe` is the noun and `it` is the verb, or action.
 + Review methods and method arguments before jumping into RSPEC.

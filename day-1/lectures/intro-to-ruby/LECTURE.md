@@ -1,44 +1,45 @@
-## Unit 1: Introduction to Ruby - Full Lecture
+# Unit 1: Introduction to Ruby - Full Lecture
 
-### SWABTS
-***Students will be able to use ruby’s basic data types to make a simple command line
-application that manipulates data.***
-
-    + GENERAL RUBY ‐ explain that all programs are just lines of text read by a computer
-    + GENERAL RUBY ‐ demonstrate that ruby programs read top to bottom
-    + GENERAL RUBY ‐ differentiate between data and key words
-    + STRINGS ‐ explain what a string is and why it's used
-    + STRINGS ‐ create strings using double quotes
-    + STRINGS concatenate two strings using the +
-    + STRINGS ‐ use common string methods
-    + PUTS ‐ Explain what putsing is and what it's used for
-    + INT ‐ explain what an integer is and why it's used
-    + INT ‐ use common mathematical operations with integers
-    + INT ‐ understand that ruby rounds down when doing math with integers
-    + INT ‐ use typical methods like to_f and to_s to mutate integers
-    + FLT ‐ explain what a float is and why it's used
-    + FLT ‐ understand that math with floats produces floats and math with integers produces integers
-    + FLT ‐ use typical methods like to_i and to_s to mutate float
-    + FLT ‐ use common mathematical operations on floats
-    + STRINGS/VARIABLES ‐ interpolate a variable or a method within a string
-    + VAR ‐ use a variable in place of a piece of data
-    + VAR ‐ assign integers to variables
-    + VAR ‐ assign floats to variables
-    + VAR ‐ reassign the value of a variable
-    + GETS ‐ take in user input using the gets method
-    + VAR ‐ use correct syntax in naming variables
-    + GENERAL RUBY ‐ predict that the effect of text in ruby that is not data or a key word will throw an error
-    + GENERAL RUBY ‐ explain that an error will stop the execution of ruby code
+## Objective
+***Students will be able to use ruby’s basic data types to make a simple command line application that manipulates data.***
+## SWABTS
 
 
-### Motivation
++ GENERAL RUBY ‐ explain that all programs are just lines of text read by a computer
++ GENERAL RUBY ‐ demonstrate that ruby programs read top to bottom
++ GENERAL RUBY ‐ differentiate between data and key words
++ STRINGS ‐ explain what a string is and why it's used
++ STRINGS ‐ create strings using double quotes
++ STRINGS concatenate two strings using the +
++ STRINGS ‐ use common string methods
++ PUTS ‐ Explain what putsing is and what it's used for
++ INT ‐ explain what an integer is and why it's used
++ INT ‐ use common mathematical operations with integers
++ INT ‐ understand that ruby rounds down when doing math with integers
++ INT ‐ use typical methods like to_f and to_s to mutate integers
++ FLT ‐ explain what a float is and why it's used
++ FLT ‐ understand that math with floats produces floats and math with integers produces integers
++ FLT ‐ use typical methods like to_i and to_s to mutate float
++ FLT ‐ use common mathematical operations on floats
++ STRINGS/VARIABLES ‐ interpolate a variable or a method within a string
++ VAR ‐ use a variable in place of a piece of data
++ VAR ‐ assign integers to variables
++ VAR ‐ assign floats to variables
++ VAR ‐ reassign the value of a variable
++ GETS ‐ take in user input using the gets method
++ VAR ‐ use correct syntax in naming variables
++ GENERAL RUBY ‐ predict that the effect of text in ruby that is not data or a key word will throw an error
++ GENERAL RUBY ‐ explain that an error will stop the execution of ruby code
+
+
+## Motivation
 + Introduce Ruby with drone demonstration!! WOOHOO RUBY IS SO COOL
 + Ruby is a backend programming language that is typically used to build web applications.
 + Explain backend with example of website vs. web application. A static site for a pizza parlor shows the same info to everyone who visits - telephone number, location, etc. - but when you log into a site like Facebook you get a unique experience. It knows who you are and who your friends are. It also lets you, and only, connect to new friends, upload photos, update your status, etc. A backend is what makes this possible.
 + Ruby is an awesome backend language because easy to read, easy to learn, and there are a ton of resources available
 + by the end of this lesson you will be able to build a small program that takes in input and gives you an output
 
-### Lesson Plan
+## Lesson Plan
 + All programs are just lines of text read by a computer. We’re going to create a ruby file, which is just a file written in a text editor with the file extension `.rb`.
 + Make sure all students have a `development` directory 
     + `cd desktop`
@@ -106,8 +107,8 @@ application that manipulates data.***
     + demo a program: `puts “what is your name” gets`
     + notice terminal hangs to let us type in input, but then it doesn’t do anything with it. we need to be able to persist/store our input. ***What have we learned about that lets us store data?*** variables!! `name = gets puts “hello #{name}”`
 
-### Conclusion 
+## Conclusion 
 Web applications follow and input-output pattern. You input a comment to the funny cat meme your friend put on Facebook, and it's outputted back to you in Facebook's pretty format. This structure is the basis of every application, and you just learned how it works.
 
-### Hints and Hurdles
+## Hints and Hurdles
 + `gets` takes in all information as a string and with the newline-character at the end of it

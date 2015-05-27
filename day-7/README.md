@@ -91,9 +91,3 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
    	</td>
   </tr>
 </table>
-
-## Lectures
-
-- [HTML](lectures/html)
-- [CSS](lectures/css)
-- [Group Project Introduction](lectures/group-project-introduction)

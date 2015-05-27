@@ -1,10 +1,9 @@
-## DAY-09 APIs
+# DAY-09 APIs
 
-
-###Objective
+##Objective
 **Students will be able to integrate an API into their project to provide additional functionality***
 
-###Motivation
+##Motivation
 ![Web APIs](https://s3.amazonaws.com/after-school-assets/API.png)
 Think about how many cool apps there are out there: Instagram, Yelp, Yumly, Foursquare, Spotify (etc). There are a million; too many to list. All of these apps have a way for you to sign up and interact with the application. With Instagram, you can upload photos, search hashtags, and look at all the photos tagged in a specific location. 
 
@@ -13,7 +12,7 @@ In the same way that you can interact with an application, a program can as well
 
 APIs are a huge part of programming, and even though we're not going to get too much into how they work now (that's a big part of the advanced course), we wanted to introduce you to some of their power now.
 
-###Lesson Plan
+##Lesson Plan
 + We're going to use the [Twilio API](https://github.com/twilio/twilio-ruby) for this project to send text messages from our code
 + Flatiron's Twilio Account:
 
@@ -60,7 +59,7 @@ auth_token = 'cb1dd832eda91ea39319fe6827f1650b'
 + To run this code and send the text message, in terminal enter `ruby twilio.rb`
 
 
-###Resources
+##Resources
 [Here's a great Quora page on APIs for laypeople.](http://www.quora.com/In-laymans-terms-what-is-an-API-1)
 
 [And here's an excellent explanation of API's from How Stuff Works](http://money.howstuffworks.com/business-communications/how-to-leverage-an-api-for-conferencing1.htm)

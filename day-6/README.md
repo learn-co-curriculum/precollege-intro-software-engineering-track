@@ -43,14 +43,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
    	</td>
   </tr>
   <tr>
-    <td>12:30 - 1:00</td>
-    <td>Improv</td>
-    <td>
-       <a href="https://github.com/learn-co-curriculum/tf-improv-games">Improv Games</a>
-    </td>
-  </tr>
-  <tr>
-    <td>1:00 - 2:20</td>
+    <td>12:30 - 2:20</td>
     <td>Finish Group Lab</td>
     <td>
        <a href="https://github.com/learn-co-curriculum/oo-jukebox">Stretch Lab: OO Jukebox</a>
@@ -75,3 +68,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
   </tr>
 
 </table>
+
+##SWBATs
++ Work collaboratively to develop an object-oriented set of models that simulate real world environments.

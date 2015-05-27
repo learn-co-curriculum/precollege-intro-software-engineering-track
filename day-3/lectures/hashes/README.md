@@ -1,14 +1,14 @@
-## DAY-03 Ruby Hashes
+# DAY-03 Ruby Hashes
 
 _A full lecture is available [here](LECTURE.md)_
 
-### SWBATs
+## SWBATs
 + Use and manipulate Ruby hashes
 
-### Motivation / Why Should You Care?
+## Motivation / Why Should You Care?
 + Make two different arrays, one storing all the names of all the students in the class and another storing all their names. It's hard to match a name to an age. What if we delete an name from the name array? Suddenly nothing matches up. There has to be a better way to organize all of that material. That's where hashes come in to play.
 
-### Lesson Plan
+## Lesson Plan
 + Hashes are the second data structure we’re going to talk about. 
 + Hashes give context to data (a bunch of ages without names to associate them with mean nothing), it’s a additional data dimension. 
 + They are like two column tables. The difference is that for an array the left side of the column is the index, for hashes there is no numbered index, but there is another piece of data on the left side of the table, called the **key**.
@@ -70,11 +70,11 @@ REVIEW
   + takes a hash and outputs the key value pair with nice formatting.
   + returns the first item from an array.
 
-### Conclusion / So What?
+## Conclusion / So What?
 + The web is made up of data. Without it, you wouldn't know who your Facebook friends are or how many likes you got on an Instagram post. With all this data, it's important to be able to organize it efficiently so that we can easily make changes to data sets. That's where arrays and hashes are so valuable. Even the most complex applications rely on these structures at times to organize the information in their codebase.
 
-### Hints and Hurdles
+## Hints and Hurdles
 + You create a hash with curly brackets but you access a value from a hash using the square brackets.
 
-### Additional Media
+## Additional Media
 + [Here](http://bethannezink.github.io/We-Can-Work-It-Out/) is a fun blog post explaining Ruby data structures using the Beatles.

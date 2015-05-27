@@ -3,7 +3,7 @@
 ## Objective
 ***Students will be able to use and explain the function of objects to model real-life structures.***
 
-##SWBATs
+## SWBATs
 + Create a class
 + Explain what object orientation is and why we use it
 + Create an instance of a class

@@ -1,11 +1,11 @@
-## DAY-04 Data Structure Review
+# DAY-04 Data Structure Review
 
 _A full lecture is available [here](LECTURE.md)_
 
-### Motivation / Why Should You Care?
+## Motivation / Why Should You Care?
 + Sometimes it takes a bit of repetition for a concept to click. Coding is like any new skill you might pick up -- the more you do it, the better you get at it. Last unit we covered arrays and hashes. Let's review what we learned.
 
-### Lesson Plan
+## Lesson Plan
 + Difference between an array and a hash - 
   * Think of an array as a list of items. We access information in an array from an index, starting with 0.
   * A hash is more specific way of labeling information. A hash is made up of key-value pairs. Keys have to be unique. Access information in a hash through the key.
@@ -162,5 +162,5 @@ school_subjects = [
   ```ruby
     school_subjects[science][1]
   ```
-### More Practice
+## More Practice
 + [Mini-lab: Ruby Menu Challenge](https://github.com/learn-co-curriculum/hs-ruby-menu-challenge)
