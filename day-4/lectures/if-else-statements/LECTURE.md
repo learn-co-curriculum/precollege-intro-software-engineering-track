@@ -68,13 +68,13 @@ we can use the data types true and false:
 ```ruby
 packing_list = [“socks”, “matches”, “trail mix”]
 
-	if packing_list.includes?(“sleeping bag”) && packing_list.includes?(“blanket”)
-	   puts “I’ll be warm”
-	elsif packing_list.includes?(“sleeping bag”) || packing_list.includes?(“blanket”)
-		puts “i have a place to sleep!”                       	
-  else
-    puts “I have nowhere to sleep”
-	end
+if packing_list.includes?(“sleeping bag”) && packing_list.includes?(“blanket”)
+	puts “I’ll be warm”
+elsif packing_list.includes?(“sleeping bag”) || packing_list.includes?(“blanket”)
+	puts “i have a place to sleep!”                       	
+else
+  puts “I have nowhere to sleep”
+end
 ```
 + the `&&` is a comparison operator that means ‘and’. If both sides of the `&&` evaluates to true, then the entire statement evaluates to true. if one side evaluates to false, then the entire statement evaluates to false.  In this case, our list doesn’t include either, so both sides are false
 + the `||` is a comparison operator means or. If either side evaluates to true, the entire statement evaluates to true.
