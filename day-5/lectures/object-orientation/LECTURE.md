@@ -198,7 +198,6 @@ steph = {
         puts item
       end
     end
-
   end
 ```
 
