@@ -208,7 +208,7 @@ Object-oriented programming is powerful for a few main reasons. First of all, wh
 ## Hints and Hurdles
 + Instead of automatically naming reader and writer methods as we normally would, give them much more descriptive names at first like `tell_me_how_much_money_I_have` or `set_my_money_to`.
 + Use writers with () first when changing an attribute. Then show that we don't need them because Ruby is friendly - and that's why we are putting the = in the name of the writer method.
-```ruby
+  ```ruby
   class Baby
     def initialize(name, gender)
       name = name
@@ -226,15 +226,17 @@ Object-oriented programming is powerful for a few main reasons. First of all, wh
   end
 
   north_west = Baby.new("North West", "Female")
+  ```
 
   # First show writer like this:
-
+  ```ruby
   north_west.name=("North West")
+  ```
 
   # Then explain that the above is the same as:
-
+  ```ruby
   north_west.name = "North West"
-```
+  ```
 
 + Hit home that a writer is a statement ("Your name is John") and a reader is a question ("What is your name?")
 + Get students to understand that anything can be turned into a class with attributes and actions. Pick a bunch of different items and make them say the attributes and actions for those classes.
