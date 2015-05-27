@@ -189,7 +189,7 @@ steph = {
     * Shortcut is just syntactic sugar
   * Same for arrays, integers, hashes, etc.
   * We can add methods to existing classes
-```ruby
+  ```ruby
   class Array
 
     def say_items
@@ -199,7 +199,7 @@ steph = {
       end
     end
   end
-```
+  ```
 
 + Interactive Practice: [Extending Existing Objects Mini-Lab](https://github.com/learn-co-curriculum/hs-basic-objects-mini-lab)
 
