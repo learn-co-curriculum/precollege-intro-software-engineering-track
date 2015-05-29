@@ -25,6 +25,3 @@
         </td>
     </tr>
 </table>
-
-## Lectures
-<a href="lectures/APIs/README.md">Twilio API Lecture</a>

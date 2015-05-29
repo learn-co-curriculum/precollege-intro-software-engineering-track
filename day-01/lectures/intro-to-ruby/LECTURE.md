@@ -4,7 +4,6 @@
 ***Students will be able to use ruby’s basic data types to make a simple command line application that manipulates data.***
 ## SWABTS
 
-
 + GENERAL RUBY ‐ explain that all programs are just lines of text read by a computer
 + GENERAL RUBY ‐ demonstrate that ruby programs read top to bottom
 + GENERAL RUBY ‐ differentiate between data and key words

@@ -91,3 +91,21 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
    	</td>
   </tr>
 </table>
+
+
+##SWBATS
++ HTML - Structure an HTML page using doctype, html, head, title, and body tags
++ HTML - Add an image, link, paragraph text, and header text to a page
++ HTML - Create an ordered and unordered list using the ol, ul, li tags
++ HTML - Organize sections of HTML with div tags
++ CSS - Explain the purpose and structure of CSS
++ CSS - Link an html file to CSS
++ CSS - Select specific content to style using tag names, classes, and ids
++ CSS - Center text using the text-align property
++ CSS - Modify content placement with margin, padding, and border properties
++ CSS - Change image size using height and width properties
++ CSS - Add background colors using the background property
++ CSS - Use hexadecimal, rgba, and rgb color values
++ CSS - Change the font of text using font-size font-family and color properties
++ CSS - Move chunks of content around the page using the float property
++ CSS - Master reading documentation of CSS properties
