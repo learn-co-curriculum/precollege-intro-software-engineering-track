@@ -10,21 +10,23 @@ Here you'll find:
 
 ## Course Outline
 
-### [Day 1 - Intro to Ruby](day-1)
+### [Day 1 - Intro to Ruby](day-01)
 
-### [Day 2 - Methods](day-2)
+### [Day 2 - Methods](day-02)
 
-### [Day 3 - Arrays and Hashes](day-3)
+### [Day 3 - Arrays and Hashes](day-03)
 
-### [Day 4 - If/Else Statements](day-4)
+### [Day 4 - If/Else Statements](day-04)
 
-### [Day 5 - Object Orientation](day-5)
+### [Day 5 - Object Orientation](day-05)
 
-### [Day 6 - OO Group Project](day-6)
+### [Day 6 - OO Group Project](day-06)
 
-### [Day 7 - HTML and CSS](day-7)
+### [Day 7 - HTML and CSS](day-07)
 
-### [Day 8 - MVC and Ideation](day-8)
+### [Day 8 - MVC and Ideation](day-08)
 
-### [Day 9 - APIs](day-9)
+### [Day 9 - APIs](day-09)
+
+### [Day 10 - Graduation](day-10)
 
