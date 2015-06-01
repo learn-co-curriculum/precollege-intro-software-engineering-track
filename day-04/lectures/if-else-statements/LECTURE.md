@@ -57,8 +57,8 @@ we can use the data types true and false:
 
 	if packing_list.includes?(“sleeping bag”)
 	    puts “I have a place to sleep!”
-		else 
-		    puts “I need to pack a sleeping bag”
+	else 
+	    puts “I need to pack a sleeping bag”
 	end
 ```
 + Notice we didn’t need to put anything after the `else`, it’s just the default. The if statement didn’t evaluate to true, so it automatically skips to the else and will execute that line. 
@@ -69,9 +69,9 @@ we can use the data types true and false:
 packing_list = [“socks”, “matches”, “trail mix”]
 
 if packing_list.includes?(“sleeping bag”) && packing_list.includes?(“blanket”)
-	puts “I’ll be warm”
+  puts “I’ll be warm”
 elsif packing_list.includes?(“sleeping bag”) || packing_list.includes?(“blanket”)
-	puts “i have a place to sleep!”                       	
+  puts “i have a place to sleep!”                       	
 else
   puts “I have nowhere to sleep”
 end
