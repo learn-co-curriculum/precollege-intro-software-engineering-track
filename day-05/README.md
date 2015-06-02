@@ -71,7 +71,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 	    <td>
 	        Tell kids they are awesome.</br>
 	        
-	        <a href="https://github.com/learn-co-curriculum/hs-mid-course-survey">Mid Course Survey</a></br>
+	        <a href="#">Mid Course Survey</a></br>
 
 	        <a href="https://github.com/learn-co-curriculum/hs-intro-ruby-code-challenge-5">Code Challenge: Facebook</a>
 	    </td>

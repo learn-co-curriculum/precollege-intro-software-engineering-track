@@ -24,4 +24,13 @@
             Students Build!
         </td>
     </tr>
+        <tr>
+        <td>2:50 - 3:00</td>    
+        <td>Wrap</td>
+        <td>
+            Tell the students they're awesome!
+            <br>
+            <a href="https://github.com/learn-co-curriculum/hs-post-class-survey"> Micro Feedback</a>
+        </td>
+    </tr>
 </table>

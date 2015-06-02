@@ -41,6 +41,8 @@
         <td>Graduation Ceremony</td>
         <td>
             <a href="https://github.com/learn-co-curriculum/hs-graduation-guidelines">Gradution Guidelines</a>
+            <br>
+            Post Class Survey
         </td>
     </tr>
 </table>
