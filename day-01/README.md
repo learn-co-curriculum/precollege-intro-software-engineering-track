@@ -73,6 +73,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 </table>
 
 ##Tips for Day 1
+
 ###Before Class One:
 + Find out how many kids need computers / set up computers
 + Make sure kids are on Shortpath
@@ -81,6 +82,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 + Deploy labs and check them:
 + Make sure that team repository has been created (something like https://github.com/flatiron-school-ironboard/hs-ruby-assessment-after-school-advanced-000).
 + Make sure you have a credit card to order pizza lunch (Elana can pre-order from Williamsburg Pizza but you should call the morning of class to make sure it is coming)
+
 ###Day Before:
 + Make sure kids have access to building
 + Make sure students know lunch isn't provided
@@ -90,6 +92,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 + Make key points list of learning objectives
 + Make sure all labs are deployed
 + Make sure surveys are printed or link to survey has been added to Ironboard 
+
 ###Day of:
 + Have music playing when students enter the class
 + Schedule on board before kids go in
