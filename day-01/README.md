@@ -74,6 +74,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 
 ##Tips for Day 1
 
+[Tips](https://docs.google.com/a/flatironschool.com/document/d/1q9xnXgAWXJPaBx358NytoHF4yKStTCphlVpFpazGkjM)
+
 ###Before Class One:
 + Find out how many kids need computers / set up computers
 + Make sure kids are on Shortpath
