@@ -21,7 +21,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>10:00 - 10:30</td>
         <td>Learn Setup and Demo</td>
         <td>
-           ??
+           <a href="hs-nitrous-ssh-setup"> Nitrous Trouble Shooting/Setup</a>
         </td>
     </tr>
     <tr>
