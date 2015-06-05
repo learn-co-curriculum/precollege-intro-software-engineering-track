@@ -72,6 +72,34 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
 </table>
 
+##Tips for Day 1
+###Before Class One:
+Find out how many kids need computers / set up computers
+Make sure kids are on Shortpath
+Send Welcome email
+Make sure all students have been added to github team (Github team is made automatically when Ironboard batch is created and will have the same name, e.g. after-school-000)
+Deploy labs and check them:
+Make sure that team repository has been created (something like https://github.com/flatiron-school-ironboard/hs-ruby-assessment-after-school-advanced-000).
+Make sure you have a credit card to order pizza lunch (Elana can pre-order from Williamsburg Pizza but you should call the morning of class to make sure it is coming)
+###Day Before:
+Make sure kids have access to building
+Make sure students know lunch isn't provided
+Review best practices around instruction strategies and tactics
+Prepare energetic start to class
+Full walkthrough of the entire lesson/labs
+Make key points list of learning objectives
+Make sure all labs are deployed
+Make sure surveys are printed or link to survey has been added to Ironboard 
+###Day of:
+Have music playing when students enter the class
+Schedule on board before kids go in
+hand out surveys at the end of class (or direct students to survey on Ironboard)
+deliver REALLY energetic start to class
+summarize what learned during class and deliver teaser for next week
+actively use students names during class
+break up lecture with interactivity
+
+
 ##SWBATs
 + CLI ‐ Understand and explain what terminal is and why we use it.
 + CLI ‐ Navigate through directories using relative and absolute paths*
