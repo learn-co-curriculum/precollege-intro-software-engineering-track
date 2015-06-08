@@ -23,7 +23,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>
             <a href="https://github.com/learn-co-curriculum/tf-using-nitrous-io">Lecture Guides: Nitrous Setup</a>
             <br>
-           <a href="hs-nitrous-ssh-setup"> Nitrous Trouble Shooting/Setup</a>
+           <a href="https://github.com/learn-co-curriculum/hs-nitrous-ssh-setup"> Nitrous Trouble Shooting/Setup</a>
         </td>
     </tr>
     <tr>
