@@ -50,11 +50,11 @@ ARRAY ITERATION
 + Let’s make a new array but use numbers now. Get an example set from a student and make an integer-based array. Ask a few review questions (add a number? index? etc.)
 + What if we want to do something to each number. Like add one to each number. We could do it manually: `numbers[0] = numbers[0] +1`, etc. We can also use a special method called `.each` that lets us take the same action on all of the items in an array.
 ```ruby
-numbers_plus_one = 
     numbers.each do |number|
       number + 1
     end
-```                 
+```        
+  * Note that the each method doesn't permenantly alter the orginal array         
 + Explain the breakdown of the each method
   + needs a `do` and `end`
   + content in the `|pipes|` is the item from the array that is being iterated through - it’s like a placeholder, doesn’t really matter what it’s called but try to name it sensibly.
