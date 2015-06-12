@@ -65,8 +65,9 @@ So what if we want to change one of the items in the array? Any thoughts on how 
 + Ok, what if we want to do something to each number. Like add one to each number. We could do it manually: + `numbers[0] = numbers[0] +1`, etc. We can also use a special method called `.each` that lets us take the same action on all of the items in an array.
 
 ```ruby
+numbers_plus_one = []
 numbers.each do |number|
-  number + 1
+  numbers_plus_one.push(number + 1)
 end
 ```
 
