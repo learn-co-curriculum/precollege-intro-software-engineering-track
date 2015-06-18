@@ -25,6 +25,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>
     <a href="lectures/oo-review/LECTURE.md">Lecture: OO Review</a></br>
     <a href="lectures/oo-review">Lecture Notes</a></br>
+    <a href="https://docs.google.com/presentation/d/15lxFavK4t-Gmv7dOANBPHiLflKpPgSejAGEnDuqN9Pc">Ruby and OO Jeopardy</a>
     </td>
   </tr>
   <tr>
