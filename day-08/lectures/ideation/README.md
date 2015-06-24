@@ -14,10 +14,10 @@
 + These sites don't change over time - every time you refresh, you have the same experience.
 
 + Some examples built by other students are:
-  * [Erin and Priya](moodmusic-fi.herokuapp.com)
+  * [Erin and Priya](http://moodmusic-fi.herokuapp.com)
   * [Clarence and Fiona](http://breaking-as.herokuapp.com/)
-  * [Caroline](monogram-maker.herokuapp.com)
-  * [Malachi and Jovan](http://which-fruit-are-you.herokuapp.com
+  * [Caroline](http://monogram-maker.herokuapp.com)
+  * [Malachi and Jovan](http://which-fruit-are-you.herokuapp.com)
 + Explain the constraints of the project by showing different applications previous students had built that use the technologies that students will be able to utilize in their applications. 
 
 + At a MINIMUM we want students to walk away with a strong understanding in MVC. Anything beyond that is gravy.
