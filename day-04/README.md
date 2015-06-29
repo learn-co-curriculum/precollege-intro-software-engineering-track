@@ -44,6 +44,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
           <a href="lectures/if-else-statements">Lecture Notes</a></br>
           <a href="https://github.com/learn-co-curriculum/hs-conditional-diet-lab">Lab: Homer's Diet</a></br>
           <a href="https://github.com/learn-co-curriculum/curfew-checker">Lab: Curfew Checker</a></br>
+          <a href="https://github.com/learn-co-curriculum/hs-leap-year-todo">Lab: Leap Years</a></br>
           <a href="https://github.com/learn-co-curriculum/hs-caesar-cipher-stretch-lab">Stretch Lab: Caesar's Cipher</a></br>
         </td>
     </tr>
