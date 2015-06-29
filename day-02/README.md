@@ -44,6 +44,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
             <a href="https://github.com/learn-co-curriculum/hs-ruby-2-parrot-lab">Lab: Parrot</a></br>
 
             <a href="https://github.com/learn-co-curriculum/hs-ruby-2-meal-choice-lab">Lab: Meal Choice</a></br>
+            
+            <a href="https://github.com/learn-co-curriculum/hs-mothers-day">Lab: Mother's Day</a></br>
 
             <a href="https://github.com/learn-co-curriculum/hs-speaking-grandma-lab">Lab: Speaking Grandma</a></br>
 
