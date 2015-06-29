@@ -15,9 +15,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>To-Do</td>
         <td>
             <a href="https://docs.google.com/presentation/d/1XFklyQuHRVgEgERYsHcyhIniOL3kewq6-Ajjp5HiPt4/edit#slide=id.p">Day 3 Deck</a></br>
-
-            <a href="https://github.com/learn-co-curriculum/hs-leap-year-todo">To-Do: Leap Years</a></br>
-
             <a href="https://github.com/learn-co-curriculum/hs-data-structures-to-do">To-Do: Crazy Strings</a>
         </td>
     </tr>
