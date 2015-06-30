@@ -14,7 +14,6 @@
 + METHODS - explain and determine the return value of a method
 + METHODS - explain what the return value of the puts method is
 + METHODS - differentiate between methods that puts and methods that return a value
-+ IRB - use IRB to test out ruby code
 + SCOPE - explain that local variables cannot work between methods because of scope
 + METHODS - explain the difference between defining and calling a method
 + METHODS - call previously defined custom methods
@@ -74,23 +73,20 @@ end
 + ***Write a few more methods with class:*** How old will I be in 10 years? What is my name spelled backwards. Change all w’s to v’s.
 * ***Break and have them write and call methods in a lab***
 	+ https://github.com/learn-co-curriculum/hs-ruby-2-methods-practice-lab 
-+ It’s been really fun writing everything out in a file and then running a file to see what happens, but wouldn’t it be nice if we could experiment without saving and re-running the file every time?
-+ Enter IRB - it stands for interactive ruby
-+ IRB is also an example of a REPL (read-evaluate-print-loop) something that will evaluate code and print out the results. If you’ve done Codecademy or any other similar interactive online course then you’ve used a REPL before.
-+ Let’s play! Everyone open up your terminal and type in irb
-	+ Type in `1+1`. What happens?
-	+ Type `name = your_name_here`, then name. What happens?
-	+ The thing following `=>` this is the return value
-	+ IRB is evaluating some code that you are giving it and sending back the value
-+ Important things to remember about IRB
-	+ When you start up IRB only ruby code works (NO BASH even though you are in the terminal)
-	+ Any work you do in IRB will not be saved. You create a completely new IRB world every time you fire up IRB. 
-	+ You should think of IRB as a tool for experimenting
-+ Let’s run a method in IRB. Copy and paste go_home method into IRB
-	+ Why do we get back `:go_home`?
-	+ IRB is telling us - got it, you just put in a go_home method - this method is ready for you to use
-	+ So now we can call it with `go_home` - then we see our instructions print to the screen and the return value nil. What is this nil thing?
-+ A return value is always going to be the result of the last line of code in a method. So the return value of 
+
++ Every method that we write gives us something called a return value - this is what Ruby evaluates for us and gives us back to use in other parts of our program. The return value of our methods is the last line evaluated. 
++ What would the return value of these methods be?
+	```ruby
+	def hello_world
+		"Hello World"
+	end # returns "Hello World"
+
+	def one_plus_one
+		1 + 1 
+	end # returns 2 - ruby evaluates the line first
+	```
++ A return value is always going to be the result of the last line of code in a method. So what's the return value of the following method:
+
 ```ruby
  def go_home 
 	puts “Close your computer”
@@ -100,7 +96,7 @@ end
 	puts “Go to your house”
 end
 ```
-is nil. Why?
++ Actually, it returns `nil`. Nil is Ruby's way to saying "nothing". Why would `puts 
 + `puts` is a method - and it’s only purpose is to print something to the screen. It doesn’t evaluate anything it just prints out and returns NOTHING or nil. So the last line of our program is calling the puts method - which prints something to the screen AND returns nothing or nil
 + Let’s look at another example
 ```ruby
@@ -109,7 +105,7 @@ def go_home
 	return “Go home!”
 end
 ```
-+ See the change in the return value? IRB read (evaluated) the last line of code and returned it to us. We weren’t asking it to do anything so it just gave us back the string that was in the last line of code. 
++ What will this method return? Ruby read (evaluated) the last line of code and returned it to us. We weren’t asking it to do anything so it just gave us back the string that was in the last line of code. 
 + Try deleting “Go home!” from the last line of the method and replacing it with 1+1. What was the return value? 
 	+ The important thing to remember is that Ruby reads code from top to bottom and will ALWAYS return the result of the last line of code
 	+ We actually don’t even need that word return. Ruby will automatically return that last line.
@@ -126,7 +122,7 @@ say_hello.upcase
 ```
 + This doesn’t work! Why do we get this error message: `undefined method 'upcase' for nil:NilClass`
 + Because puts returns nil. How might we make this work? 
-+ There are a ton of other pre-written Ruby methods like upcase and downcase that you can use. Different methods can be used on different data types. For example, you can use upcase on a string but not an integer or a float. They can be found [here](http://www.ruby-doc.org/core-2.1.1/) in the ruby docs:  
++ There are a ton of other pre-written Ruby methods like upcase and downcase that you can use. Different methods can be used on different data types. For example, you can use upcase on a string but not an integer or a float. They can be found [here](http://www.ruby-doc.org/core-2.1.1/) in the ruby docs: 
 + Show class how to search for classes and methods
 + Command F
 
@@ -163,7 +159,7 @@ end
 And how would we call this? `say_name(“Vanessa”)`, `say_name(“Victoria”)`
 
 + When you call this method you can feed it any string that you want as the name - but remember it has to be a string.
-+ Everyone open up sublime and write out this method and try calling it with different names.
++ Everyone open up your text editor and write out this method and try calling it with different names.
 	+ Say thing from CLI
 + Methods don’t always have to take in strings though. They can also take in numbers and multiple arguments at one time.
 For example:
