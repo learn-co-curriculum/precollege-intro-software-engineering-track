@@ -58,7 +58,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>12:30 - 2:50</td>
         <td>Group Project - Ruby Calculator</td>
         <td>
-            <a href="https://github.com/learn-co-curriculum/hs-ruby1-teachers-guide-calculator-project">Introduce the Ruby Calculator Project</a></br>
+            <a href="lectures/group_project">Introduce the Ruby Calculator Project</a></br>
             <a href="https://github.com/learn-co-curriculum/hs-ruby-group-project">Group Project: Ruby Calculator</a>
         </td>
     </tr>
