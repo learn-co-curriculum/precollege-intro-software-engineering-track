@@ -242,3 +242,4 @@ Object-oriented programming is powerful for a few main reasons. First of all, wh
 + Get students to understand that anything can be turned into a class with attributes and actions. Pick a bunch of different items and make them say the attributes and actions for those classes.
 + Wait to introduce attr_accessor until the next class so they can really dig their teeth into how reader and writer methods work.
 + The baby example works really well to explain to students how reader, writer and initialize methods work
++ Be ready with real-world examples if students need more context. Thinking about a User class works well - how do users vary for different apps? Let students know that we use examples like Dogs and Babies to practice syntax. 
