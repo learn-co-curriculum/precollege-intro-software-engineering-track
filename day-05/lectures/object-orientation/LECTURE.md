@@ -183,6 +183,7 @@ steph = {
       end
     end
     ```
++ Knowing this, what do you think the user class of Twitter looks like? ** Have the students name the similarities and differences **
 + Lab: [Garden Gnome](https://github.com/learn-co-curriculum/hs-garden-gnome-oo-lab)
 + Everything is an object
   * The string `"hi"` is actually `String.new("hi")`
