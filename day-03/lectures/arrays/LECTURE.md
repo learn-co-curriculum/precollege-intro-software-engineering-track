@@ -62,11 +62,11 @@ So what if we want to change one of the items in the array? Any thoughts on how 
 + ***Answer: `["Peru", "Laos", "Chad", "Cuba", "Togo", "Iraq", "Iran", "Mali", "Oman", "Fiji"]`*** 
 
 + Let’s make a new array but use numbers now. Get an example set from a student and make an integer based array. Ask a few review questions (add a number? index? etc…)
-+ Ok, what if we want to do something to each number. Like add one to each number. We could do it manually: + `numbers[0] = numbers[0] +1`, etc. We can also use a special method called `.each` that lets us take the same action on all of the items in an array.
++ Ok, what if we want to do something to each number. Like add one to each number and print it out. We could do it manually: + `numbers[0] = numbers[0] +1`, etc. We can also use a special method called `.each` that lets us take the same action on all of the items in an array.
 
 ```ruby
 numbers.each do |number|
-  number + 1
+  puts number + 1
 end
 ```
 
