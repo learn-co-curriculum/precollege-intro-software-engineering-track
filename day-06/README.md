@@ -33,7 +33,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>Start Group Lab</td>
     <td>
       <a href="lectures/object-oriented-group-project">Lecture: Object Oriented Group Project</a></br>
-		 	<a href="https://github.com/learn-co-curriculum/hs-oo-cash-register">Lab: Cash Register</a>
+      <a href="https://github.com/learn-co-curriculum/hs-oo-cash-register">Project: Cash Register</a>
+		 	<a href="https://github.com/learn-co-curriculum/hs-oo-snapchat">Project: SnapChat</a>
     </td>
   </tr>
   <tr>
