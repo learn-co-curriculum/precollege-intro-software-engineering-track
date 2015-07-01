@@ -2,6 +2,7 @@
 
 ## SWBATs
 + Work collaboratively to develop an object-oriented set of models that simulate real world environments.
++ Groups can choose to either do the Cash Register Lab, which is test driven, or the Snapchat project, where they'll build out the Snapchat user from scratch. 
 
 ## Motivation / Why Should You Care?
 + The object-oriented group challenge involves building out a set of models that imitate the real world and interact with each other. Knowing object orientation like the back of your hand is essential to being a strong Ruby programmer. Whether you're building a simple command line application or a full-fledged web application, object orientation will help you build in an efficient, D.R.Y., and reusable manner.
@@ -12,11 +13,10 @@
 Now you guys get the chance to build out the software that handles 37 million packages a day.
 
 ## Lesson Plan
-+ Students should be divided into groups of 3-4 to build the Cash Register Project. 
-+ This lab is totally speced out with rspec to provide suppprt
++ Students should be divided into groups of 3-4 to build the Cash Register Project or Snapchat Project. 
++ The cash register is totally speced out with rspec to provide support - the Snapchat project is open ended.
 + Teach default method arguments before starting this lab
-+ Dive into the group challenges, starting with the [OO Cash Register](https://github.com/learn-co-curriculum/hs-oo-cash-register).
-+ They can move on to the [Jukebox](https://github.com/learn-co-curriculum/oo-jukebox) if they finish. 
++ They can move on to the other project or [Jukebox](https://github.com/learn-co-curriculum/oo-jukebox) if they finish. 
 
 ## Conclusion / So What?
 + Object orientation is not unique to Ruby. It's a programming concept that many different languages implement. So once you've gotten it down in Ruby, it'll be easy to translate your knowledge onto other programming languages that you'll learn, like JavaScript. So many of these concepts cut across languages, so the more you know, the easier it'll be to master additional languages in the future.
