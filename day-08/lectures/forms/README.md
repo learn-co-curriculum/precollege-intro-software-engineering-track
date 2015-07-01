@@ -72,3 +72,6 @@ end
 
 We can now accept input from our users and give output based on our responses! We've learned how every website anywhere takes in user's data. 
 
+### Hints/Hurdles
+
++ This is a lot to pack into one MVC lecture - feel free to save this for after Ideation/early Day 9. 
