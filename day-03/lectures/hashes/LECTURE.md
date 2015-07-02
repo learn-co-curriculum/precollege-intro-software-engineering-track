@@ -56,6 +56,12 @@ names_hash.each do |key, value|
 
 + We can replace the key and value placeholders with anything we want, these are just placeholders. Just remember that the first one is for the key and the second is always representing the value.
 + ***Iteration with hashes Mini-Lab***
+
+
+## Nested Data Structures
+
+**Teacher's Note - take the temperature here - it's okay to save nested data structues for the review tomorrow morning if it seems like too much.**
+
 + Hashes and Arrays can occur inside of other hashes and arrays. How do we pull individual items out if this is the case?
   + `salad_ingredients =[[“romaine”, “kale”, “spring mix”],[“tomatoes”, “avocado”, “beets”],[“vinaigrette”, “ranch”, “ginger-soy”]]`
   + ***Prompt students through finding individual items.***
