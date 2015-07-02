@@ -25,6 +25,8 @@ This is industry practice.
 
 + We’re going to learn about the command line by planning for a trip. Open your terminal and type `pwd`. (stop and have all students do this) `pwd` stands for print working directory. It will tell you where you are currently ‘standing’ in terms of directories. A directory is just a fancy shmancy word for a folder.
 
++ A directory can contain one of two things - files or other directories. The directories on your computer are nested inside of each other, like a Russian doll. 
+
 + When you open your terminal you’ll see a tilde: `~`. This means you’re in your root. Logged in state of your computer
 
 + Let’s change directories. First check what directories are within the directory where you are standing by using `ls`, stands for list
