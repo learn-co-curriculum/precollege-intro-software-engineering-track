@@ -24,6 +24,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>MVC</td>
     <td>
     	<a href="lectures/mvc">Lecture: MVC</a></br>
+      <a href="lectures/mvc/SEQUENCE.md">MVC Lecture Sequence</a></br>
     	<a href="lectures/forms">Lecture: Forms</a></br>
     	<a href="https://github.com/learn-co-curriculum/hs-mvc-interactive-practice">Interactive Practice: MVC Framework</a>
     </td>
