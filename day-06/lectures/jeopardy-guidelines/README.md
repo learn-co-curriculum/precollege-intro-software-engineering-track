@@ -17,6 +17,8 @@ You may be familiar with the popular television trivia game show Jeopardy starri
 
 + Set up one teacher at the laptop to serve as Alex Trebek and another to keep score and time for the class. 
 
++ Choose timing for each question 100 and 200 category questions require about 30 s - 1 minute. 300 and 400s need about 1 - 1.5 minutes. 500s need about 1.5 - 2 minutes to answer. 
+
 
 ###How to Play
 
