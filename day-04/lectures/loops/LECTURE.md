@@ -74,7 +74,7 @@ end
 
 + Talk through the example in code-free English. "As long as my bag has more than 0 M&Ms in it I can keep on snacking."
 + As long as whatever statement is next to the `while` keyword is true, the block will run. 
-+ Once it's not true the loop will stop going. Each time you stick your hand into the bag of M&Ms you're removing five pieces of candy. In code we change our m_&_m_count every cycle of the loop so it now is what it was on the last loop minus five. We call this decrementing.
++ Once it's not true the loop will stop going. Each time you stick your hand into the bag of M&Ms you're removing five pieces of candy. In code we change our mm_count every cycle of the loop so it now is what it was on the last loop minus five. We call this decrementing.
 + If you were to magically add five M&Ms every time you stuck your hand in the bag that would be called incrementing. 
 
 We use this count scenario a lot so there's also a shorthand that you might see for adding and subtracting from the count or total. It looks like this:
@@ -107,7 +107,7 @@ end
 
 ##Until Loops
 
-Just like a while loop, but a slightly different way to phrase it. Let's look at our M&M example, but substitute a in the until keyword. 
+Just like a while loop, but a slightly different way to phrase it. Let's look at our M&M example, but substitute in the `until` keyword. 
 
 
 ```
@@ -126,7 +126,7 @@ end
 
 ##For Loops
 
-For loops are like a mini .each. You won't use them too much but just to walk through what's happening. The key to using a for loop is that you can only use it with a collection (we already know about the most common type of collection we use in Ruby -- arrays!!).
+For loops are like a mini .each. You won't use them too much, but it's good to know what's going on in case you see one and it never hurts to have one extra tool in your toolbelt. The key to using a for loop is that you can only use it with a collection (we already know about the most common type of collection we use in Ruby -- arrays!!).
 
 ```
   for candy_type in ["sour patch kids", "m&ms", "snickers", "gummi worms"]
