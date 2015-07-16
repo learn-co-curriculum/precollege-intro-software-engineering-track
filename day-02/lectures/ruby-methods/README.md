@@ -170,9 +170,8 @@ end
 
 puts say_hello
 ```
-+ Run the file. You get an error...
-  + “Undefined local variable or method ‘name'”
-  + Method doesn't know `name` because it is outside the method territory.
++ **_Error!_** This doesn’t work! Why do we get this error message: `NameError: undefined local variable or method 'name'`
+  + `say_hello` doesn't know `name` because it is outside the method's territory or **_scope_**.
   + **_Co-Teacher:_**  Draw circles on the board. The big circle is the program. The small circle is the method. The method is only aware of what is in the small circle.
 + `name` is outside the scope of the method, so it's not visible inside the method.
 
