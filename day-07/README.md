@@ -48,6 +48,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     	<a href="https://github.com/learn-co-curriculum/ecard-site-layout">Stretch Lab: eCard</a></br>
     	<a href="https://github.com/learn-co-curriculum/fe-jquery-exploring-selectors">Stretch Lab: jQuery Selectors</a></br>
     	<a href="https://github.com/learn-co-curriculum/fe-jquery-exploring-methods">Stretch Lab: jQuery Methods</a></br>
+    	<a href="https://github.com/learn-co-curriculum/hs-my-website">Stretch Lab: Make Your Own Personal Website!</a></br>
+    	
 
     </td>
   </tr>
