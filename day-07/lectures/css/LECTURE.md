@@ -72,6 +72,34 @@
   * classes are used to group different chunks of HTML and add the same styling to it.
 + Show students [references they can use](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) to look up other CSS properties.
 
+######Optional Stretch Concept:  Float Left/Right
++  Another cool power CSS gives us is the ability to arrange items on the page.  One way to do this is through `float` which can postion items to the left or the right of the page.
++  In the following example we will use some basic html elements to show how `float` works.  Below are two `divs` that CSS will turn into simple squares.    
+```html
+<div class="red-box">
+    
+</div>
+<div class="green-box">
+    
+</div>
+```
++  Now we have the html finished let's add some style!
+```css
+.red-box {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    float: right;
+}
+.green-box {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    float: left;
+}
+```
++  Add and remove the float command to demonstrate what it is doing to the boxes.  
+
 ### Conclusion / So What?
 + Congratulations! You now have both front-end and back-end skills in your web development arsenal. You just about know everything you need to know to build your own web application. Now you just have to put them all together. The key to getting your front-end to play nicely with the back-end is a Ruby framework called Sinatra.
 
