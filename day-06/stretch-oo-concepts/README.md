@@ -1,16 +1,16 @@
 # DAY-06 Advanced Object Orientation Concepts -- Optional
 
-If it seems some or all of your students picked up the basics of object orientation pretty quickly then you may want to also expose them to these additional concepts with them: object interactions, class methods, class variables and "self". They may encounter some of these topics in the Below are a few notes on what you might cover with them. 
+If it seems some or all of your students picked up the basics of object orientation pretty quickly then you may want to also expose them to these additional concepts with them: object interactions, class methods, class variables and "self". They may encounter some of these topics in the bonuses or extra challenges in the day 6 labs. Below are a few notes on what you might cover with them. 
 
 ## SWBATs
 
-+ Advanced students will be exposed to stretch object oriented concepts, which will help them solve bonuses and stretch labs and challenge their abstract thinking abilities.
++ Advanced students will be exposed to stretch object oriented concepts.
 
 
 ## Motivation / Why Should You Care?
 + Creating instance methods and variables is just one layer of what makes structuring your code in an object oriented way more powerful than the procedural way.
 + In real programs you'll have more than just one more model or object to work with. Objects represent real app interactions to make your code more dynamic and complex. Take Facbeook for example, we've talked about a User class in the past for a variety of social networks, but Posts might also have specific functionality separate from Users, so you'd need another Post class.
-+ Object orientation isn't just used in Ruby, but a lot of different programming languages including Javascript, Python and C++. 
++ Object orientation isn't unique to Ruby. In fact a few other popular programming languages including Javascript, Python and C++ use OO. 
 + Being able to understand how manipulating the class as a whole will prepare you to add more abstract concepts introduced by adding on a framework (like Rails, which is not in the scope of this course) and ActiveRecord or databases in particular. 
 
 
