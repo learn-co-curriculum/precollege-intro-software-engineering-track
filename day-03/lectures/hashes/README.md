@@ -13,11 +13,21 @@ _A full lecture is available [here](LECTURE.md)_
 + Hashes give context to data (a bunch of ages without names to associate them with mean nothing), it’s a additional data dimension. 
 + They are like two column tables. The difference is that for an array the left side of the column is the index, for hashes there is no numbered index, but there is another piece of data on the left side of the table, called the **key**.
 
+####Hash
+
 | Key | Value |
 | --- | --- |
 | “Danny” | “December 3” | 
 | “Victoria” | “December 2” |
 | “Vanessa” | "September 16” |
+
+####Array Example for Comparison
+ 
+| Index | Item |
+| --- | --- |
+| 0 | "Danny" |
+| 1 | "Victoria" |
+| 2 | "Vanessa" |
 
 + We use hashes when we have a piece of data tied to another piece of data. We call this a key-value pair. The key in a hash has to be unique, because it’s how we access values from the hash. 
 + We write a hash like this: `names_hash = { “Danny” => “December 3”, “Victoria” => “December 2” }`
@@ -34,7 +44,10 @@ ACCESSING DATA IN A HASH
 + Hash methods to look at: .values, .keys, .length, .include?
 
 ITERATING THROUGH HASHES
-+ Let’s learn about iteration in hashes, just like we did for arrays. For arrays we only wanted to loop through and do something to the value, but since a hash has a pair of data, we can use them both with `.each`. Say I want to print a string for each key-value pair that reads: `“#{name} has a birthday on #{birth_date}`. We do this with the `.each` method:
++ Let’s learn about iteration in hashes, just like we did for arrays. For arrays we only wanted to loop through and do something to the value, but since a hash has a pair of data, we can use them both with `.each`. Say I want to print a string for each key-value pair that reads: `“#{name} has a birthday on #{birth_date}`.  We do this with the `.each` method: 
+
+######OPTIONAL:  Allow students at this point to write out the .each method on their whiteboards.
+
 ```ruby
 names_hash.each do |key, value|
     puts “#{key} has a birthday on #{value}.
