@@ -48,7 +48,7 @@ steph = {
 + Objects have descriptors (attributes) and actions (methods)
   * List possible descriptors and actions for a Facebook user
 + Instance variables, which can also be called attributes, hold an assigned value
-+ Instance variables require one method to exist called the **_getter_** method:
++ Instance variables require one method to exist called the **reader** method:
 ```ruby
   class User
   
@@ -58,7 +58,7 @@ steph = {
     
   end
 ```
-+ If we want to be able to change the value of the instance variable like a user's age, a second method is required called a **_setter_** method:
++ If we want to be able to change the value of the instance variable like a user's age, a second method is required called a **writer** method:
 ```ruby
   class User
   
@@ -76,7 +76,7 @@ steph = {
     
   end
 ```
-+ **_Getter_** and **_setter_** methods may also be referred to as **_reader_** and **_writer_** methods
++ **_reader_** and **_writer_** methods may also be referred to as **_getter_** and **_setter_** methods
 + Interactive Lab: (Basic Objects)[https://github.com/learn-co-curriculum/hs-basic-objects-mini-lab]
 + Initialize method
   * Have students add an initialize method to their interactive lab classes
