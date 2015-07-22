@@ -49,9 +49,18 @@ ADD AND REMOVE ITEMS
 ARRAY ITERATION
 + Let’s make a new array but use numbers now. Get an example set from a student and make an integer-based array. Ask a few review questions (add a number? index? etc.)
 + What if we want to do something to each number. Like add one to each number. We could do it manually: `numbers[0] = numbers[0] +1`, etc. We can also use a special method called `.each` that lets us take the same action on all of the items in an array.
+
+######OPTIONAL: Allow students to write out .each method on their whiteboards.
+
 ```ruby
     numbers.each do |number|
       number + 1
+    end
+    
+    names = ["danny", "lyel", "victoria", "vanessa"]
+    
+    names.each do |name|
+     name.capitalize
     end
 ```        
   * Note that the each method doesn't permenantly alter the orginal array         
