@@ -36,6 +36,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     	<a href="https://github.com/learn-co-curriculum/fe-riyadh-blog">Lab: Riyadh Blog</a></br>
     	<a href="https://github.com/learn-co-curriculum/html-issue-bot-9000">Lab: HTML Issue Bot 9000</a></br>
     	CSS Labs</br>
+      <a href="https://github.com/learn-co-curriculum/hs-ruby1-my-website"> Lab: Build Your Own Site</a>
     	<a href="https://github.com/learn-co-curriculum/hs-empire-state-css-challenge">Lab: Empire State CSS Challenge</a></br>
     	<a href="https://github.com/learn-co-curriculum/hs-my-little-rainbow">Lab: My Little Rainbow</a></br>
     	<a href="https://github.com/learn-co-curriculum/hs-css-graffiti-override">Lab: Grafitti Override</a></br>
