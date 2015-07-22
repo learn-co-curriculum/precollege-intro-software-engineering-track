@@ -19,131 +19,107 @@ If it seems some or all of your students picked up the basics of object orientat
 + In past examples of objects we've been dealing with attributes that have been strings like @name = "Bob" or integers like @age = 17. An attribute can be any datatype, including another object that you've created. 
 + The examples below show how we can initialize an object we've created with a different object we've created in the same way that we would initialize it with a string. 
 
+Let's build Facebook's user class
 ```ruby
 
-class Dog
-
-  attr_reader :name, :breed, :age
-  attr_accessor :owner
-
-
-  def initialize(name,breed,age)
-    @name = name
-    @breed = breed
-    @age = age
-    @owner = nil
-  end
-
-end
-
-
-class Owner
+class User
+  attr_accessor :name, :email, :num_friends, :friends, :photos
+  attr_writer :password 
   
-  attr_accessor :dog
-  attr_reader :name
-
-  def initialize(name,dog=nil)
+  def initialize(name, email, password)
     @name = name
-    @dog = dog
+    @email = email
+    @password = password
+    @num_friends = 0
+    @friends = []
+    @wall = []
+    @photos = []
   end
-
-  def talk_about_dog
-    "My dog's name is #{@dog.name} and it's a #{@dog.breed}. My dog is #{@dog.age}-years-old."
+  
+  
+  def add_friends(new_friend)
+    @num_friends = @num_friends + 1
+    @friends.push(new_friend)
   end
-
+  
+  def upload_photo(new_photo)
+    @photos.push(new_photo)
+  end
+  
+  def wall
+    puts "Here is #{@name}'s wall!!"
+    puts @wall.each do |post|
+      puts post 
+    end
+    puts @photos.each do |photo|
+      puts photo
+  end
 end
 
-doug_funny = Owner.new("Doug Funny")
-porkchop = Dog.new("Porkchop","French Bulldog",3)
-doug_funny.dog=porkchop
-porkchop.owner=doug_funny
-doug_funny.talk_about_dog
+danny = User.new("Danny", "danny@gmail.com", "skittles123")
+danny.email=("iluvduckz@aol.com")
 
 
+lyel = User.new("Lyel", "l@al.com", "puppies6767")
+lyel.upload_photo("picture of babies hugging puppies!!!")
+
+
+  
+danny.add_friend(danny)
+danny.upload_photo("kittenz on fleek<3")
+danny.wall
+
+
+  
 ```
++ In this example, we have two instances of a user class `lyel` and `danny`. 
++ When Danny adds lyel as a friend it adds the entire lyel object to danny's friends array, not just the string "Lyel"
 
 + You can also use one object to call another object's methods.
 
-
 ```ruby
 
-class Dog
-
-  attr_reader :name, :breed, :age
-  attr_accessor :owner, :hunger_level, :needs_walk
-
-
-  def initialize(name,breed,age)
-    @name = name
-    @breed = breed
-    @age = age
-    @owner = nil
-    @hunger_level = 0
-    @needs_walk = false
-  end
-
-  def get_walked
-    @needs_walk = false
-    @hunger_level += 5
-  end
-
-  def get_fed
-    @hunger_level -= 10
-  end
-
-  def hungry?
-    if @hunger_level >= 10
-      return true
-    else
-      @needs_walk = true
-      return false
-    end
-  end
-
-  def needs_walk?
-    @needs_walk
-  end
-
-end
-
-
-class Owner
+class User
+  attr_accessor :name, :email, :num_friends, :friends, :photos
+  attr_writer :password 
   
-  attr_accessor :dog
-  attr_reader :name
-
-  def initialize(name,dog=nil)
+  def initialize(name, email, password)
     @name = name
-    @dog = dog
+    @email = email
+    @password = password
+    @num_friends = 0
+    @friends = []
+    @wall = []
+    @photos = []
   end
-
-  def talk_about_dog
-    "My dog's name is #{@dog.name} and it's a #{@dog.breed}. My dog is #{@dog.age}-years-old."
+  
+  
+  def add_friends(new_friend)
+    @num_friends = @num_friends + 1
+    @friends.push(new_friend)
   end
+  
 
-  def walk_dog
-    @dog.get_walked
+  def list_friends
+    @friends.each do |friend|
+      friend.name
+      friend.email
   end
-
-  def feed_dog
-    if hungry?
-      @dog.get_fed
-    else
-      @dog.get_walked
-    end
-  end
-
 end
 
-doug_funny = Owner.new("Doug Funny")
-porkchop = Dog.new("Porkchop","French Bulldog",3)
-doug_funny.dog=porkchop
-porkchop.owner=doug_funny
-doug_funny.walk_dog
-doug_funny.feed_dog
+danny = User.new("Danny", "danny@gmail.com", "skittles123")
+danny.email=("iluvduckz@aol.com")
+
+lyel = User.new("Lyel", "l@al.com", "puppies6767")
+
+danny.add_friend(lyel)
+
+danny.list_friends
 
 
 ```
+
++ In this example, the `list_friends` method iterates over danny's list of friends, and displays each friend's name and email
 
 ##Class Variables and Class Methods
 
@@ -195,10 +171,55 @@ end
 ##Self
 
 + This is going to sound weird, but Ruby classes are self aware -- meaning they know what they are and what properties and methods it has at all times. That's why we can call `[1,2,3].class => Array` or `vampire_diaries.class => TvShow`. 
-+ Just like in the English language it can sometimes be helpful referring to yourself -- instead of saying 'me' or 'I' we use the keyword self. 
-+ Self can be kind of confusing because it actually has two different meanings depending on where it's used. 
-+ In a class method, self means the object as a whole. That's why we make class methods with self in front of them. We're telling Ruby, this is a method that can be called directly onto TvShow. Within an instance `self` actually means
++ Just like in the English language it can sometimes be helpful referring to yourself -- instead of saying 'me' or 'I' we use the keyword `self`. 
++``self` can be kind of confusing because it actually has two different meanings depending on where it's used. 
++ In a class method, `self` means the class as a whole. That's why we make class methods with `self` in front of them. We're telling Ruby, this is a method that can be called directly onto TvShow. Within an instance `self` actually means
 + Use an analogy to a machine or factory(the class) versus what the machine or factory makes(the instance). A car factory takes in pieces, makes the car and then delivers the new car to dealerships all over the world. The factory knows about all the cars it's made to keep track for safety purposes and so they know how many cars they've sold.
+
+```
+class User
+  attr_accessor :name, :email, :num_friends, :friends, :photos
+  attr_writer :password 
+  
+  def initialize(name, email, password)
+    @name = name
+    @email = email
+    @password = password
+    @num_friends = 0
+    @friends = []
+    @wall = []
+    @photos = []
+  end
+  
+  
+  def add_friends(new_friend)
+    @num_friends = @num_friends + 1
+    @friends.push(new_friend)
+    new_friend.friends << self
+    new_friend.num_friend += 1
+  end
+  
+
+  def list_friends
+    @friends.each do |friend|
+      friend.name
+      friend.email
+  end
+end
+
+danny = User.new("Danny", "danny@gmail.com", "skittles123")
+danny.email=("iluvduckz@aol.com")
+
+lyel = User.new("Lyel", "l@al.com", "puppies6767")
+
+danny.add_friend(lyel)
+
+danny.list_friends
+```
+
++ If you think about what happens when you add a friend on Facebook, not only does your number of friends increment by one, and it adds a friend to your list of friends, but it also adds you to that person's list of friends and increments their friend list.
++ When danny adds lyel as friend on Facebook, we expect lyel to be added to danny's list of friends, and danny to be added to lyel's list.
++ Inside the `add_friend` method, `self` is a reference to the current object. Because we used `danny.add_friend(lyel)`, danny is the current object. `new_friend` refers to the lyel object. After we add lyel to danny's list, and increment danny's number of friends, we can add danny to lyel's list `new_friend.friends << self`. Because `self` refers to `danny`, we're adding danny to lyel's list `new_friend.friends`
 
 ##Conclusion/So What?
 
