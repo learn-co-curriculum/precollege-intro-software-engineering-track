@@ -20,16 +20,16 @@ We have if statements in Ruby. They start with the keyword `if`, and end with th
   ```ruby
   	packing_list = [“socks”, “sleeping bag”, “trail mix”]
 
-  	if packing_list.includes?(“sleeping bag”)
+  	if packing_list.include?(“sleeping bag”)
   	    puts “I have a place to sleep!”
   	end
   ```
 
-in IRB: demonstrate the .includes? method:
+in IRB: demonstrate the .include? method:
 
 ```ruby
-  [1,2,3].includes?(2) #returns true
-  [1,2,3].includes?(4) #returns false
+  [1,2,3].include?(2) #returns true
+  [1,2,3].include?(4) #returns false
 ```
 
 + true and false are boolean values, which is another data type
@@ -55,7 +55,7 @@ we can use the data types true and false:
 ```ruby
   packing_list = [“socks”, “matches”, “trail mix”]
 
-	if packing_list.includes?(“sleeping bag”)
+	if packing_list.include?(“sleeping bag”)
 	    puts “I have a place to sleep!”
 	else 
 	    puts “I need to pack a sleeping bag”
@@ -68,9 +68,9 @@ we can use the data types true and false:
 ```ruby
 packing_list = [“socks”, “matches”, “trail mix”]
 
-if packing_list.includes?(“sleeping bag”) && packing_list.includes?(“blanket”)
+if packing_list.include?(“sleeping bag”) && packing_list.include?(“blanket”)
   puts “I’ll be warm”
-elsif packing_list.includes?(“sleeping bag”) || packing_list.includes?(“blanket”)
+elsif packing_list.include?(“sleeping bag”) || packing_list.include?(“blanket”)
   puts “i have a place to sleep!”                       	
 else
   puts “I have nowhere to sleep”
