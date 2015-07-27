@@ -39,7 +39,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <a href="https://github.com/learn-co-curriculum/hs-ruby1-facebook-review">Facebook Example</a>
       <br>
       OO Advanced Material Lecture - Facebook Example - lead by an instructor
-        <a href="strech-oo-concepts">Stretch Concepts</a>
+        <a href="strech-oo-concepts/README.md">Stretch Concepts</a>
         <a href="https://github.com/learn-co-curriculum/hs-ruby1-facebook-stretch-example"> Facebook Stretch Example</a>
     </td>
   </tr>
