@@ -33,10 +33,13 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
       This day should be structured to allow students at different levels to work and be happy :)
       Let students self select what group to be in:
       <br>
+      <br>
       Lab Practice - Do unfished OO labs from Day 5. This group is supported by the TA
+      <br>
       <br>
       OO Lecture Review - Facebook example. Lead by an instructor
         <a href="https://github.com/learn-co-curriculum/hs-ruby1-facebook-review">Facebook Example</a>
+      <br>
       <br>
       OO Advanced Material Lecture - Facebook Example - lead by an instructor
         <a href="strech-oo-concepts/README.md">Stretch Concepts</a>
@@ -55,9 +58,14 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>Group PROJECT!</td>
     <td>
       It's incredibly important to phrase this as a group project - let groups decide if they want to do a structured test-driven project (OO Amazon Payment) OR a more open-ended no test or structure SnapChat
-       <a href="lectures/object-oriented-group-project">Lecture: Object Oriented Group Project</a></br>
+       <a href="lectures/object-oriented-group-project">Lecture: Object Oriented Group Project</a>
+     </br>
+     <br>
+
       <a href="https://github.com/learn-co-curriculum/hs-oo-cash-register">Project: Amazon Payment</a>
+      <br>
       + add suggestions for advanced features
+      <br><br>
       <a href="https://github.com/learn-co-curriculum/hs-oo-snapchat">Project: SnapChat</a>
   
     </td>
