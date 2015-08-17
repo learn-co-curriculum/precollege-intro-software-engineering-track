@@ -105,7 +105,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 + METHODS - explain and determine the return value of a method
 + METHODS - explain what the return value of the puts method is
 + METHODS - differentiate between methods that puts and methods that return a value
-+ IRB - use IRB to test out ruby code
 + SCOPE - explain that local variables cannot work between methods because of scope
 + METHODS - explain the difference between defining and calling a method
 + METHODS - call previously defined custom methods
