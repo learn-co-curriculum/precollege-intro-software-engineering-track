@@ -89,11 +89,11 @@ end
 
 ```ruby
  def go_home 
-	puts “Close your computer”
-	puts “Put it in your bag”
-	puts “Stand up”
-	puts “Walk out the door” 
-	puts “Go to your house”
+	puts "Close your computer"
+	puts "Put it in your bag"
+	puts "Stand up"
+	puts "Walk out the door" 
+	puts "Go to your house"
 end
 ```
 + Actually, it returns `nil`. Nil is Ruby's way to saying "nothing". Why would `puts 

@@ -49,19 +49,6 @@ end
   3. Change all w’s to v’s.
 + Break and have students write and call methods in [Methods Practice Lab](https://github.com/learn-co-curriculum/hs-ruby-2-methods-practice-lab)
 
-INTERACTIVE RUBY (IRB)
-+ It’s been really fun writing everything out in a file and then running that file to see what happens, but wouldn’t it be nice if we could experiment without saving and re-running the file every time? That's where Interactive Ruby aka IRB comes in.
-  + IRB == REPL (like Codeacademy)
-  + In terminal type `irb` then `1 + 1` and `name = "Your Name"`
-  + Thing after `=>` is RETURN VALUE
-  + Notables about IRB
-    + IRB = ONLY Ruby. NO bash here.
-    + IRB doesn't save your work.
-    + it's an experimentation tool.
-    + IRB METHOD. Copy and paste `hello_world` method into IRB
-      + Why do you see `:hello_world`? Because IRB is letting you know this method is ready for you to use.
-      + Call it with `hello_world`. Then we see Hello world! print to the screen and the return value `nil`. What is this `nil`?
-
 RETURN VALUE
 + Always the result of the last line of code. Like a receipt. Why is the return value of this code `nil`?:
 ```ruby
