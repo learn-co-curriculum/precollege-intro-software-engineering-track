@@ -44,7 +44,7 @@ After you click on the `+`, make sure you select `New Repository`.
 
 From there, you'll be directed to a form. Make sure you fill out a repository name and select the repository to remain public. GitHub charges you monthly for private repositories, and we want other developers to be able to learn from your work.
 
-<img src="https://s3.amazonaws.com/after-school-assets/GitHub_repo_name.png" alt="GitHub new repository form">
+<img src="https://s3.amazonaws.com/after-school-assets/github_repo_name.png" alt="GitHub new repository form">
 
 It's incredibly important to make sure that the code you're trying to put on GitHub is in it's own directory. Go ahead and create a directory called `my_website` by typing in terminal `mkdir my_website`. Then move into that directory by typing `cd my_website`.
 
