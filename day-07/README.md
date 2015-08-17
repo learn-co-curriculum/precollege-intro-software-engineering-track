@@ -29,6 +29,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
       <a href="lectures/css/LECTURE.md">Lecture Notes</a></br>
     	<a href="https://GitHub.com/learn-co-curriculum/css-walkthrough-hs">Walkthrough: CSS</a></br>
     	HTML Labs</br>
+      <a href="https://github.com/learn-co-curriculum/hs-ruby1-my-website"> Lab: Personal Website</a><br>
     	<a href="https://GitHub.com/learn-co-curriculum/hs-tourism-website-lab">Lab: Tourism</a></br>
     	<a href="https://GitHub.com/learn-co-curriculum/html-playground">Lab: HTML Playground</a></br>
     	<a href="https://GitHub.com/learn-co-curriculum/hs-album-cover">Lab: Album Cover</a></br>

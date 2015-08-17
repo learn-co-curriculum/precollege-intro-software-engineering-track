@@ -5,7 +5,7 @@
 
 ## SWBATs
 + Explain the purpose and structure of CSS
-+ Link an html file to CSS
++ Link an HTML file to CSS
 + Select specific content to style using tag names, classes, and ids
 + Center text using the text-align property
 + Modify content placement with margin, padding, and border properties
