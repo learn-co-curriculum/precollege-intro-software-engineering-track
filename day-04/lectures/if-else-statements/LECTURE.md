@@ -18,11 +18,12 @@ What if we’re going camping, and we need to make a list of everything to pack.
 ## Lesson Plan 
 We have if statements in Ruby. They start with the keyword `if`, and end with the keyword  `end`
   ```ruby
-  	packing_list = [“socks”, “sleeping bag”, “trail mix”]
+    packing_list = ["socks", "sleeping bag", "trail mix"]
 
   	if packing_list.include?(“sleeping bag”)
   	    puts “I have a place to sleep!”
   	end
+
   ```
 
 in IRB: demonstrate the .include? method:
@@ -34,51 +35,52 @@ in IRB: demonstrate the .include? method:
 
 + true and false are boolean values, which is another data type
 + explain that ruby will read the line and evaluate the if statement to either true and false
-+ true and false are considered “boolean values”
++ true and false are considered "boolean values"
 + this if statement has one branch, just an if
 + ***Students create an array of their camping packing list and build out an if statement about something in it***
 we can use the data types true and false:
 
 ```ruby
   if true
-      puts “this will always execute”
+      puts "this will always execute"
   end
 
   if false
-      puts “we’ll never see this”
+      puts "we’ll never see this"
   else
-      puts “we’ll always see this”
+      puts "we’ll always see this"
   end
 ```
 
 + What if we wanted something to happen if the statement from above was false? 
 ```ruby
-  packing_list = [“socks”, “matches”, “trail mix”]
+  packing_list = ["socks", "matches", "trail mix"]
 
 	if packing_list.include?(“sleeping bag”)
 	    puts “I have a place to sleep!”
 	else 
 	    puts “I need to pack a sleeping bag”
 	end
+
 ```
 + Notice we didn’t need to put anything after the `else`, it’s just the default. The if statement didn’t evaluate to true, so it automatically skips to the else and will execute that line. 
 + this has two branches
 + ***Students implement an if/else statement***
-+ What if we had more conditions? 3+ branches, we use the keyword “elsif”
++ What if we had more conditions? 3+ branches, we use the keyword "elsif"
 ```ruby
-packing_list = [“socks”, “matches”, “trail mix”]
+packing_list = ["socks", "matches", "trail mix"]
 
-if packing_list.include?(“sleeping bag”) && packing_list.include?(“blanket”)
-  puts “I’ll be warm”
-elsif packing_list.include?(“sleeping bag”) || packing_list.include?(“blanket”)
-  puts “i have a place to sleep!”                       	
+if packing_list.include?("sleeping bag") && packing_list.include?("blanket")
+  puts "I’ll be warm"
+elsif packing_list.include?("sleeping bag") || packing_list.include?("blanket")
+  puts "i have a place to sleep!"                         
 else
-  puts “I have nowhere to sleep”
+  puts "I have nowhere to sleep"
 end
 ```
 + the `&&` is a comparison operator that means ‘and’. If both sides of the `&&` evaluates to true, then the entire statement evaluates to true. if one side evaluates to false, then the entire statement evaluates to false.  In this case, our list doesn’t include either, so both sides are false
 + the `||` is a comparison operator means or. If either side evaluates to true, the entire statement evaluates to true.
-+ ***What would happen if we added “blanket” to our array?***
++ ***What would happen if we added "blanket" to our array?***
 + ***Students implement a 3 branch if statement with neither blanket or sleeping bag, with just blanket, and with both. Have them write down what statement would get printed out in all three situations.***
 + We’ve learned about two comparison operators so far, but there are more. ***What comparison operators have you used in math classes?***
 + We can use the same with Ruby >, <, >=, <=, ==
@@ -86,20 +88,20 @@ end
 ```ruby
   x = 5
   if x < 10
-      puts “less than 10”
+      puts "less than 10"
   end
 
   y = 20
   if y < 20
-      puts “y is less than 20”
+      puts "y is less than 20"
   elsif x > 100
-      puts “x is greater than 100”
+      puts "x is greater than 100"
   elsif y >= 20 && x <=10 
-      puts “y is greater than or equal to 20 and x is less than or equal to 10”
+      puts "y is greater than or equal to 20 and x is less than or equal to 10"
   elsif x == 5
-      puts “x is 5”
+      puts "x is 5"
   else
-      “none of the above”
+      "none of the above"
   end
 ```
 
@@ -111,6 +113,46 @@ end
 + An if statement allows us to trigger events based on specific conditions.
 + Ruby is a lazy interpreter, meaning it will evaluate the code associated with the first line of the if statement that evaluates to true.
 
+##Stretch Concepts
+
++ `Unless` is another Ruby keyword you can use as an alternative to if. You know the phrase "glass half empty" and "glass half full"? Well the relationship between if and unless is the same -- it's just a different way to say the same thing.
+
+  ```ruby
+    packing_list = ["socks", "sleeping bag", "trail mix"]
+
+    unless packing_list.include?("sleeping bag")
+        puts "I have nowhere to sleep!"
+    end
+  ```
++ Unless looks for something that is not true rather something that is true
++ If you find yourself using an if/else with a lot of elsif examples you may want to try a case statement instead and can be useful when giving users multiple options to choose from. The variable or statement next to the `case` keyword is what you're comparing and each addresses each of the possible options. 
+
+```ruby
+puts "Enter what you want to order: "
+menu_item = gets.chomp
+
+case menu_item
+when "hot dog"
+  puts 'What kind of toppings do you want?'
+  toppings = gets.chomp
+  puts "Here's your hot dog with #{toppings} on it"
+when "burger"
+  puts 'What kind of cheese would you like on that?'
+  cheese_type = gets.chomp
+  puts "Here's your burger with #{cheese_type} cheese"
+when "milkshake"
+  puts 'What flavor would you like? We have chocolate, vanilla and oreo'
+  flavor = gets.chomp
+  puts "Here's your #{flavor} milkshake. Enjoy!"
+when "fries"
+  puts 'Would you like to add cheese or chili?'
+  topping = gets.chomp
+  puts "Here's your fries with #{topping} on top"
+else
+  puts "That's not on the menu!!!!"
+end
+
+```
 
 ## Hints and Hurdles
 + Students can struggle with the concept of boolean data types. That the word `true` in your program means the value true.
