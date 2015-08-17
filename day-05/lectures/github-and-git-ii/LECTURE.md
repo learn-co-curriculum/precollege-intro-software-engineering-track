@@ -16,28 +16,33 @@
 
 
 ##Putting Code Online
+
 So you do a lab, and then you spill water all over your laptop and fry it. It's the modern day version of "my dog ate my homework". Good thing the tech industry has thought of that. 
 
 The real power of GitHub comes in the form of version control and hosting your code in the cloud. Version control is the ability to save snapshots of your work over time so that you can go back to different snapshots if you mess something up. We can push these snapshots (called commits) to GitHub so that they can be accessed from anywhere, allowing for collaboration with other developers.
 
 ###What is GIT?
-First of all, it’s important to note that git and GitHub aren’t the same thing. GitHub is where we save our code in the cloud, while git is a version control system that lives on your computer. You use git from the command line, like when you cloned a lab to your computer using `git clone`
+First of all, it's important to note that git and GitHub aren
+t the same thing. GitHub is where we save our code in the cloud, while git is a version control system that lives on your computer. You use git from the command line, like when you cloned a lab to your computer using `git clone`
 
 
 ###Git with GitHub
-We use the Git in order to host our code on GitHub.
+We use the version-control language, Git, in order to host our code on GitHub.
 
 Let's say you work on a lab and finish half of it, but then you have to go home for the day. But there's a risk you could drop your laptop in the Hudson river on the way home and you'd lose all your work. So besides emailing it to yourself, which is incredibly tedious, how could you easily save your code?
 
 The best way to save your work it to put it on GitHub in a repository. So how do we get it there?
 
 ### Putting a Brand New Project on GitHub
+Let's say you want to start a brand new project. You don't have a directory for this project yet, and no GitHub repository.
+
 The first step is to create a repository on GitHub for this project to live. A repository is just a GitHub word for directory or folder.  To do that, go to GitHub.com and look for the plus sign in the top right corner:
+
 <img src="https://s3.amazonaws.com/after-school-assets/git-create-new-repo-arrows.png" alt="GitHub Plus Sign">
 
 After you click on the `+`, make sure you select `New Repository`.
 
-From there, you'll be directed to a form. Make sure you fill out a repository name and select the repository to remain public.
+From there, you'll be directed to a form. Make sure you fill out a repository name and select the repository to remain public. GitHub charges you monthly for private repositories, and we want other developers to be able to learn from your work.
 
 <img src="https://s3.amazonaws.com/after-school-assets/GitHub_repo_name.png" alt="GitHub new repository form">
 
@@ -50,7 +55,7 @@ Once you have submitted the form on GitHub to create a new repository, you'll wa
 You'll be entering those commands in terminal in the `my_website` directory. 
 
 ###GIT INIT
-`git init` is a command that basically tells git to track all the changes made to a project. It allows git to follow new files, and track any additions or deletions from exisiting projects
+`git init` is a command that basically tells git to track all the changes made to a project. It allows git to follow new files, and track any additions or deletions from existing projects
 
 ###GIT ADD
 `git add` is a command that tells git that I want to keep changes I made to specific files. GitHub had you create a new file called `README.md` and then add that file by typing `git add README.md`
