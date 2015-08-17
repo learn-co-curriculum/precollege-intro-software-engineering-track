@@ -15,7 +15,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>To-Do</td>
         <td>
             <a href="https://docs.google.com/presentation/d/1XFklyQuHRVgEgERYsHcyhIniOL3kewq6-Ajjp5HiPt4/edit#slide=id.p">Day 3 Deck</a></br>
-            <a href="https://github.com/learn-co-curriculum/hs-data-structures-to-do">To-Do: Crazy Strings</a>
+            <a href="https://GitHub.com/learn-co-curriculum/hs-data-structures-to-do">To-Do: Crazy Strings</a>
         </td>
     </tr>
     <td>9:15 - 10:30</td>
@@ -24,11 +24,11 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
            <a href="lectures/test-driven-development/LECTURE.md">Lecture: Test Driven Development</a></br>
            <a href="lectures/test-driven-development">Lecture Notes</a></br>
            
-           <a href="https://github.com/learn-co-curriculum/hs-setup-homebrew-rvm">Setup: RSpec and Learn Gems</a></br>
+           <a href="https://GitHub.com/learn-co-curriculum/hs-setup-homebrew-rvm">Setup: RSpec and Learn Gems</a></br>
 
-           <a href="https://github.com/learn-co-curriculum/hs-tdd-structure-code-along">Lab: TDD Code Along</a></br>
+           <a href="https://GitHub.com/learn-co-curriculum/hs-tdd-structure-code-along">Lab: TDD Code Along</a></br>
            
-           <a href="https://github.com/learn-co-curriculum/hs-tdd-sweet-ride-bro-lab">Lab: Sweet Ride Bro</a>
+           <a href="https://GitHub.com/learn-co-curriculum/hs-tdd-sweet-ride-bro-lab">Lab: Sweet Ride Bro</a>
         </td>
     </tr>
     <tr>
@@ -45,15 +45,15 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         	<a href="lectures/arrays/LECTURE.md">Lecture: Intro to Arrays</a></br>
             <a href="lectures/arrays">Lecture Notes</a></br>
         	
-        	<a href="https://github.com/learn-co-curriculum/hs-manipulating-arrays-mini-lab">Interactive Practice: Arrays</a></br>
+        	<a href="https://GitHub.com/learn-co-curriculum/hs-manipulating-arrays-mini-lab">Interactive Practice: Arrays</a></br>
         	
-        	<a href="https://github.com/learn-co-curriculum/hs-array-iteration-mini-lab">Interactive Practice II: Iteration</a></br>
+        	<a href="https://GitHub.com/learn-co-curriculum/hs-array-iteration-mini-lab">Interactive Practice II: Iteration</a></br>
         	
-        	<a href="https://github.com/learn-co-curriculum/hs-elective-arrays-lab">Lab: Elective Arrays</a></br>
+        	<a href="https://GitHub.com/learn-co-curriculum/hs-elective-arrays-lab">Lab: Elective Arrays</a></br>
 
-            <a href="https://github.com/learn-co-curriculum/hs-ruby-binary-stretch-lab">Stretch Lab: Ruby Binary Conversion</a></br>
+            <a href="https://GitHub.com/learn-co-curriculum/hs-ruby-binary-stretch-lab">Stretch Lab: Ruby Binary Conversion</a></br>
 
-            <a href="https://github.com/learn-co-curriculum/my-each">Stretch Lab: Creating Your Own .each</a>
+            <a href="https://GitHub.com/learn-co-curriculum/my-each">Stretch Lab: Creating Your Own .each</a>
         </td>
     </tr>
     <tr>
@@ -66,7 +66,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>12:30 - 1:00</td>
         <td>Improv</td>
         <td>
-            <a href="https://github.com/learn-co-curriculum/tf-improv-games">Improv Games</a>
+            <a href="https://GitHub.com/learn-co-curriculum/tf-improv-games">Improv Games</a>
         </td>
     </tr>
     <tr>
@@ -76,17 +76,17 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
            <a href="lectures/hashes/LECTURE.md">Lecture: Intro to Hashes</a></br>
            <a href="lectures/hashes">Lecture Notes</a></br>
 
-           <a href="https://github.com/learn-co-curriculum/hs-array-iteration-mini-lab">Interactive Practice III: Hash Iteration</a></br>
+           <a href="https://GitHub.com/learn-co-curriculum/hs-array-iteration-mini-lab">Interactive Practice III: Hash Iteration</a></br>
 
-           <a href="https://github.com/learn-co-curriculum/hs-nested-data-structures-mini-lab">Interactive Practice IV: Nested Data Structures</a></br>
+           <a href="https://GitHub.com/learn-co-curriculum/hs-nested-data-structures-mini-lab">Interactive Practice IV: Nested Data Structures</a></br>
            
-           <a href="https://github.com/learn-co-curriculum/hs_recipe_hash_lab">Lab: Recipe Hash</a></br>
+           <a href="https://GitHub.com/learn-co-curriculum/hs_recipe_hash_lab">Lab: Recipe Hash</a></br>
            
-           <a href="https://github.com/learn-co-curriculum/hs-weather-forecast">Lab: Weather Forecast</a></br>
+           <a href="https://GitHub.com/learn-co-curriculum/hs-weather-forecast">Lab: Weather Forecast</a></br>
 
-            <a href="https://github.com/learn-co-curriculum/hashketball">Stretch Lab: Hashketball</a></br>
+            <a href="https://GitHub.com/learn-co-curriculum/hashketball">Stretch Lab: Hashketball</a></br>
 
-            <a href="https://github.com/learn-co-curriculum/apples-and-holidays">Stretch Lab: Apples and Holidays</a></br>
+            <a href="https://GitHub.com/learn-co-curriculum/apples-and-holidays">Stretch Lab: Apples and Holidays</a></br>
         </td>
     </tr>
     <tr>
@@ -102,9 +102,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>
             Tell kids they are awesome.</br>
 
-            <a href="https://github.com/learn-co-curriculum/hs-post-class-survey">Micro Feedback</a></br>
+            <a href="https://GitHub.com/learn-co-curriculum/hs-post-class-survey">Micro Feedback</a></br>
 
-            <a href="https://github.com/learn-co-curriculum/hs-intro-ruby-code-challenge-3">Code Challenge: Arrays and Hashes</a>
+            <a href="https://GitHub.com/learn-co-curriculum/hs-intro-ruby-code-challenge-3">Code Challenge: Arrays and Hashes</a>
         </td>
     </tr>
 </table>

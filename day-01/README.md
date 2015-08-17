@@ -21,9 +21,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>10:00 - 10:30</td>
         <td>Learn Setup and Demo</td>
         <td>
-            <a href="https://github.com/learn-co-curriculum/tf-using-nitrous-io">Lecture Guides: Nitrous Setup</a>
+            <a href="https://GitHub.com/learn-co-curriculum/tf-using-nitrous-io">Lecture Guides: Nitrous Setup</a>
             <br>
-           <a href="https://github.com/learn-co-curriculum/hs-nitrous-ssh-setup"> Nitrous Trouble Shooting/Setup</a>
+           <a href="https://GitHub.com/learn-co-curriculum/hs-nitrous-ssh-setup"> Nitrous Trouble Shooting/Setup</a>
         </td>
     </tr>
     <tr>
@@ -32,9 +32,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>
             <a href="lectures/intro-to-command-line/LECTURE.md">Lecture: Intro to the Command Line</a></br>
             <a href="lectures/intro-to-command-line">Lecture Notes</a></br>
-            <a href="https://github.com/learn-co-curriculum/find-missing-pet">Lab: Find the Missing Pet</a></br>
-            <a href="https://github.com/learn-co-curriculum/hs-sinatra-organizer">Lab: Sinatra Organizer</a></br>
-            <a href="https://github.com/learn-co-curriculum/hs-advanced-cli">Stretch Lab: Bash Script</a>
+            <a href="https://GitHub.com/learn-co-curriculum/find-missing-pet">Lab: Find the Missing Pet</a></br>
+            <a href="https://GitHub.com/learn-co-curriculum/hs-sinatra-organizer">Lab: Sinatra Organizer</a></br>
+            <a href="https://GitHub.com/learn-co-curriculum/hs-advanced-cli">Stretch Lab: Bash Script</a>
         </td>
     </tr>
     <tr>
@@ -50,11 +50,11 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>
             <a href="lectures/intro-to-ruby/LECTURE.md">Lecture: Intro to Ruby</a></br>
             <a href="lectures/intro-to-ruby">Lecture Notes</a></br>
-            <a href="https://github.com/learn-co-curriculum/hs-strings-mini-lab">Lab: Interactive Practice - Strings</a></br>
-            <a href="https://github.com/learn-co-curriculum/hs-variables-mini-lab">Lab: Interactive Practice II - Variables</a></br>
-            <a href="https://github.com/learn-co-curriculum/hs-user-input-mini-lab">Lab: User Input</a></br>
-            <a href="https://github.com/learn-co-curriculum/hs-invitation-maker-lab">Lab: Invitation Maker</a></br>
-            <a href="https://github.com/learn-co-curriculum/hs-phone-number-formatter">Stretch Lab: Phone Number Formatter</a>
+            <a href="https://GitHub.com/learn-co-curriculum/hs-strings-mini-lab">Lab: Interactive Practice - Strings</a></br>
+            <a href="https://GitHub.com/learn-co-curriculum/hs-variables-mini-lab">Lab: Interactive Practice II - Variables</a></br>
+            <a href="https://GitHub.com/learn-co-curriculum/hs-user-input-mini-lab">Lab: User Input</a></br>
+            <a href="https://GitHub.com/learn-co-curriculum/hs-invitation-maker-lab">Lab: Invitation Maker</a></br>
+            <a href="https://GitHub.com/learn-co-curriculum/hs-phone-number-formatter">Stretch Lab: Phone Number Formatter</a>
         </td>
     </tr>
     <tr>
@@ -70,7 +70,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>
             Tell kids they are awesome.</br>
 
-            <a href="https://github.com/learn-co-curriculum/hs-post-class-survey">Micro Feedback - should be delievered on slips of paper</a>
+            <a href="https://GitHub.com/learn-co-curriculum/hs-post-class-survey">Micro Feedback - should be delievered on slips of paper</a>
         </td>
     </tr>
 </table>
@@ -83,9 +83,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 + Find out how many kids need computers / set up computers
 + Make sure kids are on Shortpath
 + Send Welcome email
-+ Make sure all students have been added to github team (Github team is made automatically when Ironboard batch is created and will have the same name, e.g. after-school-000)
++ Make sure all students have been added to GitHub team (GitHub team is made automatically when Ironboard batch is created and will have the same name, e.g. after-school-000)
 + Deploy labs and check them:
-+ Make sure that team repository has been created (something like https://github.com/flatiron-school-ironboard/hs-ruby-assessment-after-school-advanced-000).
++ Make sure that team repository has been created (something like https://GitHub.com/flatiron-school-ironboard/hs-ruby-assessment-after-school-advanced-000).
 + Make sure you have a credit card to order pizza lunch (Elana can pre-order from Williamsburg Pizza but you should call the morning of class to make sure it is coming)
 
 ###Day Before:

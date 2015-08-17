@@ -1,7 +1,7 @@
-# Advanced Github Topics - Full Lecture
+# Advanced GitHub Topics - Full Lecture
 
 ## SWBATs
-+ Understand how to collaborate in group projects with Github.
++ Understand how to collaborate in group projects with GitHub.
 + Add files with Git
 + Commit files with Git
 + Push changes to files up to GitHub using git
@@ -18,28 +18,28 @@
 ##Putting Code Online
 So you do a lab, and then you spill water all over your laptop and fry it. It's the modern day version of "my dog ate my homework". Good thing the tech industry has thought of that. 
 
-The real power of github comes in the form of version control and hosting your code in the cloud. Version control is the ability to save snapshots of your work over time so that you can go back to different snapshots if you mess something up. We can push these snapshots (called commits) to github so that they can be accessed from anywhere, allowing for collaboration with other developers.
+The real power of GitHub comes in the form of version control and hosting your code in the cloud. Version control is the ability to save snapshots of your work over time so that you can go back to different snapshots if you mess something up. We can push these snapshots (called commits) to GitHub so that they can be accessed from anywhere, allowing for collaboration with other developers.
 
 ###What is GIT?
-First of all, it’s important to note that git and github aren’t the same thing. Github is where we save our code in the cloud, while git is a version control system that lives on your computer. You use git from the command line, like when you cloned a lab to your computer using `git clone`
+First of all, it’s important to note that git and GitHub aren’t the same thing. GitHub is where we save our code in the cloud, while git is a version control system that lives on your computer. You use git from the command line, like when you cloned a lab to your computer using `git clone`
 
 
-###Git with Github
-We use the Git in order to host our code on Github.
+###Git with GitHub
+We use the Git in order to host our code on GitHub.
 
 Let's say you work on a lab and finish half of it, but then you have to go home for the day. But there's a risk you could drop your laptop in the Hudson river on the way home and you'd lose all your work. So besides emailing it to yourself, which is incredibly tedious, how could you easily save your code?
 
-The best way to save your work it to put it on Github in a repository. So how do we get it there?
+The best way to save your work it to put it on GitHub in a repository. So how do we get it there?
 
-### Putting a Brand New Project on Github
-The first step is to create a repository on Github for this project to live. A repository is just a Github word for directory or folder.  To do that, go to Github.com and look for the plus sign in the top right corner:
-<img src="https://s3.amazonaws.com/after-school-assets/git-create-new-repo-arrows.png" alt="Github Plus Sign">
+### Putting a Brand New Project on GitHub
+The first step is to create a repository on GitHub for this project to live. A repository is just a GitHub word for directory or folder.  To do that, go to GitHub.com and look for the plus sign in the top right corner:
+<img src="https://s3.amazonaws.com/after-school-assets/git-create-new-repo-arrows.png" alt="GitHub Plus Sign">
 
 After you click on the `+`, make sure you select `New Repository`.
 
 From there, you'll be directed to a form. Make sure you fill out a repository name and select the repository to remain public.
 
-<img src="https://s3.amazonaws.com/after-school-assets/github_repo_name.png" alt="github new repository form">
+<img src="https://s3.amazonaws.com/after-school-assets/GitHub_repo_name.png" alt="GitHub new repository form">
 
 It's incredibly important to make sure that the code you're trying to put on GitHub is in it's own directory. Go ahead and create a directory called `my_website` by typing in terminal `mkdir my_website`. Then move into that directory by typing `cd my_website`.
 
@@ -53,7 +53,7 @@ You'll be entering those commands in terminal in the `my_website` directory.
 `git init` is a command that basically tells git to track all the changes made to a project. It allows git to follow new files, and track any additions or deletions from exisiting projects
 
 ###GIT ADD
-`git add` is a command that tells git that I want to keep changes I made to specific files. Github had you create a new file called `README.md` and then add that file by typing `git add README.md`
+`git add` is a command that tells git that I want to keep changes I made to specific files. GitHub had you create a new file called `README.md` and then add that file by typing `git add README.md`
 
 ###GIT COMMIT
 `git commit` is a command that we use to have git take a snapshot of all of our code at that current moment in time. It's sort of like when you're playing a video game and it saves the state of the game, so that if you die you don't lose the game, you just go back to that specific point.
@@ -65,13 +65,13 @@ We use the git commit command like this:
 ```
 
 ###GIT PUSH
-Github had us type a length command, something like:
+GitHub had us type a length command, something like:
 
 ```bash
-git remote add origin https://github.com/vicfriedman/test_repo.git
+git remote add origin https://GitHub.com/vicfriedman/test_repo.git
 ```
 
-This command send your code to github.com
+This command send your code to GitHub.com
 
 We only have to enter that lengthy command for the *very first* commit of that repository. From here on out, when you want to send your code up to GitHub, just type
 
@@ -80,7 +80,7 @@ git push
 ```
 
 ###WORKFLOW
-Once you have your project created, have a github repository created, and set up the directory on your computer to point to that location on github, all you need to remember is:
+Once you have your project created, have a GitHub repository created, and set up the directory on your computer to point to that location on GitHub, all you need to remember is:
 
 * git add file_name
 * git commit -m "commit message"
@@ -91,5 +91,5 @@ Once you have your project created, have a github repository created, and set up
 
 ## Hints and Hurdles
 + `git add/commit/push` - FREEZE everyone and have them do this every 15 minutes to build up the muscle memory.
-+ Not all students will need to/want to work with a full Github workflow. Consider introducing more advanced Github topics if you have extra time and think that it won't distract from getting work done on projects.
++ Not all students will need to/want to work with a full GitHub workflow. Consider introducing more advanced GitHub topics if you have extra time and think that it won't distract from getting work done on projects.
 + Alternative options for students is to work off of one repository with one main branch and put code from other's computers in a Google doc or send over e-mail. 

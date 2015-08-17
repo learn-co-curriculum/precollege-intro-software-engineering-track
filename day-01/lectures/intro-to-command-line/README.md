@@ -50,11 +50,11 @@ You're going to learn about the command line by planning for a trip.
 
 ## Hints and Hurdles
 + Navigating your computer from the command line is a lot about muscle memory. It's important that students get a lot of repetition in with these commands.
-+ In [Lab: Find The Missing Pets]( https://github.com/learn-co-curriculum/find-missing-pet), instructor should complete one or two examples before releasing students.
++ In [Lab: Find The Missing Pets]( https://GitHub.com/learn-co-curriculum/find-missing-pet), instructor should complete one or two examples before releasing students.
 + In General for Day 1:
   + Split class into MacBook and Chromebook for environment set up.
   + Demo the code when demoing final projects from previous students. Soundbite could be something like: this looks like Greek, but at the end of this course you will be able to read it AND write it!
   + Talk to about website versus web application (use a concrete example like Yelp). Web applications rely on a back-end written in a programming language like Ruby to interact with users and show customized content. 
 
 ## Additional Media
-+ It might be fun for the class to play around with these [CLI easter eggs](https://github.com/learn-co-curriculum/hs-cli-cultural-piece).
++ It might be fun for the class to play around with these [CLI easter eggs](https://GitHub.com/learn-co-curriculum/hs-cli-cultural-piece).

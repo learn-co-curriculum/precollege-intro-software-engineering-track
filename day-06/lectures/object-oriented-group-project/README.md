@@ -16,7 +16,7 @@ Now you guys get the chance to build out the software that handles 37 million pa
 + Students should be divided into groups of 3-4 to build the Cash Register Project or Snapchat Project. 
 + The cash register is totally speced out with rspec to provide support - the Snapchat project is open ended.
 + Teach default method arguments before starting this lab
-+ They can move on to the other project or [Jukebox](https://github.com/learn-co-curriculum/oo-jukebox) if they finish. 
++ They can move on to the other project or [Jukebox](https://GitHub.com/learn-co-curriculum/oo-jukebox) if they finish. 
 
 ## Conclusion / So What?
 + Object orientation is not unique to Ruby. It's a programming concept that many different languages implement. So once you've gotten it down in Ruby, it'll be easy to translate your knowledge onto other programming languages that you'll learn, like JavaScript. So many of these concepts cut across languages, so the more you know, the easier it'll be to master additional languages in the future.

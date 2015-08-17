@@ -54,7 +54,7 @@ names_hash.each do |key, value|
   end
 ```
 + We can replace the key and value placeholders with anything we want, these are just placeholders. Just remember that the first one is for the key and the second is always representing the value.
-+ [Iteration with hashes Mini-Lab](https://github.com/learn-co-curriculum/hs-hash-iteration-mini-lab)
++ [Iteration with hashes Mini-Lab](https://GitHub.com/learn-co-curriculum/hs-hash-iteration-mini-lab)
 
 NESTED DATA STRUCTURES
 + Hashes and Arrays can occur inside of other hashes and arrays. How do we pull individual items out if this is the case?
@@ -74,7 +74,7 @@ salad_ingredients ={
 }
 ```
 + Now how do I access “kale”?
-+ [Nested Hashes Mini-Lab](https://github.com/learn-co-curriculum/hs-nested-data-structures-mini-lab)
++ [Nested Hashes Mini-Lab](https://GitHub.com/learn-co-curriculum/hs-nested-data-structures-mini-lab)
 
 REVIEW
 + Review methods, but adding in hashes and arrays.
@@ -90,4 +90,4 @@ REVIEW
 + You create a hash with curly brackets but you access a value from a hash using the square brackets.
 
 ## Additional Media
-+ [Here](http://bethannezink.github.io/We-Can-Work-It-Out/) is a fun blog post explaining Ruby data structures using the Beatles.
++ [Here](http://bethannezink.GitHub.io/We-Can-Work-It-Out/) is a fun blog post explaining Ruby data structures using the Beatles.

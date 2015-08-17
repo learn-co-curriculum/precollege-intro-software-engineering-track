@@ -16,7 +16,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>
         <a href="https://docs.google.com/presentation/d/1dMWapRSQSgaxv1ePUNYykmWB8s6aMfalFRHv5DXJYX4/edit#slide=id.g415fa6f76_018">Day 8 Deck</a></br>
 
-        <a href="https://github.com/learn-co-curriculum/hs-ruby-refresh-todo">To-Do: Ruby Refresh</a>
+        <a href="https://GitHub.com/learn-co-curriculum/hs-ruby-refresh-todo">To-Do: Ruby Refresh</a>
     </td>
   </tr>
   <tr>
@@ -26,7 +26,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     	<a href="lectures/mvc">Lecture: MVC</a></br>
       <a href="lectures/mvc/SEQUENCE.md">MVC Lecture Sequence</a></br>
     	<a href="lectures/forms">Lecture: Forms</a></br>
-    	<a href="https://github.com/learn-co-curriculum/hs-mvc-interactive-practice">Interactive Practice: MVC Framework</a>
+    	<a href="https://GitHub.com/learn-co-curriculum/hs-mvc-interactive-practice">Interactive Practice: MVC Framework</a>
     </td>
   </tr>
   <tr>
@@ -49,9 +49,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>
        Tell kids they are awesome.</br>
 
-       <a href="https://github.com/learn-co-curriculum/hs-post-class-survey">Micro Feedback</a></br>
+       <a href="https://GitHub.com/learn-co-curriculum/hs-post-class-survey">Micro Feedback</a></br>
 
-	     <a href="https://github.com/learn-co-curriculum/hs-intro-ruby-code-challenge-8">Code Challenge: Words Challenge</a>
+	     <a href="https://GitHub.com/learn-co-curriculum/hs-intro-ruby-code-challenge-8">Code Challenge: Words Challenge</a>
    	</td>
   </tr>
 </table>

@@ -59,5 +59,5 @@ PRESENTING
 + For advanced students, set minimum requirements: as long as you can do XYZ, then you can do JS, but you need to be able to explain basics first and have your partner explain them, too.
 
 ### On Learn
-+ Student-facing [wireframing README.md](https://github.com/learn-co-curriculum/hs-wireframing).
-+ Student-facing [storyboarding README.md](https://github.com/learn-co-curriculum/hs-storyboarding).
++ Student-facing [wireframing README.md](https://GitHub.com/learn-co-curriculum/hs-wireframing).
++ Student-facing [storyboarding README.md](https://GitHub.com/learn-co-curriculum/hs-storyboarding).

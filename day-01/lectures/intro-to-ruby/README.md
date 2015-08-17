@@ -54,7 +54,7 @@ METHODS
 + Chain methods together: `“hello world”.upcase.reverse.capitalize `
 + Have students use methods on their own names.
 
-BREAK FOR [INTERACTIVE PRACTICE I: STRINGS](http://github.com/learn-co-curriculum/hs-strings-mini-lab)
+BREAK FOR [INTERACTIVE PRACTICE I: STRINGS](http://GitHub.com/learn-co-curriculum/hs-strings-mini-lab)
 
 MATH
 + `puts “1” + “1”`: What does that give us? 
@@ -116,7 +116,7 @@ USING VARIABLES
 + How can I use those variables?
 `puts “My name is ” + name +  “ I am ” +  age.to_s + “ old”`
 
-BREAK FOR [INTERACTIVE PRACTICE II: VARIABLES](https://github.com/learn-co-curriculum/hs-variables-mini-lab)
+BREAK FOR [INTERACTIVE PRACTICE II: VARIABLES](https://GitHub.com/learn-co-curriculum/hs-variables-mini-lab)
 
 STRING INTERPOLATION
 + An easier way than adding strings and variables. That’s a lot of plus signs and keeping track of spaces.

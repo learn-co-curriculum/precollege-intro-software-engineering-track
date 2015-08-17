@@ -33,12 +33,12 @@ _A full lecture is available [here](LECTURE.md)_
 
 ## Hints and Hurdles
 + Visuals can be very helpful in explaining forking and cloning. Draw the workflow on the board:
-<br> <img src="https://after-school-assets.s3.amazonaws.com/github_workflow.jpg" width="400px">
+<br> <img src="https://after-school-assets.s3.amazonaws.com/GitHub_workflow.jpg" width="400px">
 + Version control explanation using video game analogy works well.
 + I do/you do/we do to break up Git lecture.
  
 ## Additional Media
-+ [Trending GitHub repositories](https://github.com/trending?l=ruby) - Find what Ruby repositories the GitHub community is most excited about today.
++ [Trending GitHub repositories](https://GitHub.com/trending?l=ruby) - Find what Ruby repositories the GitHub community is most excited about today.
 
 ## Off Screen Fun
 + Take breaks for games and team building. Here are a bunch of [games we love](https://docs.google.com/a/flatironschool.com/document/d/1SWyV9LjCEnV89Zbly-Zfgoy7ZiofSWoo3QGfwvJDc64/).

@@ -25,8 +25,8 @@
 **HOW WEB APPLICATIONS WORK**
 + The front-end and back-end of websites are connected by a structural system known as MVC.
 + In Ruby, Rails and Sinatra are two web application frameworks developers use. We'll be using Sinatra.
-+ Have students clone [Interactive Simple Lab](https://github.com/learn-co-curriculum/hs-mvc-interactive-practice)
-  * Solution can be found [here](https://github.com/learn-co-curriculum/hs-mvc-interactive-practice/tree/solution) 
++ Have students clone [Interactive Simple Lab](https://GitHub.com/learn-co-curriculum/hs-mvc-interactive-practice)
+  * Solution can be found [here](https://GitHub.com/learn-co-curriculum/hs-mvc-interactive-practice/tree/solution) 
 + MVC stands for Model View Controller
 + Models
   * The logic or code that goes into storing and maintaining the data in an application - like adding a tweet to your list of tweets - is the M in an MVC framework - the models.

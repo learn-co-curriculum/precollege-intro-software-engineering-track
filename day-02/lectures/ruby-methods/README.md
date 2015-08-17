@@ -82,7 +82,7 @@ end
   1. How old will I be in 10 years?
   2. What is my name spelled backwards.
   3. Change all w’s to v’s.
-+ Break and have students write and call methods in [Methods Practice Lab](https://github.com/learn-co-curriculum/hs-ruby-2-methods-practice-lab)
++ Break and have students write and call methods in [Methods Practice Lab](https://GitHub.com/learn-co-curriculum/hs-ruby-2-methods-practice-lab)
 
 RETURN VALUE
 + Always the result of the last line of code. Like a receipt. Why is the return value of this code `nil`?:
@@ -118,7 +118,7 @@ hello_world.upcase
 
 
 
-#####Break and have students write and call methods in [Methods Practice Lab](https://github.com/learn-co-curriculum/hs-ruby-2-methods-practice-lab) and [Flyover Lab](https://github.com/learn-co-curriculum/hs-ruby-2-flyover-lab)
+#####Break and have students write and call methods in [Methods Practice Lab](https://GitHub.com/learn-co-curriculum/hs-ruby-2-methods-practice-lab) and [Flyover Lab](https://GitHub.com/learn-co-curriculum/hs-ruby-2-flyover-lab)
 
 ####Arguments
 + Say Hello Method: To `say_hello` to each person in the class we might have to do something like this:
@@ -172,7 +172,7 @@ def say_name(name = ”Programmer”)
 end
 ```
 + What happens when you call it with no arguments?
-+ Have students work on the [meal choice mini-lab](https://github.com/learn-co-curriculum/hs-ruby-2-meal-choice-lab)
++ Have students work on the [meal choice mini-lab](https://GitHub.com/learn-co-curriculum/hs-ruby-2-meal-choice-lab)
 
 #####Why do we need arguments? Scope!
 Can’t we do this?:
@@ -215,7 +215,7 @@ puts “hello #{name}”
 + Why does it print hello to both people? Because of SCOPE. 
 + Remember to use arguments to send variables into a method, otherwise the method won't know what you're talking about if they're defined outside the method.
 
-#####Break and have students work on the [Parrot Lab](https://github.com/learn-co-curriculum/hs-ruby-2-parrot-lab) and [meal choice mini-lab](https://github.com/learn-co-curriculum/hs-ruby-2-meal-choice-lab)
+#####Break and have students work on the [Parrot Lab](https://GitHub.com/learn-co-curriculum/hs-ruby-2-parrot-lab) and [meal choice mini-lab](https://GitHub.com/learn-co-curriculum/hs-ruby-2-meal-choice-lab)
 
 
 ## Conclusion / So What?

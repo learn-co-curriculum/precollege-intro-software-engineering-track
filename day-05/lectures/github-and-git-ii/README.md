@@ -9,7 +9,7 @@ _A full lecture is available [here](LECTURE.md)_
 + You’ve been using GitHub to fork and clone code to your local computers. The real power of GitHub comes in the form of version control and hosting your code in the cloud. Version control makes it possible to save snapshots of your work over time, so that you can go back to different snapshots if you mess something up down the line. You can __push__ these snapshots, also known as __commits__, to GitHub so that they can be accessed from anywhere, allowing for collaboration with other developers.
 
 ## Lesson Plan
-+ Explain difference between Git and Github.
++ Explain difference between Git and GitHub.
 + Pull up a practice lab and make some changes to it.
 + Explain and model:
   + `git add`

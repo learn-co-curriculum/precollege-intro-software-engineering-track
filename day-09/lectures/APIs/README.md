@@ -13,7 +13,7 @@ In the same way that you can interact with an application, a program can as well
 APIs are a huge part of programming, and even though we're not going to get too much into how they work now (that's a big part of the advanced course), we wanted to introduce you to some of their power now.
 
 ##Lesson Plan
-+ We're going to use the [Twilio API](https://github.com/twilio/twilio-ruby) for this project to send text messages from our code
++ We're going to use the [Twilio API](https://GitHub.com/twilio/twilio-ruby) for this project to send text messages from our code
 + Flatiron's Twilio Account:
 
 ```

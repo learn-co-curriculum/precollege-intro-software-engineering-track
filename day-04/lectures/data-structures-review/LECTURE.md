@@ -161,4 +161,4 @@ school_subjects = [
     school_subjects[science][1]
   ```
 ## More Practice
-+ [Mini-lab: Ruby Menu Challenge](https://github.com/learn-co-curriculum/hs-ruby-menu-challenge)
++ [Mini-lab: Ruby Menu Challenge](https://GitHub.com/learn-co-curriculum/hs-ruby-menu-challenge)

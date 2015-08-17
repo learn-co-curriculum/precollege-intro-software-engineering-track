@@ -22,9 +22,9 @@
 + Explain that we write CSS in separate files, so that each file in our website has one job and one job only.
 
 ## Lesson Plan
-+ Start with CSS walkthrough on the screen, showing the uncompleted and completed versions, [found here](https://github.com/learn-co-curriculum/css-walkthrough-hs).
++ Start with CSS walkthrough on the screen, showing the uncompleted and completed versions, [found here](https://GitHub.com/learn-co-curriculum/css-walkthrough-hs).
 + Students fork and clone walkthrough and open `index.html` in browser and Sublime.
-+ When you first open the file in the broswer, it's just a bunch of text on a page. We want to make it look snazy (like on the [solution](https://github.com/learn-co-curriculum/css-walkthrough-hs/tree/solution))
++ When you first open the file in the broswer, it's just a bunch of text on a page. We want to make it look snazy (like on the [solution](https://GitHub.com/learn-co-curriculum/css-walkthrough-hs/tree/solution))
 + First we have to link the CSS file to HTML file with `<link rel=”stylesheet” type=”text/css” href=”css/style.css”>`.
 + Now we want to make all the H1 tags largers and the font color to blue with 
 ```css
@@ -108,17 +108,17 @@
 
 ### On Learn
 + Labs:
-  + [Empire State](https://github.com/learn-co-curriculum/hs-empire-state-css-challenge)
-  + [My Little Rainbow](https://github.com/learn-co-curriculum/hs-my-little-rainbow) 
-  + [Graffiti Override](https://github.com/learn-co-curriculum/hs-css-graffiti-override)
-  + [Zetsy](https://github.com/learn-co-curriculum/hs-zetsy)
-  + [ZHW Shoes](https://github.com/learn-co-curriculum/hs-zhw-shoes-layout)
-  + [CSS Issue Bot](https://github.com/learn-co-curriculum/css-issue-bot-9000)
+  + [Empire State](https://GitHub.com/learn-co-curriculum/hs-empire-state-css-challenge)
+  + [My Little Rainbow](https://GitHub.com/learn-co-curriculum/hs-my-little-rainbow) 
+  + [Graffiti Override](https://GitHub.com/learn-co-curriculum/hs-css-graffiti-override)
+  + [Zetsy](https://GitHub.com/learn-co-curriculum/hs-zetsy)
+  + [ZHW Shoes](https://GitHub.com/learn-co-curriculum/hs-zhw-shoes-layout)
+  + [CSS Issue Bot](https://GitHub.com/learn-co-curriculum/css-issue-bot-9000)
 + Stretch Labs:
-  + [Concentration Game](https://github.com/learn-co-curriculum/fe-concentration-game)
-  + [eCard Site Layout](https://github.com/learn-co-curriculum/ecard-site-layout)
-  + [Animal Save](https://github.com/learn-co-curriculum/animal-save)
-  + [JQuery Selectors](https://github.com/learn-co-curriculum/fe-jquery-exploring-selectors)
-  + [JQuery Methods](https://github.com/learn-co-curriculum/fe-jquery-exploring-methods)
+  + [Concentration Game](https://GitHub.com/learn-co-curriculum/fe-concentration-game)
+  + [eCard Site Layout](https://GitHub.com/learn-co-curriculum/ecard-site-layout)
+  + [Animal Save](https://GitHub.com/learn-co-curriculum/animal-save)
+  + [JQuery Selectors](https://GitHub.com/learn-co-curriculum/fe-jquery-exploring-selectors)
+  + [JQuery Methods](https://GitHub.com/learn-co-curriculum/fe-jquery-exploring-methods)
   
   

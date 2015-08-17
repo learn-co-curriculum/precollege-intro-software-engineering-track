@@ -77,13 +77,13 @@ steph = {
   end
 ```
 + **_reader_** and **_writer_** methods may also be referred to as **_getter_** and **_setter_** methods
-+ Interactive Lab: (Basic Objects)[https://github.com/learn-co-curriculum/hs-basic-objects-mini-lab]
++ Interactive Lab: (Basic Objects)[https://GitHub.com/learn-co-curriculum/hs-basic-objects-mini-lab]
 + Initialize method
   * Have students add an initialize method to their interactive lab classes
   * Passing arguments to the initialize method
     * Have students add an argument to their initialize method
 + Create a method inside class, like `poke_friend` or `post_to_wall`
-+ Lab: [Garden Gnome](https://github.com/learn-co-curriculum/hs-garden-gnome-oo-lab)
++ Lab: [Garden Gnome](https://GitHub.com/learn-co-curriculum/hs-garden-gnome-oo-lab)
 + Everything is an object
   * The string `"hi"` is actually `String.new("hi")`
     * Shortcut is just syntactic sugar
@@ -100,7 +100,7 @@ steph = {
   end
 ```
 
-+ Interactive Practice: [Extending Existing Objects Mini-Lab](https://github.com/learn-co-curriculum/hs-basic-objects-mini-lab)
++ Interactive Practice: [Extending Existing Objects Mini-Lab](https://GitHub.com/learn-co-curriculum/hs-basic-objects-mini-lab)
 
 ## Conclusion / So What?
 Object-oriented programming is powerful for a few main reasons. First of all, when you make an instance of a class, it is its own discrete object. If you make a change to that object, it won't affect any of your other code. This is called encapsulation. Second of all, OOP allows you to have many different methods with the same name that do the same job, but on different objects. This is called polymorphism, and it keeps your code DRY. Along with this, OOP allows you to write generic code (your blueprint!), which can be used over and over again without having to rewrite the same code. All these concepts make complex code much more reliable and easier to maintain and change.

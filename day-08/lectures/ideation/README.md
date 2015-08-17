@@ -23,9 +23,9 @@
 + At a MINIMUM we want students to walk away with a strong understanding in MVC. Anything beyond that is gravy.
   * For really strong students (after they master a basic MVC app in Sinatra), you can direct them towards several pre-approved APIS. Do not mention the use of APIs in the ideation.
     * ***NB:*** APIs are only to be used by very advanced students and ONLY AFTER they have a working application without using them.
-    * [Giphy](https://github.com/learn-co-curriculum/hs-giphy-api)
-    * [Yummly](https://github.com/learn-co-curriculum/hs-yummly-api)
-    * [Foursquare](https://github.com/learn-co-curriculum/foursquare-wrapper)
+    * [Giphy](https://GitHub.com/learn-co-curriculum/hs-giphy-api)
+    * [Yummly](https://GitHub.com/learn-co-curriculum/hs-yummly-api)
+    * [Foursquare](https://GitHub.com/learn-co-curriculum/foursquare-wrapper)
 
 1. Ideate (~1h)
   + Problem brainstorm:

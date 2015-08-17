@@ -16,7 +16,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>
         <a href="https://docs.google.com/presentation/d/1LJMche3oKe13AkUeAhJUXoBKJVF3XPveFdmMJI9WMH4/edit#slide=id.g3f8078aae_018">Day 6 Deck</a></br>
 
-        <a href="https://github.com/learn-co-curriculum/hs-oo-rivers-to-do">To-Do: Rivers</a>
+        <a href="https://GitHub.com/learn-co-curriculum/hs-oo-rivers-to-do">To-Do: Rivers</a>
     </td>
   </tr>
   <tr>
@@ -38,12 +38,12 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
       <br>
       <br>
       OO Lecture Review - Facebook example. Lead by an instructor
-        <a href="https://github.com/learn-co-curriculum/hs-ruby1-facebook-review">Facebook Example</a>
+        <a href="https://GitHub.com/learn-co-curriculum/hs-ruby1-facebook-review">Facebook Example</a>
       <br>
       <br>
       OO Advanced Material Lecture - Facebook Example - lead by an instructor
         <a href="stretch-oo-concepts/README.md">Stretch Concepts</a>
-        <a href="https://github.com/learn-co-curriculum/hs-ruby1-facebook-stretch-example"> Facebook Stretch Example</a>
+        <a href="https://GitHub.com/learn-co-curriculum/hs-ruby1-facebook-stretch-example"> Facebook Stretch Example</a>
     </td>
   </tr>
   <tr>
@@ -62,11 +62,11 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
      </br>
      <br>
 
-      <a href="https://github.com/learn-co-curriculum/hs-oo-cash-register">Project: Amazon Payment</a>
+      <a href="https://GitHub.com/learn-co-curriculum/hs-oo-cash-register">Project: Amazon Payment</a>
       <br>
       + add suggestions for advanced features
       <br><br>
-      <a href="https://github.com/learn-co-curriculum/hs-oo-snapchat">Project: SnapChat</a>
+      <a href="https://GitHub.com/learn-co-curriculum/hs-oo-snapchat">Project: SnapChat</a>
   
     </td>
   </tr>
@@ -82,9 +82,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>
        Tell kids they are awesome.</br>
 
-       <a href="https://github.com/learn-co-curriculum/hs-post-class-survey">Micro Feedback</a></br>
+       <a href="https://GitHub.com/learn-co-curriculum/hs-post-class-survey">Micro Feedback</a></br>
 
-       <a href="https://github.com/learn-co-curriculum/hs-intro-ruby-code-challenge-6">Code Challenge: Batman</a>
+       <a href="https://GitHub.com/learn-co-curriculum/hs-intro-ruby-code-challenge-6">Code Challenge: Batman</a>
     </td>
   </tr>
 

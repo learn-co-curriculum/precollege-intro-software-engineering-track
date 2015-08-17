@@ -13,7 +13,7 @@ WHAT IS TDD?
 + It’s a way that developers work to build high quality programs and prevent errors and bugs from developing in the program.
 
 TDD CODE ALONG
-+ Have students go to [TDD CODE ALONG](https://github.com/learn-co-curriculum/hs-tdd-structure-code-along)
++ Have students go to [TDD CODE ALONG](https://GitHub.com/learn-co-curriculum/hs-tdd-structure-code-along)
 + RSpec helps us with all our testing needs.
 + Students clone a GitHub repository that has RSpec tests in it (TDD Code Along).
 + `cd` into the directory. `cd` into `spec` directory. 

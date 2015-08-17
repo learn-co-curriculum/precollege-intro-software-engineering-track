@@ -16,7 +16,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>
         <a href="https://docs.google.com/presentation/d/1LJMche3oKe13AkUeAhJUXoBKJVF3XPveFdmMJI9WMH4/edit#slide=id.g3f8078aae_018">Day 6 Deck</a></br>
 
-        <a href="https://github.com/learn-co-curriculum/hs-oo-rivers-to-do">To-Do: Rivers</a>
+        <a href="https://GitHub.com/learn-co-curriculum/hs-oo-rivers-to-do">To-Do: Rivers</a>
     </td>
   </tr>
   <tr>
@@ -33,8 +33,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>Start Group Lab</td>
     <td>
       <a href="lectures/object-oriented-group-project">Lecture: Object Oriented Group Project</a></br>
-      <a href="https://github.com/learn-co-curriculum/hs-oo-cash-register">Project: Cash Register</a>
-		 	<a href="https://github.com/learn-co-curriculum/hs-oo-snapchat">Project: SnapChat</a>
+      <a href="https://GitHub.com/learn-co-curriculum/hs-oo-cash-register">Project: Cash Register</a>
+		 	<a href="https://GitHub.com/learn-co-curriculum/hs-oo-snapchat">Project: SnapChat</a>
     </td>
   </tr>
   <tr>
@@ -48,7 +48,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>12:30 - 2:20</td>
     <td>Finish Group Lab</td>
     <td>
-       <a href="https://github.com/learn-co-curriculum/oo-jukebox">Stretch Lab: OO Jukebox</a>
+       <a href="https://GitHub.com/learn-co-curriculum/oo-jukebox">Stretch Lab: OO Jukebox</a>
    	</td>
   </tr>
    <tr>
@@ -63,9 +63,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>
        Tell kids they are awesome.</br>
 
-       <a href="https://github.com/learn-co-curriculum/hs-post-class-survey">Micro Feedback</a></br>
+       <a href="https://GitHub.com/learn-co-curriculum/hs-post-class-survey">Micro Feedback</a></br>
 
-	     <a href="https://github.com/learn-co-curriculum/hs-intro-ruby-code-challenge-6">Code Challenge: Batman</a>
+	     <a href="https://GitHub.com/learn-co-curriculum/hs-intro-ruby-code-challenge-6">Code Challenge: Batman</a>
    	</td>
   </tr>
 

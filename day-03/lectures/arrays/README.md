@@ -43,7 +43,7 @@ ADD AND REMOVE ITEMS
 + `names.delete_at(3)` will delete the item at index 3.
 + `names.insert(2, “Dan”)` will insert the item at the index you specify in the first argument.
 + Here are some other cool methods: .length, .reverse, .sample, .sort
-+ [Mini-Lab: Manipulating arrays](https://github.com/learn-co-curriculum/hs-manipulating-arrays-mini-lab) (start with array and then have 10 instructions, what does array look like at the end?)
++ [Mini-Lab: Manipulating arrays](https://GitHub.com/learn-co-curriculum/hs-manipulating-arrays-mini-lab) (start with array and then have 10 instructions, what does array look like at the end?)
   + Answer: `["Peru", "Laos", "Chad", "Cuba", "Togo", "Iraq", "Iran", "Mali", "Oman", "Fiji"]`
 
 ARRAY ITERATION
@@ -69,7 +69,7 @@ ARRAY ITERATION
   + content in the `|pipes|` is the item from the array that is being iterated through - it’s like a placeholder, doesn’t really matter what it’s called but try to name it sensibly.
   + code is inside the `do` and `end` - this is what happens to each item.
 + Let’s go back to our names example. Model using `.each` to output the names with `“Our class has a student named #{name}”`
-+ [Mini-Lab - Iteration through arrays](https://github.com/learn-co-curriculum/hs-array-iteration-mini-lab)
++ [Mini-Lab - Iteration through arrays](https://GitHub.com/learn-co-curriculum/hs-array-iteration-mini-lab)
 
 ### Conclusion / So What?
 + The web is made up of data. Without it, you wouldn't know who your Facebook friends are or how many likes you got on an Instagram post. With all this data, it's important to be able to organize it efficiently so that we can easily make changes to data sets. That's why arrays are so valuable. Even the most complex applications rely on these structures at times to organize the information in their codebase.
@@ -79,4 +79,4 @@ ARRAY ITERATION
 + Pill box with all your pills for Monday, Tues, Wed, etc. Each day in the pill box is one index in an array
 
 ### Additional Media
-+ [Here](http://bethannezink.github.io/We-Can-Work-It-Out/) is a fun blog post explaining Ruby data structures using the Beatles.
++ [Here](http://bethannezink.GitHub.io/We-Can-Work-It-Out/) is a fun blog post explaining Ruby data structures using the Beatles.

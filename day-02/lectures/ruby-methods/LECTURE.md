@@ -72,7 +72,7 @@ end
 + We call methods by writing the method name when we want to use it. Add call to the file and run it to show the class. 
 + ***Write a few more methods with class:*** How old will I be in 10 years? What is my name spelled backwards. Change all w’s to v’s.
 * ***Break and have them write and call methods in a lab***
-	+ https://github.com/learn-co-curriculum/hs-ruby-2-methods-practice-lab 
+	+ https://GitHub.com/learn-co-curriculum/hs-ruby-2-methods-practice-lab 
 
 + Every method that we write gives us something called a return value - this is what Ruby evaluates for us and gives us back to use in other parts of our program. The return value of our methods is the last line evaluated. 
 + What would the return value of these methods be?
@@ -179,7 +179,7 @@ end
 puts addition(2, 3)
 ```
 ***Your turn to practice with a lab!***
-https://github.com/learn-co-curriculum/hs-ruby-2-parrot-lab
+https://GitHub.com/learn-co-curriculum/hs-ruby-2-parrot-lab
 + We can also set default values for our arguments like this:
 
 ```ruby
@@ -189,7 +189,7 @@ https://github.com/learn-co-curriculum/hs-ruby-2-parrot-lab
 ```
 + What do you think happens when I call this method with no arguments? Show the class.
 + Practice with a mini-lab 
-	+ https://github.com/learn-co-curriculum/hs-ruby-2-meal-choice-lab
+	+ https://GitHub.com/learn-co-curriculum/hs-ruby-2-meal-choice-lab
 Why do we have to feed arguments into a method anyway? Why can’t we do this:
 + What if instead of feeding in an argument for name we just defined name at the top of the file. Like this:
 

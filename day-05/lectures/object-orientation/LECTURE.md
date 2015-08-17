@@ -73,7 +73,7 @@ steph = {
     * Method returns the value of the `@name` variable
     
 + Instance variables: is the attribute: `@name`, `eye_color`. This variable stores a different value for each instance of our class
-+ Interactive Lab: (Basic Objects)[https://github.com/learn-co-curriculum/hs-basic-objects-mini-lab]
++ Interactive Lab: (Basic Objects)[https://GitHub.com/learn-co-curriculum/hs-basic-objects-mini-lab]
 + Initialize method:
   * What's the one thing in movies or tv shows that you always want to have happen right when the baby is born.Like it's dramatic, the baby is coming early, the mother's health is bad, they're not sure the baby is going to live. What's the first sign that the baby is ok? It cries.
   * The initialize method is a set of instructions that happens at the moment of creation. Let's make our babies cry the moment they're born.
@@ -184,7 +184,7 @@ steph = {
     end
     ```
 + Knowing this, what do you think the user class of Twitter looks like? ** Have the students name the similarities and differences **
-+ Lab: [Garden Gnome](https://github.com/learn-co-curriculum/hs-garden-gnome-oo-lab)
++ Lab: [Garden Gnome](https://GitHub.com/learn-co-curriculum/hs-garden-gnome-oo-lab)
 + Everything is an object
   * The string `"hi"` is actually `String.new("hi")`
     * Shortcut is just syntactic sugar
@@ -201,7 +201,7 @@ steph = {
     end
   end
   ```
-+ Interactive Practice: [Extending Existing Objects Mini-Lab](https://github.com/learn-co-curriculum/hs-basic-objects-mini-lab)
++ Interactive Practice: [Extending Existing Objects Mini-Lab](https://GitHub.com/learn-co-curriculum/hs-basic-objects-mini-lab)
 
 ### Conclusion / So What?
 Object-oriented programming is powerful for a few main reasons. First of all, when you make an instance of a class, it is its own discrete object. If you make a change to that object, it won't affect any of your other code. This is called encapsulation. Second of all, OOP allows you to have many different methods with the same name that do the same job, but on different objects. This is called polymorphism, and it keeps your code DRY. Along with this, OOP allows you to write generic code (your blueprint!), which can be used over and over again without having to rewrite the same code. All these concepts make complex code much more reliable and easier to maintain and change.
