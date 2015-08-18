@@ -51,7 +51,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
             <a href="lectures/intro-to-ruby/LECTURE.md">Lecture: Intro to Ruby</a></br>
             <a href="lectures/intro-to-ruby">Lecture Notes</a></br>
             <a href="https://GitHub.com/learn-co-curriculum/hs-strings-mini-lab">Lab: Interactive Practice - Strings</a></br>
-            <a href="https://GitHub.com/learn-co-curriculum/hs-variables-mini-lab">Lab: Interactive Practice II - Variables</a></br>
             <a href="https://GitHub.com/learn-co-curriculum/hs-user-input-mini-lab">Lab: User Input</a></br>
             <a href="https://GitHub.com/learn-co-curriculum/hs-invitation-maker-lab">Lab: Invitation Maker</a></br>
             <a href="https://github.com/learn-co-curriculum/hs-user-input-flatiron-graduation-invititation">Stretch Lab: CLI Flatiron Graduation Invitation Maker</a></br>
