@@ -16,5 +16,5 @@
 
 **For Lecture Time:** Pick a funny topic and have students do the same to practice HTML and CSS
 
-**For Lab Time:** Have students build their own website and deploy to GH pages instead of working on Labs
+**For Lab Time:** Have students [build their own website](https://github.com/learn-co-curriculum/hs-ruby1-my-website).
 
