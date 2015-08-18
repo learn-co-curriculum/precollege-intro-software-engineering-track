@@ -54,6 +54,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
             <a href="https://GitHub.com/learn-co-curriculum/hs-variables-mini-lab">Lab: Interactive Practice II - Variables</a></br>
             <a href="https://GitHub.com/learn-co-curriculum/hs-user-input-mini-lab">Lab: User Input</a></br>
             <a href="https://GitHub.com/learn-co-curriculum/hs-invitation-maker-lab">Lab: Invitation Maker</a></br>
+            <a href="https://github.com/learn-co-curriculum/hs-user-input-flatiron-graduation-invititation">Stretch Lab: CLI Flatiron Graduation Invitation Maker</a></br>
             <a href="https://GitHub.com/learn-co-curriculum/hs-phone-number-formatter">Stretch Lab: Phone Number Formatter</a>
         </td>
     </tr>
