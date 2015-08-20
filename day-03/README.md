@@ -51,6 +51,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         	
         	<a href="https://GitHub.com/learn-co-curriculum/hs-elective-arrays-lab">Lab: Elective Arrays</a></br>
 
+            <a href="https://github.com/learn-co-curriculum/hs-intro-software-engineering-movie-arrays">Lab: Netflix Movie Queue</a><br>
+
             <a href="https://GitHub.com/learn-co-curriculum/hs-ruby-binary-stretch-lab">Stretch Lab: Ruby Binary Conversion</a></br>
 
             <a href="https://GitHub.com/learn-co-curriculum/my-each">Stretch Lab: Creating Your Own .each</a>
