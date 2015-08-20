@@ -4,7 +4,7 @@
 + Understand the brainstorming and design process and decide on an idea for their final project.
 
 ### Motivation / Why Should You Care?
-+ We’ve all been in the situation where we want to make something, but are totally overwhelmed by the blank page. The blinking cursor of nothingness. It’s totally daunting. Since we’re going to start working on our final projects, we’re going to first tackle the brainstorming process so that we have a few potential projects that we can work on. The point of this course is to learn to build web applications, combining front-end programming with back-end programming, but you can't build an application about nothing. You need a good idea, first!
++ We've all been in the situation where we want to make something, but are totally overwhelmed by the blank page. The blinking cursor of nothingness. It's totally daunting. Since we're going to start working on our final projects, we're going to first tackle the brainstorming process so that we have a few potential projects that we can work on. The point of this course is to learn to build web applications, combining front-end programming with back-end programming, but you can't build an application about nothing. You need a good idea, first!
 
 ### Lesson Plan
 + We started this class building input-output command line applications with puts and gets. We talked about how that process of user input, data manipulation and then output is a pattern that drives the web. For your final project, we're going to use this same pattern to build a utility application. 

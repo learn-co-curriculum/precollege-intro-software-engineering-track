@@ -3,7 +3,7 @@
 _A full lecture is available [here](LECTURE.md)_
 
 ## SWBATs
-+ Explain what an if statement is and why it’s used
++ Explain what an if statement is and why it's used
 + Implement an if statemenet with 1, 2, and 3+ branches
 + Implement the comparison operators
 
@@ -29,9 +29,9 @@ end
 ```
 ```ruby
 if false
-    puts "we’ll never see this"
+    puts "we'll never see this"
 else
-    puts "we’ll always see this"
+    puts "we'll always see this"
 end
 ```
 + What if we wanted something to happen if the statement from above was false? 
@@ -49,7 +49,7 @@ packing_list = [socks, "matches", "trail mix"]
 packing_list = ["socks", "matches", "trail mix"]
 
 	if packing_list.includes?("sleeping bag") && packing_list.includes?("blanket")
-		puts "I’ll be warm"
+		puts "I'll be warm"
 	elsif packing_list.includes?("sleeping bag") || packing_list.includes?("blanket")
 		puts "I have a place to sleep!"
 	else

@@ -25,7 +25,7 @@
 + Start with CSS walkthrough on the screen, showing the uncompleted and completed versions, [found here](https://GitHub.com/learn-co-curriculum/css-walkthrough-hs).
 + Students fork and clone walkthrough and open `index.html` in browser and Sublime.
 + When you first open the file in the broswer, it's just a bunch of text on a page. We want to make it look snazy (like on the [solution](https://GitHub.com/learn-co-curriculum/css-walkthrough-hs/tree/solution))
-+ First we have to link the CSS file to HTML file with `<link rel=”stylesheet” type=”text/css” href=”css/style.css”>`.
++ First we have to link the CSS file to HTML file with `<link rel="stylesheet" type="text/css" href="css/style.css">`.
 + Now we want to make all the H1 tags largers and the font color to blue with 
 ```css
   h1 {font-size: 40px; 

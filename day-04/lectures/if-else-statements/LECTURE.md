@@ -5,23 +5,23 @@
 
 ## SWBATS
 
-+ Explain what an if statement is and why it’s used
++ Explain what an if statement is and why it's used
 + Implement an if state with 1, 2, and 3+ branches
 + Implement the comparison operators
 
 
 ## Motivation
-Let’s say we want our code to be event based so that an input triggers one flow and one specific output, as opposed to a different input, so that we’re not always manually calling all of our methods. For example, when the time is 12am, we get tired and go to bed. When the time is 10am, we’re awake.
+Let's say we want our code to be event based so that an input triggers one flow and one specific output, as opposed to a different input, so that we're not always manually calling all of our methods. For example, when the time is 12am, we get tired and go to bed. When the time is 10am, we're awake.
 
-What if we’re going camping, and we need to make a list of everything to pack. We can create an array of our packing list. When you’re packing for camping, your packing list is really important. If you forget a raincoat and it rains, you’re going to be soaking. If you forget matches, you can’t cook any food over a fire. If you pack sunscreen, you won’t get sunburned. So how could we implement something like that in code? If statements! ***Has anyone used if statements in math? Can someone explain what it is in math?***
+What if we're going camping, and we need to make a list of everything to pack. We can create an array of our packing list. When you're packing for camping, your packing list is really important. If you forget a raincoat and it rains, you're going to be soaking. If you forget matches, you can't cook any food over a fire. If you pack sunscreen, you won't get sunburned. So how could we implement something like that in code? If statements! ***Has anyone used if statements in math? Can someone explain what it is in math?***
 
 ## Lesson Plan 
 We have if statements in Ruby. They start with the keyword `if`, and end with the keyword  `end`
   ```ruby
     packing_list = ["socks", "sleeping bag", "trail mix"]
 
-  	if packing_list.include?(“sleeping bag”)
-  	    puts “I have a place to sleep!”
+  	if packing_list.include?("sleeping bag")
+  	    puts "I have a place to sleep!"
   	end
 
   ```
@@ -46,9 +46,9 @@ we can use the data types true and false:
   end
 
   if false
-      puts "we’ll never see this"
+      puts "we'll never see this"
   else
-      puts "we’ll always see this"
+      puts "we'll always see this"
   end
 ```
 
@@ -56,14 +56,14 @@ we can use the data types true and false:
 ```ruby
   packing_list = ["socks", "matches", "trail mix"]
 
-	if packing_list.include?(“sleeping bag”)
-	    puts “I have a place to sleep!”
+	if packing_list.include?("sleeping bag")
+	    puts "I have a place to sleep!"
 	else 
-	    puts “I need to pack a sleeping bag”
+	    puts "I need to pack a sleeping bag"
 	end
 
 ```
-+ Notice we didn’t need to put anything after the `else`, it’s just the default. The if statement didn’t evaluate to true, so it automatically skips to the else and will execute that line. 
++ Notice we didn't need to put anything after the `else`, it's just the default. The if statement didn't evaluate to true, so it automatically skips to the else and will execute that line. 
 + this has two branches
 + ***Students implement an if/else statement***
 + What if we had more conditions? 3+ branches, we use the keyword "elsif"
@@ -71,18 +71,18 @@ we can use the data types true and false:
 packing_list = ["socks", "matches", "trail mix"]
 
 if packing_list.include?("sleeping bag") && packing_list.include?("blanket")
-  puts "I’ll be warm"
+  puts "I'll be warm"
 elsif packing_list.include?("sleeping bag") || packing_list.include?("blanket")
   puts "i have a place to sleep!"                         
 else
   puts "I have nowhere to sleep"
 end
 ```
-+ the `&&` is a comparison operator that means ‘and’. If both sides of the `&&` evaluates to true, then the entire statement evaluates to true. if one side evaluates to false, then the entire statement evaluates to false.  In this case, our list doesn’t include either, so both sides are false
++ the `&&` is a comparison operator that means ‘and'. If both sides of the `&&` evaluates to true, then the entire statement evaluates to true. if one side evaluates to false, then the entire statement evaluates to false.  In this case, our list doesn't include either, so both sides are false
 + the `||` is a comparison operator means or. If either side evaluates to true, the entire statement evaluates to true.
 + ***What would happen if we added "blanket" to our array?***
 + ***Students implement a 3 branch if statement with neither blanket or sleeping bag, with just blanket, and with both. Have them write down what statement would get printed out in all three situations.***
-+ We’ve learned about two comparison operators so far, but there are more. ***What comparison operators have you used in math classes?***
++ We've learned about two comparison operators so far, but there are more. ***What comparison operators have you used in math classes?***
 + We can use the same with Ruby >, <, >=, <=, ==
 
 ```ruby
@@ -105,7 +105,7 @@ end
   end
 ```
 
-+ `==` is a comparison for ‘equal to’. A single  `=` is used for variable assignment, == is used to check case equality.
++ `==` is a comparison for ‘equal to'. A single  `=` is used for variable assignment, == is used to check case equality.
 + ***Students implement an if statement with > and < operators***
 
 

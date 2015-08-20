@@ -13,16 +13,16 @@ _A full lecture is available [here](LECTURE.md)_
 + **A Personal Website lab exists in the `CSS` section on Learn.co. Feel free to use this as your basis for having students learn HTML - they write the HTML for their personal sites, and then style it with CSS**
 
 
-+ Start with an altered Tweet from a celebrity, which you've changed using Chrome's Developer Tools. For exmaple, you can have Justin Bieber tweet: “I love Flatiron School and coding SO SO much!,” or President Obama, "I am Barack Obama and I approve the Flatiron School." Tell students they'll know how to do that by the end of the lesson.
++ Start with an altered Tweet from a celebrity, which you've changed using Chrome's Developer Tools. For exmaple, you can have Justin Bieber tweet: "I love Flatiron School and coding SO SO much!," or President Obama, "I am Barack Obama and I approve the Flatiron School." Tell students they'll know how to do that by the end of the lesson.
 + So far we've learned only about backend languages, Ruby in particular. How do we control what we see, though? That's where front-end programming comes in!
 + Ask students for their favorite websites and bring it up on the screen and click `view source`.
   + Students can go to a website of their choice on their own computers and right click and see the source code.
 + Web pages are made up of two things: HTML and CSS. Every single web page on the internet contains HTML and CSS.
-+ HTML stands for Hypertext Markup Language, and **every single website** on the internet is written in HTML. Every. Single. Page. HTML provides the skeleton for websites and organizes the different elements on a page into categories like image, paragraph, and title. HTML doesn’t have anything to do with the layout of text on a page or how the page looks. All it does is tell the browser what different types of content is on the page.
++ HTML stands for Hypertext Markup Language, and **every single website** on the internet is written in HTML. Every. Single. Page. HTML provides the skeleton for websites and organizes the different elements on a page into categories like image, paragraph, and title. HTML doesn't have anything to do with the layout of text on a page or how the page looks. All it does is tell the browser what different types of content is on the page.
 + We use HTML to mark a navigation bar, tell the browser that this piece of content is an article, this is a caption related to this image, this is a menu with items on it, etc.
 + Ask the students why is this important.
   + I can simply look at a page to determine what type of content everything is.
-  + Computers are stupid and can’t infer knowledge the way we can. Semantic tags let computers know exactly what's what. Web crawlers like Google’s use HTML to actual determine what text on a page is content, which helps Google put the appropriate content in the search results you see. Services like Pocket and Embedly use tags to pull certain parts of an article to save to your reading list, without pulling the entire site.
+  + Computers are stupid and can't infer knowledge the way we can. Semantic tags let computers know exactly what's what. Web crawlers like Google's use HTML to actual determine what text on a page is content, which helps Google put the appropriate content in the search results you see. Services like Pocket and Embedly use tags to pull certain parts of an article to save to your reading list, without pulling the entire site.
 
 
 ## Lesson Plan

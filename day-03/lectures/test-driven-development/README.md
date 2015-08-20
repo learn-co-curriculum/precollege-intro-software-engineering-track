@@ -6,11 +6,11 @@ _A full lecture is available [here](LECTURE.md)_
 + Understand the purpose of Test Driven Development and use it to solve challenges.
 
 ## Motivation / Why Should You Care?
-+ So far we’ve been checking our work by manually testing our programs. Writing code and then running it in the terminal. But what if we're building a huge program that many developers have been working on? Manual testing becomes very hard! TDD is a way that developers work to build high quality programs and prevent errors and bugs from developing in the program Changing one small thing can have unforeseen effects, so developers first write tests that check to make sure that their code is doing what it’s supposed to be doing. Then they write the code and get their tests to pass. In this course, we’re not going to be writing tests, but instead we’re going to be using labs that have tests written in them and we have to get the tests to pass by writing passing code.
++ So far we've been checking our work by manually testing our programs. Writing code and then running it in the terminal. But what if we're building a huge program that many developers have been working on? Manual testing becomes very hard! TDD is a way that developers work to build high quality programs and prevent errors and bugs from developing in the program Changing one small thing can have unforeseen effects, so developers first write tests that check to make sure that their code is doing what it's supposed to be doing. Then they write the code and get their tests to pass. In this course, we're not going to be writing tests, but instead we're going to be using labs that have tests written in them and we have to get the tests to pass by writing passing code.
 
 ## Lesson Plan
 WHAT IS TDD?
-+ It’s a way that developers work to build high quality programs and prevent errors and bugs from developing in the program.
++ It's a way that developers work to build high quality programs and prevent errors and bugs from developing in the program.
 
 TDD CODE ALONG
 + Have students go to [TDD CODE ALONG](https://GitHub.com/learn-co-curriculum/hs-tdd-structure-code-along)
@@ -19,7 +19,7 @@ TDD CODE ALONG
 + `cd` into the directory. `cd` into `spec` directory. 
 + Our tests are written in a file that ends in `spec.rb`. 
 + Open `my_code_spec.rb`, which is a set of tests for `my_code.rb`. 
-+ Naming is standard - the tests are written in a file with `_spec.rb` added on to the end of the name of the file that it’s testing.
++ Naming is standard - the tests are written in a file with `_spec.rb` added on to the end of the name of the file that it's testing.
 
 SYNTAX WALKTHROUGH
 + `describe` and `it` sections just give context, and `expect` is the line that shows the Ruby code that the test runs and what it is expecting.
@@ -34,10 +34,10 @@ USING RSPEC
 FROM TERMINAL
 + How to run tests from the terminal?
 + `cd` to the main directory of the lab and just type `rspec`.
-+ Doesn’t work? You don’t have RSpec installed! 
-	+ A gem = code that someone else wrote (so you don’t have to) that gets integrated with your code.
-	+ Use a library so you don’t have to reinvent the wheel. Power of open source.
-	+ Run `gem install rspec` and when it’s installed run `rspec` again.
++ Doesn't work? You don't have RSpec installed! 
+	+ A gem = code that someone else wrote (so you don't have to) that gets integrated with your code.
+	+ Use a library so you don't have to reinvent the wheel. Power of open source.
+	+ Run `gem install rspec` and when it's installed run `rspec` again.
 + You get ALL failing tests. Failing tests are good. They are breadcrumbs. If no failing tests, that is a red flag!
 + Read the first test and then make changes based on the failure messages you receive (ex: there is no method, the method returns nil, etc) until the first test is green.
 + Second test should be done as a class.

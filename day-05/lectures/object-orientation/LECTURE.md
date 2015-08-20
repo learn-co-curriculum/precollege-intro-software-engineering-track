@@ -22,7 +22,7 @@ When you log in, how does Facebook know to your data? Your exact profile and dat
 
 Object Orientation is a way to organize, manipulate and store data. It's so powerful that it gives companies like Facebook the ability to do that - Have them name apps (Instagram, Snapchat, Square or Strip, Spotify). It's one of the most important and pervasive concepts in computer programming and supports all sorts of applications like Instagram and Facebook, to ESPN to payment apps like Amazon payment. In fact, you guys are going to build your own payment system tomorrow.
 
-The answer is through a type of programming called object-oriented programming. It’s a way a building new objects (alien enemies, Sim people, cars, etc.) by making "factories" that standardize how the objects are made. Programmers don’t have to code every car in GTA individually, every Facebook account, or every Amazon payment. What they do is create a template for objects that can then be tailored without having to recreate all of the code for each new object. The same goes for applications like Facebook and Twitter.
+The answer is through a type of programming called object-oriented programming. It's a way a building new objects (alien enemies, Sim people, cars, etc.) by making "factories" that standardize how the objects are made. Programmers don't have to code every car in GTA individually, every Facebook account, or every Amazon payment. What they do is create a template for objects that can then be tailored without having to recreate all of the code for each new object. The same goes for applications like Facebook and Twitter.
 
 ## Lesson Plan
 + Create an instance of a Facebook user with a hash
@@ -194,7 +194,7 @@ steph = {
   ```ruby
     class Array
     def say_items
-      puts “The items in this array are:”
+      puts "The items in this array are:"
       self.each do |item|
         puts item
       end

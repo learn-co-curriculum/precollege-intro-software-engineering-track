@@ -5,7 +5,7 @@
 + Understand the purpose of Git and GitHub, commit locally, and push to a remote repository.
 
 ## Motivation / Why Should You Care?
-+ How many of you have used Google Docs? It’s a great way to store documents online and makes it easy to collaborate with other people. It works best for files like word documents and spreadsheets, but it isn’t equipped to store code. Thankfully, there’s GitHub, which is basically the Google Docs of code.
++ How many of you have used Google Docs? It's a great way to store documents online and makes it easy to collaborate with other people. It works best for files like word documents and spreadsheets, but it isn't equipped to store code. Thankfully, there's GitHub, which is basically the Google Docs of code.
 + Almost all major apps are stored publically or privately on GitHub. Octomaps is a cool app some previous precollege students made that shows all the different places all over the word that programmers are collaborating from. [Octomaps](http://octomaps.com/) -- enter in Ruby for Repository Owner and Ruby for Repository name and you'll see all the people contributing to the language you're learning. 
 + GitHub is a service that allows us to store and share our code online and it uses this special language we can use on our command line or terminal called git. 
 + What makes git really powerful is that it's a version control system. It's like a time machine for your code because every save is a snapshot to what your code says right then. 
@@ -16,17 +16,17 @@
 
 ### Part I.
 + Navigate to Week 2 > Git and GitHub > Study Guide 
-  + We’ll use this to get code from GitHub and bring it down to our computers.
-+ Click “Fork this lab” link to open GitHub repository.
+  + We'll use this to get code from GitHub and bring it down to our computers.
++ Click "Fork this lab" link to open GitHub repository.
   + Explain what a repository is.
-+ Click “Fork” button in the top right corner of the GitHub page.
++ Click "Fork" button in the top right corner of the GitHub page.
   + Explain what forking is. (Like making a photocopy of a handout.). You're making your own version of somebody else's work so you can use and add to it without it affecting the original version. 
-+ At “Where should we fork this repository?” popup, select own account.
++ At "Where should we fork this repository?" popup, select own account.
 + GitHub then redirects to a page with your username/lab-name in URL. 
   + Your account now has a copy on GitHub.
-  + You can’t edit it on your computer in Sublime Text just yet.
+  + You can't edit it on your computer in Sublime Text just yet.
 + Explain what cloning a repository is.
-+ On the right sidebar, find the “clone URL” input box, and make sure that it says “HTTPS clone URL.” 
++ On the right sidebar, find the "clone URL" input box, and make sure that it says "HTTPS clone URL." 
   + Copy the URL.
 + In terminal, in your Development directory, enter `git clone` and paste the URL.
 + Terminal will prompt you to enter your username and password. 
@@ -44,7 +44,7 @@
 + Students do!
 
 ## Conclusion / So What?
-+ Two words: Open Source. There are over eight million people who use GitHub to store their code. Having a free account on GitHub means that anyone in the community can fork or clone your repositories and make changes to or contribute to your codebase. It’s all about people building publicly accessible applications together.
++ Two words: Open Source. There are over eight million people who use GitHub to store their code. Having a free account on GitHub means that anyone in the community can fork or clone your repositories and make changes to or contribute to your codebase. It's all about people building publicly accessible applications together.
 
 ## Hints and Hurdles
 + Visuals can be very helpful in explaining forking and cloning. Draw the workflow on the board:

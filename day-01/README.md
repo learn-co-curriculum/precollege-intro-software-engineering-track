@@ -112,8 +112,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 + CLI ‐ Understand and explain what terminal is and why we use it.
 + CLI ‐ Navigate through directories using relative and absolute paths*
 + CLI ‐ use the cd command to move up and down directories
-+ CLI ‐ Use the ‘ls’ keyword to list items in a directory
-+ CLI ‐ Remove a file and a directory by using ‘rm’ and ‘rm ‐rf’ keywords
++ CLI ‐ Use the ‘ls' keyword to list items in a directory
++ CLI ‐ Remove a file and a directory by using ‘rm' and ‘rm ‐rf' keywords
 + CLI ‐ move files and directories using the mv command
 + GENERAL RUBY ‐ explain that all programs are just lines of text read by a computer
 + GENERAL RUBY ‐ demonstrate that ruby programs read top to bottom

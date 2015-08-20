@@ -3,13 +3,13 @@
 _A full lecture is available [here](LECTURE.md)_
 
 ## SWBATs
-***Students will be able to navigate their system’s file structure using the command line in terminal.***
+***Students will be able to navigate their system's file structure using the command line in terminal.***
 
 + CLI - Understand and explain what terminal is and why we use it.
 + CLI - Navigate through directories using relative and absolute paths*
 + CLI - use the cd command to move up and down directories
 + CLI - Use the `ls` keyword to list items in a directory
-+ CLI - Remove a file and a directory by using ‘rm’ and `rm -rf` keywords
++ CLI - Remove a file and a directory by using ‘rm' and `rm -rf` keywords
 + CLI - move files and directories using the mv command
 
 
@@ -20,9 +20,9 @@ Back in the day (the 1980s!), computers only had a terminal to control them. Lat
 ***Any students that have done this lesson before should do the advanced CLI Bash Scripting Lab***
 
 You're going to learn about the command line by planning for a trip. 
-+ Open your terminal. You’ll see a tilde: `~`. This means you’re in your user's home directory.
++ Open your terminal. You'll see a tilde: `~`. This means you're in your user's home directory.
 + Enter `pwd`. Explain `pwd` means print working directory.
-+ Let’s change directories. First check what directories are within the directory where you are standing by using `ls`.
++ Let's change directories. First check what directories are within the directory where you are standing by using `ls`.
 + Show students how to change directories by using the `cd <directory-name>` command. Change to `desktop` directory.
 + Students `mkdir development`.
 + Show students how to make a new directory in `development` called `trip`. Check and see that the directory was made by using `ls`.
@@ -35,7 +35,7 @@ You're going to learn about the command line by planning for a trip.
   + remove an entire directory using `rm -rf`.
 + Accidentally place a file in the wrong directory, then show students how to move it with `mv`.
 + Students practice moving up the tree using `cd ..`.
-+ Important: directories only know what’s directly inside of them.
++ Important: directories only know what's directly inside of them.
 + Show students how to write out the relative path to the cities from the trip directory.
 + Show students how to write out the absolute path to different files and directories.
 + Interactive Practice - have students...

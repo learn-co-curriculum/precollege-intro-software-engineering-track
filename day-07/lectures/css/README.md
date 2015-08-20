@@ -23,11 +23,11 @@ _A full lecture is available [here](LECTURE.md)_
 ## Lesson Plan
 + Start with CSS walkthrough on the screen, showing the uncompleted and completed versions, [found here](https://GitHub.com/learn-co-curriculum/css-walkthrough-hs).
 + Students fork and clone walkthrough and open `index.html` in browser and Sublime.
-+ Link CSS file to HTML file with `<link rel=”stylesheet” type=”text/css” href=”css/style.css”>`.
++ Link CSS file to HTML file with `<link rel="stylesheet" type="text/css" href="css/style.css">`.
 + Make h1 tags larger and change the font to blue with `h1 {font-size: 40px; color: blue;}`.
 + Change h2 font size and color with hexadecimal colors.
-+ Change kid meme to be centered with a green border using border-style, border-color, and a div wrapper around the image with `class=”center-image”` attribute and `.center-image {text-align: center;}` in CSS.
-+ Change font to Wingdings using `<div id=”welcome”>` in HTML and Google fonts.
++ Change kid meme to be centered with a green border using border-style, border-color, and a div wrapper around the image with `class="center-image"` attribute and `.center-image {text-align: center;}` in CSS.
++ Change font to Wingdings using `<div id="welcome">` in HTML and Google fonts.
 + Change background color to red and font color to white.
 + Review using ids and classes to style chunks of code.
 + Show students [references they can use](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) to look up other CSS properties.
