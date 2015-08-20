@@ -62,13 +62,25 @@ ARRAY ITERATION
     names.each do |name|
      name.capitalize
     end
-```        
-  * Note that the each method doesn't permenantly alter the orginal array         
+```
+  * Note that the each method doesn't permanently alter the original array
 + Explain the breakdown of the each method
   + needs a `do` and `end`
   + content in the `|pipes|` is the item from the array that is being iterated through - it's like a placeholder, doesn't really matter what it's called but try to name it sensibly.
   + code is inside the `do` and `end` - this is what happens to each item.
 + Let's go back to our names example. Model using `.each` to output the names with `"Our class has a student named #{name}"`
++ Passing the array into a method that says hey:
+```ruby
+def say_hey(array)
+  array.each do |item|
+    puts "hey #{item}"
+  end
+end
+
+names = ["joe", "lyel", "kristi", "cindy"]
+
+say_hey(names)
+```
 + [Mini-Lab - Iteration through arrays](https://GitHub.com/learn-co-curriculum/hs-array-iteration-mini-lab)
 
 ### Conclusion / So What?
