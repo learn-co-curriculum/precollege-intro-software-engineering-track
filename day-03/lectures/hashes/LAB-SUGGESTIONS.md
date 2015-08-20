@@ -3,4 +3,6 @@
 
 ### Labs:
 
-+ `Elective Arrays` - This lab has students practice retrieving data from arrays, manipulating arrays (removing items, adding items), and iterating through arrays.
++ `Recipe Hash` - This lab has students practice retrieving data from hashes, adding key-value pairs from hashes, and iterating over a hash
+
++ `Weather Forecast` - This lab uses an API (Weather Underground) and has students practice retrieving data from a hash, as well as iterating over a hash.
