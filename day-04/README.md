@@ -42,6 +42,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>
           <a href="lectures/if-else-statements/LECTURE.md">Lecture: If/Else Statements</a></br>
           <a href="lectures/if-else-statements">Lecture Notes</a></br>
+          <a href="https://github.com/learn-co-curriculum/hs-leap-year-todo">Lab: Leap Year</a><br>
           <a href="https://GitHub.com/learn-co-curriculum/hs-conditional-diet-lab">Lab: Homer's Diet</a></br>
           <a href="https://GitHub.com/learn-co-curriculum/curfew-checker">Lab: Curfew Checker</a></br>
           <a href="https://GitHub.com/learn-co-curriculum/hs-leap-year-todo">Lab: Leap Years</a></br>
