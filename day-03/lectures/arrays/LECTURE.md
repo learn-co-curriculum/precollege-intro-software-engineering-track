@@ -57,7 +57,8 @@ So what if we want to change one of the items in the array? Any thoughts on how 
   + `names.pop` will remove the last item in an array.
   + `names.delete_at(3)` will delete the item at index 3.
   + `names.insert(2, "Dan")` will insert the item at the index you specify in the first argument.
-+ Here are some other cool methods: .length, .reverse, .sample, .sort.
+  + `names.reverse` and then `names` - the reverse method won't permanently alter the array, it will just return the reversed array at the moment you call it. 
++ Here are some other cool methods: .length, .sample, .sort.
 + ***Mini-Lab: Manipulating arrays (start with array and then have 10 instructions, what does array look like at the end?)***
 + ***Answer: `["Peru", "Laos", "Chad", "Cuba", "Togo", "Iraq", "Iran", "Mali", "Oman", "Fiji"]`*** 
 
@@ -76,6 +77,18 @@ end
   + content in the |pipes| is the item from the array that is being iterated through - it's sort of like a placeholder, doesn't really matter what it's called but try to name it sensibly.
   + code is inside the do and end - this is what happens to each item.
 + Let's go back to our names example. ***Model using .each to output the names with "`Our class has a student named #{name}`"***
++ Let's manipulate an array inside a method by passing in the array as an argument:
+```ruby
+def say_hey(array)
+  array.each do |item|
+    puts "hey #{item}"
+  end
+end
+
+names = ["joe", "lyel", "kristi", "cindy"]
+
+say_hey(names)
+```
 + ***Mini-Lab - Iteration through arrays***
 
 ## Conclusion
