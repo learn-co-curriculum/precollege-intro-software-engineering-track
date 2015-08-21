@@ -86,6 +86,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
            
            <a href="https://GitHub.com/learn-co-curriculum/hs-weather-forecast">Lab: Weather Forecast</a></br>
 
+           <a href="https://github.com/learn-co-curriculum/hs-intro-software-engineering-music-library">Lab: Music Library</a><br>
+
             <a href="https://GitHub.com/learn-co-curriculum/hashketball">Stretch Lab: Hashketball</a></br>
 
             <a href="https://GitHub.com/learn-co-curriculum/apples-and-holidays">Stretch Lab: Apples and Holidays</a></br>
