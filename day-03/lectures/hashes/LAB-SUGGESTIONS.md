@@ -6,3 +6,5 @@
 + `Recipe Hash` - This lab has students practice retrieving data from hashes, adding key-value pairs from hashes, and iterating over a hash
 
 + `Weather Forecast` - This lab uses an API (Weather Underground) and has students practice retrieving data from a hash, as well as iterating over a hash.
+
++ `Music Library` - This lab has students practice using the `each_key` and `each_value` method to iterate over a hash, as well as delete a key-value pair and add a key-value pair.
