@@ -85,3 +85,5 @@ Arrays and hashes are incredible important data structures that allow us organiz
 
 ## Hints and Hurdles 
 + Students confuse the `[]` notation for arrays and hashes with `()` used in method arguments.
++ You create a hash with curly brackets but you access a value from a hash using the square brackets.
++ Nested Data structures are a "nice to have". Don't feel pressure to cram that into today. It's more important that students feel comfortable creating, retrieving data from, and manipulating basic arrays and hashes.

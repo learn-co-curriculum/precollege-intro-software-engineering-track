@@ -96,3 +96,6 @@ Arrays are incredible important data structures that allow us organize our data 
 
 ## Hints and Hurdles 
 + Students confuse the `[]` notation for arrays and hashes with `()` used in method arguments.
++ Another way to think about an array is like taking a bunch of sheets of paper floating around and put them into a binder, with a page number on the bottom of each.
++ Pill box with all your pills for Monday, Tues, Wed, etc. Each day in the pill box is one index in an array
++ Nested Data structures are a "nice to have". Don't feel pressure to cram that into today. It's more important that students feel comfortable creating, retrieving data from, and manipulating basic arrays and hashes.

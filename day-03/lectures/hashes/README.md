@@ -87,7 +87,9 @@ REVIEW
 + The web is made up of data. Without it, you wouldn't know who your Facebook friends are or how many likes you got on an Instagram post. With all this data, it's important to be able to organize it efficiently so that we can easily make changes to data sets. That's where arrays and hashes are so valuable. Even the most complex applications rely on these structures at times to organize the information in their codebase.
 
 ## Hints and Hurdles
++ Students confuse the `[]` notation for arrays and hashes with `()` used in method arguments.
 + You create a hash with curly brackets but you access a value from a hash using the square brackets.
++ Nested Data structures are a "nice to have". Don't feel pressure to cram that into today. It's more important that students feel comfortable creating, retrieving data from, and manipulating basic arrays and hashes.
 
 ## Additional Media
 + [Here](http://bethannezink.GitHub.io/We-Can-Work-It-Out/) is a fun blog post explaining Ruby data structures using the Beatles.
