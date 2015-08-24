@@ -56,7 +56,7 @@ names_hash.each do |key, value|
 + We can replace the key and value placeholders with anything we want, these are just placeholders. Just remember that the first one is for the key and the second is always representing the value.
 + [Iteration with hashes Mini-Lab](https://GitHub.com/learn-co-curriculum/hs-hash-iteration-mini-lab)
 
-NESTED DATA STRUCTURES
+NESTED DATA STRUCTURES *This material is bonus - think of it as nice-to-have*
 + Hashes and Arrays can occur inside of other hashes and arrays. How do we pull individual items out if this is the case?
 ```ruby
 salad_ingredients = [

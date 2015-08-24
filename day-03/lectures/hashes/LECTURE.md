@@ -60,7 +60,7 @@ names_hash.each do |key, value|
 
 ## Nested Data Structures
 
-**Teacher's Note - take the temperature here - it's okay to save nested data structues for the review tomorrow morning if it seems like too much.**
+**Teacher's Note - take the temperature here - it's okay to save nested data structures for the review tomorrow morning if it seems like too much.**
 
 + Hashes and Arrays can occur inside of other hashes and arrays. How do we pull individual items out if this is the case?
   + `salad_ingredients =[["romaine", "kale", "spring mix"],["tomatoes", "avocado", "beets"],["vinaigrette", "ranch", "ginger-soy"]]`
