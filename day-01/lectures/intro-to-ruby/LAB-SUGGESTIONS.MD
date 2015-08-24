@@ -1,9 +1,12 @@
+
 # A Lot of Material To Get Through?
 ## And too many labs to chose from?
 
 ### Labs:
 
 + `Interactive Practice - Strings` - Interactive practices are designed to be used as the "you do" portion of lectures. They should be used to break up teacher instruction to give students several minutes to practice the skill they were just introduced to. This interactive practice covers lots of ruby string methods
+
++ `Silly String` - This lab allows students to practice using string methods in the Nitrous text editor (not just a quiz format).
 
 + `Interactive Practice II - Variables` This interactive practice lets students practice creating variables, doing math with variables, string concatenation with variables.
 
