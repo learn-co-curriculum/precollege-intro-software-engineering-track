@@ -83,6 +83,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
            <a href="https://GitHub.com/learn-co-curriculum/hs-nested-data-structures-mini-lab">Interactive Practice IV: Nested Data Structures - only if students ready</a></br>
            
            <a href="https://GitHub.com/learn-co-curriculum/hs_recipe_hash_lab">Lab: Recipe Hash</a></br>
+
+           <a href="https://github.com/learn-co-curriculum/hs-intro-software-engineering-nyc-recycles"> Lab: NYC Open Data Recycling Bins</a><br>
            
            <a href="https://GitHub.com/learn-co-curriculum/hs-weather-forecast">Lab: Weather Forecast</a></br>
 
