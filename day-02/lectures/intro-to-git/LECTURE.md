@@ -6,7 +6,7 @@
 
 ## Motivation / Why Should You Care?
 + How many of you have used Google Docs? It's a great way to store documents online and makes it easy to collaborate with other people. It works best for files like word documents and spreadsheets, but it isn't equipped to store code. Thankfully, there's GitHub, which is basically the Google Docs of code.
-+ Almost all major apps are stored publically or privately on GitHub. Octomaps is a cool app some previous precollege students made that shows all the different places all over the word that programmers are collaborating from. [Octomaps](http://octomaps.com/) -- enter in Ruby for Repository Owner and Ruby for Repository name and you'll see all the people contributing to the language you're learning. 
++ Almost all major apps are stored publicly or privately on GitHub. Octomaps is a cool app some previous precollege students made that shows all the different places all over the word that programmers are collaborating from. [Octomaps](http://octomaps.com/) -- enter in Ruby for Repository Owner and Ruby for Repository name and you'll see all the people contributing to the language you're learning. 
 + GitHub is a service that allows us to store and share our code online and it uses this special language we can use on our command line or terminal called git. 
 + What makes git really powerful is that it's a version control system. It's like a time machine for your code because every save is a snapshot to what your code says right then. 
 + This is helpful to us as developers because if we add a feature and it doesn't work properly or your users don't like it you can just role back to what your app looked like at a previous moment in time. 

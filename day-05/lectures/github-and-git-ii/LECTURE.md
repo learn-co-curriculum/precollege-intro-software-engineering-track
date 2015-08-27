@@ -2,13 +2,14 @@
 
 ## SWBATs
 + Understand how to collaborate in group projects with GitHub.
++ Create a new repository on GitHub and link it to a local directory
 + Add files with Git
 + Commit files with Git
 + Push changes to files up to GitHub using git
 
 ## Motivation / Why Should You Care?
 
-+ You've been using GitHub to work on submit your version of Flatiron School's labs or projects, but now we're going to talk about how to use it in your group projects.
++ You've been using GitHub to work on your version of Flatiron School's labs or projects, but now we're going to talk about how to use it in your group projects.
 + Now you'll have the chance to see the real power of GitHub comes in the form of version control and hosting your code in the cloud. 
 + Version control makes it possible to save snapshots of your work over time, so that you can go back to different snapshots if you mess something up down the line. You can put these snapshots, also known as __commits__ on GitHub so that they can be accessed from anywhere, allowing for collaboration with other developers.
 
@@ -70,7 +71,7 @@ We use the git commit command like this:
 ```
 
 ###GIT PUSH
-GitHub had us type a length command, something like:
+GitHub had us type a lengthy command, something like:
 
 ```bash
 git remote add origin https://GitHub.com/vicfriedman/test_repo.git
@@ -98,3 +99,4 @@ Once you have your project created, have a GitHub repository created, and set up
 + `git add/commit/push` - FREEZE everyone and have them do this every 15 minutes to build up the muscle memory.
 + Not all students will need to/want to work with a full GitHub workflow. Consider introducing more advanced GitHub topics if you have extra time and think that it won't distract from getting work done on projects.
 + Alternative options for students is to work off of one repository with one main branch and put code from other's computers in a Google doc or send over e-mail. 
++ Do not worry about teaching branches. Some students may want this material, and it's a great advanced concept for students who get there on their own, but it shouldn't be part of the main lesson.

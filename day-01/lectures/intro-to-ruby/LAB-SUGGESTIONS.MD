@@ -1,6 +1,11 @@
-
 # A Lot of Material To Get Through?
 ## And too many labs to chose from?
+
+In order for Learn to mark a lab as complete, students have to push their work to GitHub and submit a pull request. Because all of that seems daunting, students can store their work on GitHub and automatically submit a pull request through the terminal command `learn submit`. 
+
+If two or more students work together on a lab and all want credit for completion (and the work stored on everyone's Github), students can enter `learn submit --team comma, separated, list, of, github, usernames, from team`.
+
+If Danny worked on a lab with Victoria and Lyel, he would enter in terminal in the lab directory: `learn submit --team vicfriedman, lresner`.
 
 ### Labs:
 

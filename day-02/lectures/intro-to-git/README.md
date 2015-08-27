@@ -4,6 +4,7 @@ _A full lecture is available [here](LECTURE.md)_
 
 ## SWBATs
 + Understand the purpose of GitHub and learn how to fork and clone repositories.
++ Understand the purpose of Git and GitHub, commit locally, and push to a remote repository.
 
 ## Motivation / Why Should You Care?
 + How many of you have used Google Docs? It's a great way to store documents online and makes it easy to collaborate with other people. It works best for files like word documents and spreadsheets, but it isn't equipped to store code. Thankfully, there's GitHub, which is basically the Google Docs of code.
