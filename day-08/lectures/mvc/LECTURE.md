@@ -110,6 +110,25 @@ end
 ```erb
 <p> I have a dog named <%= @dog1.name %>. He is a <%= @dog1.breed %>. He is <%= @dog1.age %> years old.</p>
 ```
++ You can add view related logic to your erb files using erb tags. Let's say you wanted to display all the dogs you created.
+You could store all the dogs you created in your controller like this:
+```ruby
+get '/dog' do 
+  @dog1 = Dog.new("Fido", "Lab", 5)
+  @dog2 = Dog.new("Beth", "Golden Retrieve", 2)
+  @dog3 = Dog.new("Carl", "Dalmation", 7)
+  @dogs = [@dog1, @dog2, @dog3]
+  erb :dog
+end
+```
+And in your views:
+```erb
+<% @dogs.each do |dog| %>
+  <p> <%=dog.name %> <%= dog.age %> <%=dog.breed%></p>
+<% end %>
+```
++ erb tags without the `=` won't be displayed. 
++ You could also use an if-statement to display only dogs who are five and older.
 + Review all the steps:
   + When we make a GET request, our controller creates a new dog object from the model. Then the controller takes that instance that has been created and passes it to our view so that we can show the data to our users in HTML.
 + Have students create another dog in the same request and have its attributes be displayed in the view.

@@ -7,6 +7,8 @@
 + You've learned how to build the back-end of a website. You learned how to build out the front-end of a website. Now it's time to put those two essential components together. Once you've mastered MVC, you have all the tools you need to build a fully functional, dynamic web application.
 
 ### Lesson Plan
+<a href="https://www.youtube.com/watch?v=vtuR74enuzY"> Get Request Resource Video</a>
+<a href="https://www.youtube.com/watch?v=W7HNfMozWq8"> White Board MVC Resource Video</a>
 + File Structure:
   + **Gemfile:** This is where we bring in Gems (open source code) that we can use in our project.
     * Create a development group - for working locally on our computer.
@@ -44,7 +46,7 @@
     + Controller
 + Have students clone Interactive Simple Lab
 + Show students a website that has many different pages. Explain difference between routes and domain.
-+ Explain requests and responses. Explain what a GET request is. 
++ Explain requests and responses. Explain what a GET request is.
 + Model creating GET request with a plain text response in controller (no view).
 + Demo using shotgun gem to create a local server to run our application locally.
 + With class, create a new GET request `'/dog'` and add "Hello doges." in the response body. Show on site.
