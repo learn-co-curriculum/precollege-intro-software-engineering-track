@@ -29,6 +29,7 @@
   * Solution can be found [here](https://GitHub.com/learn-co-curriculum/hs-mvc-interactive-practice/tree/solution) 
 + MVC stands for Model View Controller
 + Models
+  * <a href="https://www.youtube.com/watch?v=W7HNfMozWq8"> White Board MVC Resource Video</a>
   * The logic or code that goes into storing and maintaining the data in an application - like adding a tweet to your list of tweets - is the M in an MVC framework - the models.
   * The models are responsible for pulling data from database.
 + Views
@@ -68,6 +69,7 @@
   * To continue the dog example - you would display the dog here (like it's an online pet store) or form for user to list a new dog to sell. You don't create the dogs here.
 
 **CONNECTING THE MVC COMPONENTS**
++ <a href="https://www.youtube.com/watch?v=vtuR74enuzY"> Get Request Resource Video</a>
 + Setting up a route in the application controller
   * The controller is like a waiter that goes between the chef cooking up the meal (Model) and the customers receiving the food (Views)
   * Routes are set up to match the URL in the navigation bar of the browser.
@@ -82,7 +84,7 @@
     "HEY!!!"
   end
 ```
-+ Demo using shotgun gem to create a local server to run our application locally. In terminal, enter `shotgun` and then in browser, go to `localhost:9393`
++ Demo using shotgun gem to create a local server to run our application locally. In terminal, enter `shotgun -o 0.0.0.0 -p 9393` and then in browser, go to `localhost:9393`
 + Have students practice creating a new route like '/dog' and have it display texts.
 
 + Demo adding a view by creating an ERB file with HTML in it. Create dog.erb file in views folder and link to the controller with `erb :dog`.
