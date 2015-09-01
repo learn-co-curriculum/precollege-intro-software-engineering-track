@@ -138,7 +138,7 @@ And in your views:
 + Today we're going to start by working on building our final projects. We're going to start with static pages (controller and views) and then build out from there.
 
 ### Conclusion / So What?
-+ Now's your chance to combine your creative and technical skills to fully express yourself with code. You have all the tools you need to make your own web application. Now you have to figure out what exactly it is you want to build. This can be one of the toughest parts, coming up with an idea that people can get excited about.
++ Now is your chance to combine your creative and technical skills to fully express yourself with code. You have all the tools you need to make your own web application. Now you have to figure out what exactly it is you want to build. This can be one of the toughest parts, coming up with an idea that people can get excited about.
 
 ### Hints and Hurdles
 <a href="https://drive.google.com/file/d/0B17rUuqpJ8atX084clB4WHM5OGM/view"> MVC Code Visual</a>

@@ -22,7 +22,7 @@ _A full lecture is available [here](LECTURE.md)_
 ####Our First Method!
 + If a method you want to use isn't prewritten, you can create your own.
  
-#####Syntax: Show generic code to students. Walk them through the pieces.
+#####Syntax: Show generic code to students. Walk them through the pieces. DO NOT use `puts` in the body of your method. Use puts to display the return value of your method when you call it later. `puts` in methods gets really confusing, and will prohibit students from putting it all together when they start building their final projects.
 
 ######OPTIONAL: Prompt students to draw out method example on their whiteboards.
 ```ruby
@@ -46,13 +46,6 @@ end
 ```
 ######OPTIONAL: Prompt students at their tables to take 2-3 minutes to write out their own method in pseudo code for going to bed.
 
-#####INTERACTIVE RUBY (IRB)
-+ It's been really fun writing everything out in a file and then running that file to see what happens, but wouldn't it be nice if we could experiment without saving and re-running the file every time? 
-+ Welcome to Interactive Ruby aka IRB!
-+ IRB = ONLY Ruby. NO bash here.
-+ We can run ruby in the terminal and use it as a playground for playing and experimenting with ruby.  
-+ We would never write a full app in IRB because it can't save our code but it is useful for understanding methods. 
-
 ####Method With Ruby Code
 ```ruby
 def hello_world
@@ -60,24 +53,16 @@ def hello_world
 end
 ```
 + **Defining a method = the how/what** But we also need to CALL it for it to execute.
-+ **Calling a method = the action**  You know how to ride a bike, but you must **_call_** `ride_bike` to do it.
++ **Calling a method = telling computer to do the action**  You know how to ride a bike, but you must **_call_** `ride_bike` to do it.
 + To call a method, write the method name. 
-+ Write `hello_world` in IRB and press enter to show the class.
 
-**Return Value:** Always the result of the last line of code in a method.  
-+ What is the last line in the method?    
-+ IRB displays the return value with `=>`.
+**Return Value:** Always the result of the last line of code in a method.
++ What is the last line in the method?
 + What is the return value?
 + How do we print out the return value in terminal when we call the method?
 ```ruby
   puts hello_world
 ```
-<<<<<<< HEAD
-+ SAVE AND RUN CODE. Nothing happens. Have the students discuss why.
-+ DEFINING A METHOD = the HOW. But we also need to CALL it for it to execute.
-  + BIKE EXAMPLE: You know how to ride a bike, but you must call `ride_bike` to do it. Like actually get on a bike and moving your legs on the pedals.
-  + OPTIONAL DICTIONARY EXAMPLE: A dictionary contains the definitions of all the words, but we don't use these definition until we are actually saying the words or using them in a sentence.
-+ HOW TO CALL A METHOD: Write the method name. Add `hello_world` call to the file and run it to show the class.
 + Write a few more methods with the class:
   1. How old will I be in 10 years?
   2. What is my name spelled backwards.
@@ -116,8 +101,6 @@ hello_world.upcase
 + If `puts` is called insided of another method, the other method will return a value of NIL.
 
 
-
-
 #####Break and have students write and call methods in [Methods Practice Lab](https://GitHub.com/learn-co-curriculum/hs-ruby-2-methods-practice-lab) and [Flyover Lab](https://GitHub.com/learn-co-curriculum/hs-ruby-2-flyover-lab)
 
 ####Arguments
@@ -139,15 +122,15 @@ end
 + **Arguments** let us feed information into a method:
 ```ruby
 def say_name(name) 
-  puts "Hello #{name}!" 
+  "Hello #{name}!" 
 end
 ```
-+ **Calling method with an argument**: `say_name("Vanessa")`, `say_name("Victoria")`
++ **Calling method with an argument**: `puts say_name("Vanessa")`, `puts say_name("Victoria")`
   + _Note that, in this case, the argument has to be a string._
 
 ######Prompt students to open up Nitrous and write out this method and try calling it with different names.
 
-#####Mulitple Arguments and Different Data Types
+#####Multiple Arguments and Different Data Types
 Example 1:
 ```ruby
 def many_pets(species, number)
@@ -180,7 +163,7 @@ Can't we do this?:
 name = "Joe"
 
 def say_hello
-  puts "hello #{name}"
+  "hello #{name}"
 end
 
 puts say_hello
@@ -196,7 +179,7 @@ name = "Joe"
 
 def say_hello
   name = "Bob"
-  puts "hello #{name}"
+  "hello #{name}"
 end
 ```
 + Which name gets printed out when the method is called? Bob.
@@ -206,10 +189,10 @@ name = "Joe"
 
 def say_hello
   name = "Bob"
-  puts "hello #{name}"
+  `"hello #{name}"
 end
 
-say_hello
+puts say_hello
 puts "hello #{name}"
 ```
 + Why does it print hello to both people? Because of SCOPE. 

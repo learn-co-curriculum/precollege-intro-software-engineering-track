@@ -58,11 +58,7 @@
 	+ Share an example: 
 ```ruby
 def go_home 
-	puts "Close your computer"
-	puts "Put it in your bag"
-	puts "Stand up"
-	puts "Walk out the door" 
-	puts "Go to your house"
+	 "Close your computer. Put it in your bag. Stand up. Walk out the door. Go to your house"
 end
 ```
 + Try saving this and running it. Nothing happens. Ask if anyone knows why? Have the students discuss.
@@ -70,9 +66,22 @@ end
 + For example: who plays an instrument? Great! You contain the instructions on how to play the instrument inside of you. It's almost as if you have a play_instrument method in your brain, but is only activated when we say - please play_instrument. 
 + If class has trouble with this analogy try the dictionary analogy - a dictionary contains the definitions of all the words, but we don't use these definition until we are actually saying the words or using them in a sentence.
 + We call methods by writing the method name when we want to use it. Add call to the file and run it to show the class. 
+
+```ruby
+go_home
+```
+
++ You still don't see the instructions to go home. Why? Ruby is running our method, we're just not telling it to print the return value:
+
+```ruby
+puts go_home
+```
+
++ We never want to have the `puts` inside our method, but rather use it the print out the return value of a method. `puts` only prints in terminal and we'll use methods to handle a lot of backend logic for web apps, and people don't view web apps in the terminal
+
 + ***Write a few more methods with class:*** How old will I be in 10 years? What is my name spelled backwards. Change all w's to v's.
 * ***Break and have them write and call methods in a lab***
-	+ https://GitHub.com/learn-co-curriculum/hs-ruby-2-methods-practice-lab 
+	+ https://github.com/learn-co-curriculum/hs-ruby-2-methods-practice-lab 
 
 + Every method that we write gives us something called a return value - this is what Ruby evaluates for us and gives us back to use in other parts of our program. The return value of our methods is the last line evaluated. 
 + What would the return value of these methods be?
@@ -89,6 +98,18 @@ end
 
 ```ruby
  def go_home 
+	"Close your computer"
+	"Put it in your bag"
+	"Stand up"
+	"Walk out the door" 
+	"Go to your house"
+end
+```
++ this method returns `Go to your house`.
+
++ What does this method return? 
+```ruby
+ def go_home 
 	puts "Close your computer"
 	puts "Put it in your bag"
 	puts "Stand up"
@@ -96,7 +117,7 @@ end
 	puts "Go to your house"
 end
 ```
-+ Actually, it returns `nil`. Nil is Ruby's way to saying "nothing". Why would `puts 
++ Actually, it returns `nil`. Nil is Ruby's way to saying "nothing". Why would `puts` return nil? This is why we never want to have a method `puts` anything. `puts` only works in the terminal and we never view a web app in the terminal
 + `puts` is a method - and it's only purpose is to print something to the screen. It doesn't evaluate anything it just prints out and returns NOTHING or nil. So the last line of our program is calling the puts method - which prints something to the screen AND returns nothing or nil
 + Let's look at another example
 ```ruby
@@ -127,12 +148,8 @@ say_hello.upcase
 + Command F
 
 ```ruby
- def go_home 
-	puts "Close your computer"
-	puts "Put it in your bag"
-	puts "Stand up"
-	puts "Walk out the door" 
-	puts "Go to your house"
+def go_home 
+	 "Close your computer. Put it in your bag. Stand up. Walk out the door. Go to your house"
 end
 ```
 + What if we wanted to reuse some of these instructions but instead of sending a student home we want to send them out to grab us some lunch.
@@ -140,11 +157,7 @@ end
 
 ```ruby
 def go_for_lunch(location)
-	puts "Close your computer"
-	puts "Put it in your bag"
-	puts "Stand up"
-	puts "Walk out the door" 
-	puts "Go to #{location} to pick up lunch"
+	"Close your computer. Put it in your bag. Stand up. Walk out the door. Go to #{location} to pick up lunch"
 end
 ```
 + Where would you guys like to send out our student? ***Get a location from the class.***
@@ -153,10 +166,10 @@ end
 
 ```ruby
 def say_name(name) 
-	puts "Hello #{name}!" 
+	"Hello #{name}!" 
 end
 ```
-And how would we call this? `say_name("Vanessa")`, `say_name("Victoria")`
+And how would we call this? `puts say_name("Vanessa")`, `puts say_name("Victoria")`
 
 + When you call this method you can feed it any string that you want as the name - but remember it has to be a string.
 + Everyone open up your text editor and write out this method and try calling it with different names.
@@ -184,7 +197,7 @@ https://GitHub.com/learn-co-curriculum/hs-ruby-2-parrot-lab
 
 ```ruby
 	def say_name(name="Programmer") 
-		puts "Hello #{name}!"
+		"Hello #{name}!"
 	end
 ```
 + What do you think happens when I call this method with no arguments? Show the class.
@@ -196,7 +209,7 @@ Why do we have to feed arguments into a method anyway? Why can't we do this:
 ```ruby
 	name = "Joe"
 	def say_hello
-	puts "hello #{name}"
+		"hello #{name}"
 	end
 	puts say_hello
 ```
@@ -209,8 +222,8 @@ Why do we have to feed arguments into a method anyway? Why can't we do this:
 ```ruby
 name = "Joe"
 def say_hello
-name = "Bob"
-puts "hello #{name}"
+	name = "Bob"
+	"hello #{name}"
 end
 ```
 + Which name gets printed out though? Bob.
@@ -219,10 +232,10 @@ end
 ```ruby
 name = "Joe"
 def say_hello
-name = "Bob"
-puts "hello #{name}"
+	name = "Bob"
+	"hello #{name}"
 end
-say_hello
+puts say_hello
 puts "hello #{name}"
 ```
 + Why does it print both "Hello Bob" and "Hello Joe"? Why in that order?
