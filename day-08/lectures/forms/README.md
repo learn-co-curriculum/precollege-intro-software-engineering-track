@@ -16,6 +16,8 @@ It is important to make sure you get through MVC today. Depending on students' n
 + Even post to someone's Facebook wall? How about make a new tweet? Enter your username and password on ANY website? Guess what, you filled out a form! Forms are how we collect input from our users. 
 
 ### Lesson Plan
+<a href="https://www.youtube.com/watch?v=GQ0hF-LHXJ4
+">POST Request Resource Video</a>
 
 + We've seen how to setup a GET request in Sinatra. 
 ```ruby
