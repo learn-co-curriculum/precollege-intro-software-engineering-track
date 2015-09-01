@@ -52,16 +52,20 @@
 
 + **Config.ru** contains the configurations for running different parts of your app. We'll be adding the bundler gem here which makes sure that all parts of your application have access to the gems in your Gemfile.
 
-
 + `application_controller.rb`: connects your application to the Sinatra gem.
   * We need to create an ApplicationController class that inherits from Sinatra base. This gives us useful methods to help us navigate our application.
   * We need to configure our app to find our views and the public folder
+  * This file controls all the routes. 
+  * We make all instances of our classes from our models in this file to be able to display them in the view.
 
 + **Models**
-    * This holds our backend code - it's where you would find a a ruby class.
+    * This holds our backend code - it's where you would find a ruby class. All logic about how an object should look or act goes here. You don't make instances of your class here.
     * We will set up a `dog.rb` file.
+
 + **Views**
   * We will create a  `dog.erb` file here
+  * All your HTML goes here.
+  * To continue the dog example - you would display the dog here (like it's an online pet store) or form for user to list a new dog to sell. You don't create the dogs here.
 
 **CONNECTING THE MVC COMPONENTS**
 + Setting up a route in the application controller
