@@ -4,6 +4,8 @@
 
 This is just a suggested schedule. Improv shouldn't take up a full half hour and lunch can be cut down if more time is needed for lectures/labs/projects.
 
+**Please feel free to rearrange the schedule based on students' needs. Forms can get pushed to Day 9**
+
 <table>
 	<tr>
 	  <td>Time</td>
@@ -25,7 +27,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>
     	<a href="lectures/mvc">Lecture: MVC</a></br>
       <a href="lectures/mvc/SEQUENCE.md">MVC Lecture Sequence</a></br>
-    	<a href="lectures/forms">Lecture: Forms</a></br>
+    	<a href="lectures/forms">Lecture: Forms (Today or Tomorrow based on students)</a></br>
     	<a href="https://GitHub.com/learn-co-curriculum/hs-mvc-interactive-practice">Interactive Practice: MVC Framework</a>
     </td>
   </tr>
@@ -55,6 +57,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
    	</td>
   </tr>
 </table>
+
 + MODEL - Understand what a model is
 + MODELS - Build a model with attributes and actions
 + MODELS - Understand what attr_accessors are and how to use them

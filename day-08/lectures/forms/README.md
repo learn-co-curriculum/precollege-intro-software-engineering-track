@@ -7,9 +7,13 @@
 + Write forms with different input types using HTML
 + Access form data using params in our POST 
 
+### Note
+
+It is important to make sure you get through MVC today. Depending on students' needs, forms can be introduced on Day 9. Some students' can feel overwhelmed with MVC and forms.
+
 ### Motivation / Why Should You Care?
 
-+ Even post to someone's facebook wall? How about make a new tweet? Enter your username and password on ANY website? Guess what, you filled out a form! Forms are how we collect input from our users. 
++ Even post to someone's Facebook wall? How about make a new tweet? Enter your username and password on ANY website? Guess what, you filled out a form! Forms are how we collect input from our users. 
 
 ### Lesson Plan
 
