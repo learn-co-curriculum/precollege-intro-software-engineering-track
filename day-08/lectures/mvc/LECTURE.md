@@ -120,6 +120,7 @@ end
 + Now's your chance to combine your creative and technical skills to fully express yourself with code. You have all the tools you need to make your own web application. Now you have to figure out what exactly it is you want to build. This can be one of the toughest parts, coming up with an idea that people can get excited about.
 
 ### Hints and Hurdles
++ To use Shotgun with Nitrous enter `shotgun -o 0.0.0.0 -p 9393` to start the server of Port 9393.
 + Object orientation review will be necessary before launching into MVC.
 + If students want to know the mechanics of Sinatra, explain that it is beyond the scope of this lesson, but they can dive in further on their own. Sometimes you have to take these things for granted in the short term.
 + Have students walk through the code and explain to a partner the flow of MVC applications.
