@@ -12,7 +12,7 @@
 
 
 ## Motivation
-Looping gives an app a lot of power and flexibility. If we had to manually go through and manipulate every element one-by-one that would be repetetive.  
+Looping gives an app a lot of power and flexibility. If we had to manually go through and manipulate every element one-by-one that would be repetitive.  
 
  What if I told you, you already know one of the most complex loops there is? Can anyone name something that goes through a collection of items one at a time. That's right the .each method is just a loop with a set number of cycles equal to the amount of elements in the array.
 

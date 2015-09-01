@@ -14,6 +14,8 @@ use correct syntax in naming classes
 + Create instance methods to have objects take action
 + Convert scripted code into object oriented code
 
+## Note
++ Reopening classes and the concept of `self` should be considered advanced topics. Do not introduce these today unless students are hungry for the material.
 
 ## Motivation / Why Should You Care?
 Who knows how many people are on Facebook? Close to a quarter of the world is on Facebook (roughly 2 billion). What do you think the average number of friends a user has? What about the number of photos? How many likes happen in a day? We're talking about trillions of pieces of data that Facebook tracks and stores on huge tracts of land that they bought literally just to store all their data.
@@ -208,6 +210,7 @@ Object-oriented programming is powerful for a few main reasons. First of all, wh
 
 
 ## Hints and Hurdles
++ Reopening classes and the concept of `self` should be considered advanced topics. Do not introduce these today unless students are hungry for the material.
 + Instead of automatically naming reader and writer methods as we normally would, give them much more descriptive names at first like `tell_me_how_much_money_I_have` or `set_my_money_to`.
 + Use writers with () first when changing an attribute. Then show that we don't need them because Ruby is friendly - and that's why we are putting the = in the name of the writer method.
   ```ruby
