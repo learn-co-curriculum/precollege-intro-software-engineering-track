@@ -16,7 +16,7 @@ _A full lecture is available [here](LECTURE.md)_
   + Convert scripted code into object oriented code
 
 ## Note
-+ Reopening classes and the concept of `self` should be considered advanced topics. Do not introduce these today unless students are hungry for the material.
++ Reopening classes and the concept of `self` should be considered advanced topics. Do not introduce these today unless students are hungry for the material. If there are students who are familiar with the concept of object orientation from other programming languages, there is advanced material in Day 6 teacher guide to go over with them.
 
 ## Motivation / Why Should You Care?
 Who knows how many people are on Facebook? Close to a quarter of the world is on Facebook (roughly 2billion). What do you think the average number of friends a user has? What about the number of photos? How many likes happen in a day? We're talking about trillions of pieces of data that Facebook tracks and stores on huge tracks on land that they bought literally just to store all their data.
