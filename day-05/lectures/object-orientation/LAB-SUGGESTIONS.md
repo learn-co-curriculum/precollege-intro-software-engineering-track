@@ -5,6 +5,8 @@
 
 + `Garden Gnome` - Students LOVE this lab. This lab has students practice basic OO syntax by building a Gnome class.
 
++ `Rivers` - Object Orientation is super cool because it's a way to describe the real world in code. For students that love science, and are interested in the ways in which coding intersects different disciplines, this is a great lab for them.
+
 + `Detention Lab` - This lab has students practice basic OO syntax.
 
 + `My Pets` - This lab is scaffolded to increase in complexity. Students build out four different classes Dog, Cat, Fish, Owner.

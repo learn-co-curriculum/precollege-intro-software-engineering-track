@@ -37,6 +37,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <a href="lectures/object-orientation">Lecture Notes</a></br>
 	      <a href="https://GitHub.com/learn-co-curriculum/hs-basic-objects-mini-lab">Interactive Practice: Basic Objects</a></br>
 		 		<a href="https://GitHub.com/learn-co-curriculum/hs-oo-existing-classes-mini-lab">Interactive Practice II: Reopening Existing Classes</a></br>
+        <a href="https://github.com/learn-co-curriculum/hs-oo-rivers-to-do"> Lab: Rivers</a><br>
 		 		<a href="https://GitHub.com/learn-co-curriculum/hs-detention-oo-lab">Lab: Detention</a></br>
 		 		<a href="https://GitHub.com/learn-co-curriculum/hs-garden-gnome-oo-lab">Lab: Garden Gnome</a></br>
 		 		<a href="https://GitHub.com/learn-co-curriculum/hs-my-pets-oo-lab">Lab: My Pets</a>
