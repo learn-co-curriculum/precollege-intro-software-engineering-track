@@ -13,11 +13,13 @@ You may be familiar with the popular television trivia game show Jeopardy starri
 
 + Pass out mini whiteboards -- students must put down their answer on the whiteboard
 
-+ This is a laptops closed activity, but you may want to allow one laptop per group to be open to the RubyDocs.org. A few questions cover hash/array methods students may not have been exposed to yet. 
++ This is a laptops closed activity, but you may want to allow one laptop per group to be open to Google as needed. A few questions cover hash/array methods students may not have been exposed to yet. 
 
 + Set up one teacher at the laptop to serve as Alex Trebek and another to keep score and time for the class. 
 
-+ Choose timing for each question 100 and 200 category questions require about 30 s - 1 minute. 300 and 400s need about 1 - 1.5 minutes. 500s need about 1.5 - 2 minutes to answer. 
++ Choose timing for each question 100 and 200 category questions require about 1-2 minutes minute. 300 and 400s need about 2-3 minutes. 500s need about 3-4 minutes to answer. 
+
++ Every group should try to answer every question. This maximizes student participation. Every group that gets the answer right gets those points added to their total, but if a group gets the answer wrong, the points are subtracted from their total.
 
 
 ###How to Play

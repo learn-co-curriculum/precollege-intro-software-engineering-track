@@ -5,36 +5,48 @@
 This is just a suggested schedule. Improv shouldn't take up a full half hour and lunch can be cut down if more time is needed for lectures/labs/projects.
 
 <table>
-	<tr>
-	  <td>Time</td>
-	  <td>Activity</td>
-	  <td>Resources</td>
-	</tr>
-	<tr>
+  <tr>
+    <td>Time</td>
+    <td>Activity</td>
+    <td>Resources</td>
+  </tr>
+  <tr>
     <td>9:00 - 9:15</td>
     <td>To-Do</td>
     <td>
         <a href="https://docs.google.com/presentation/d/1LJMche3oKe13AkUeAhJUXoBKJVF3XPveFdmMJI9WMH4/edit#slide=id.g3f8078aae_018">Day 6 Deck</a></br>
 
-        <a href="https://GitHub.com/learn-co-curriculum/hs-oo-rivers-to-do">To-Do: Rivers</a>
+        <a href="https://github.com/learn-co-curriculum/hs-intro-software-engineering-pinterest-todo">To-Do: Pinterest</a><br>
+        OR:
+        <br>
+        <a href="https://github.com/learn-co-curriculum/oo-basics">OO Walkthrough</a>
     </td>
   </tr>
   <tr>
-    <td>9:15 - 10:30</td>
+    <td>9:15 - 10:15</td>
+    <td>Ruby Jeopardy Without OO</td>
+    <td>
+    <a href="https://docs.google.com/presentation/d/1-5CHVXuU9VmhtIGZjTjzqlQpn-TXgGxWgEkdeQ8EEwE/edit#slide=id.p4">Ruby Jeopardy </a>
+    </td>
+  </tr>
+  <tr>
+    <td>10:15 - 11:30</td>
     <td>OO Review</td>
     <td>
-    <a href="lectures/oo-review/LECTURE.md">Lecture: OO Review</a></br>
-    <a href="lectures/oo-review">Lecture Notes</a></br>
-    <a href="https://docs.google.com/presentation/d/15lxFavK4t-Gmv7dOANBPHiLflKpPgSejAGEnDuqN9Pc">Ruby and OO Jeopardy</a>
-    </td>
-  </tr>
-  <tr>
-    <td>10:30 - 11:30</td>
-    <td>Start Group Lab</td>
-    <td>
-      <a href="lectures/object-oriented-group-project">Lecture: Object Oriented Group Project</a></br>
-      <a href="https://GitHub.com/learn-co-curriculum/hs-oo-cash-register">Project: Cash Register</a>
-		 	<a href="https://GitHub.com/learn-co-curriculum/hs-oo-snapchat">Project: SnapChat</a>
+      This day should be structured to allow students at different levels to work and be happy :)
+      Let students self select what group to be in:
+      <br>
+      <br>
+      Lab Practice - Do unfinshed OO labs from Day 5. This group is supported by the TA
+      <br>
+      <br>
+      OO Lecture Review - Facebook example. Lead by an instructor:
+        <a href="https://GitHub.com/learn-co-curriculum/hs-ruby1-facebook-review">Facebook Example</a>
+      <br>
+      <br>
+      OO Advanced Material Lecture - Facebook Example - lead by an instructor:
+        <a href="stretch-oo-concepts/README.md">Stretch Concepts</a>
+        <a href="https://GitHub.com/learn-co-curriculum/hs-ruby1-facebook-stretch-example"> Facebook Stretch Example</a>
     </td>
   </tr>
   <tr>
@@ -42,14 +54,23 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>Lunch</td>
     <td>
        
-   	</td>
+    </td>
   </tr>
   <tr>
     <td>12:30 - 2:20</td>
-    <td>Finish Group Lab</td>
+    <td>Group PROJECT!</td>
     <td>
-       <a href="https://GitHub.com/learn-co-curriculum/oo-jukebox">Stretch Lab: OO Jukebox</a>
-   	</td>
+      It's incredibly important to phrase this as a group project - let groups decide if they want to do a structured test-driven project (OO Amazon Payment) OR a more open-ended no test or structure SnapChat
+       <a href="lectures/object-oriented-group-project">Lecture: Object Oriented Group Project</a>
+     </br>
+     <br>
+
+      <a href="https://GitHub.com/learn-co-curriculum/hs-oo-cash-register">Project: Amazon Payment</a>
+      <br>
+      <br><br>
+      <a href="https://GitHub.com/learn-co-curriculum/hs-oo-snapchat">Project: SnapChat</a>
+  
+    </td>
   </tr>
    <tr>
     <td>2:20 - 2:50</td>
@@ -65,8 +86,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 
        <a href="https://GitHub.com/learn-co-curriculum/hs-post-class-survey">Micro Feedback</a></br>
 
-	     <a href="https://GitHub.com/learn-co-curriculum/hs-intro-ruby-code-challenge-6">Code Challenge: Batman</a>
-   	</td>
+       <a href="https://GitHub.com/learn-co-curriculum/hs-intro-ruby-code-challenge-6">Code Challenge: Batman</a>
+    </td>
   </tr>
 
 </table>
