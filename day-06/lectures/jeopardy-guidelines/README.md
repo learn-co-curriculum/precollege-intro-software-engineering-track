@@ -5,7 +5,7 @@ You may be familiar with the popular television trivia game show Jeopardy starri
 
 ###Game Setup
 
-+ Copy the Jeopardy slideshow [here](https://docs.google.com/presentation/d/15lxFavK4t-Gmv7dOANBPHiLflKpPgSejAGEnDuqN9Pc/edit#slide=id.g6cbf1af_0_0) and choose a final Jeopardy question. You may want to make this one history of code or other non-code trivia (like show a picture of Yukihiro Matsumoto and ask students who he is and why he's notable) so that any groups that fall behind have a chance to get a high point question. Decide how long students should have to answer -- it may vary depending on the type of question. 
++ Copy the Jeopardy slideshow [here](https://docs.google.com/presentation/d/1-5CHVXuU9VmhtIGZjTjzqlQpn-TXgGxWgEkdeQ8EEwE/edit#slide=id.p4) and choose a final Jeopardy question. You may want to make this one history of code or other non-code trivia (like show a picture of Yukihiro Matsumoto and ask students who he is and why he's notable) so that any groups that fall behind have a chance to get a high point question. Decide how long students should have to answer -- it may vary depending on the type of question. 
 
 + Break up the class into teams of 3-4 students
 

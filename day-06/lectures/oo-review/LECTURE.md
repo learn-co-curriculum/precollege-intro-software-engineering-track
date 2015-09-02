@@ -8,7 +8,7 @@ _A full lecture is available [here](LECTURE.md)_
 ```ruby
 class Movie
 end
-big_daddy = Movie.new
+minions = Movie.new
 ```
   * Right now, our movie doesn't look like anything or do anything
 
@@ -20,7 +20,7 @@ class Movie
     @producer = producer
   end
 end
-big_daddy = Movie.new("Dennis Dugan", ["Jack Giarrupto", "Sid Ganis"])
+minions = Movie.new(["Kyle Balda", "Pierre Coffin"], [" Chris Meledandri", "Janet Healy"])
 ``` 
 
 + Now we need to be able to hire actors. Movies all have multiple actors, so we expect the `@actors` attribute to store an array. We should define that attribute on initialization to store an empty array. We also need a writer method that adds actors to the array, and a reader to tell us what actors are in the movie
@@ -44,10 +44,10 @@ class Movie
   end
 
 end
-big_daddy = Movie.new("Dennis Dugan", ["Jack Giarrupto", "Sid Ganis"])
-big_daddy.actor=("Adam Sandler")
-big_daddy.actor=("Joey Lauren Adams")
-big_daddy.actor=("Dylan Sprouse")
+minions = Movie.new(["Kyle Balda", "Pierre Coffin"], [" Chris Meledandri", "Janet Healy"])
+big_daddy.actor=("Sandra Bullock")
+big_daddy.actor=("Jon Hamm")
+big_daddy.actor=("Michael Keaton")
 ``` 
 
 + Let's add reader and writer methods for length, genre, and rating. A movie doesn't start out with a rating, so let's set it to 0 in initialization
