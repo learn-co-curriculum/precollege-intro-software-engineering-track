@@ -32,7 +32,7 @@
         <td>
             Tell the students they're awesome!
             <br>
-            <a href="https://GitHub.com/learn-co-curriculum/hs-post-class-survey"> Micro Feedback</a>
+            Micro Feedback
         </td>
     </tr>
 </table>
