@@ -17,8 +17,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
             <a href="https://docs.google.com/presentation/d/1qCYRks3hYRcXla9FNjf7zIljL9c3hZucpa6OBM2HJnY/edit#slide=id.p">Day 4 Deck</a></br>
 
             <a href="https://GitHub.com/learn-co-curriculum/hs-arrays-hashes-todo">To-Do: Arrays and Hashes</a></br>
-
-            <a href="https://GitHub.com/learn-co-curriculum/hs-if-else-todo">To-Do: If Else</a>
         </td>
     </tr>
     <tr>
@@ -69,7 +67,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>
             Tell kids they are awesome.</br>
 
-            <a href="https://GitHub.com/learn-co-curriculum/hs-post-class-survey">Micro Feedback</a></br>
+            Micro Feedback</br>
 
             <a href="https://GitHub.com/learn-co-curriculum/hs-intro-ruby-code-challenge-4">Code Challenge: Least Coins</a>
         </td>

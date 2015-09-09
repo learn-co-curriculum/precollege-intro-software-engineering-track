@@ -17,7 +17,11 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>
         <a href="https://docs.google.com/presentation/d/1QtA-vrZUxAFszcRta9kCW1Xk6rRnO7-Qe2PYdu9kYxc/edit#slide=id.g497b61ce2_018">Day 5 Deck</a></br>
 
-        <a href="https://GitHub.com/learn-co-curriculum/hs-more-methods-todo">To-Do: More Methods</a>
+        <a href="https://GitHub.com/learn-co-curriculum/hs-more-methods-todo">To-Do: More Methods</a><br>
+
+        <a href="https://github.com/learn-co-curriculum/hs-if-else-todo"> To Do: If-Else</a>
+
+
     </td>
   </tr>
   <tr>
