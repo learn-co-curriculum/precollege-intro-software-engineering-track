@@ -16,7 +16,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>
         <a href="https://docs.google.com/presentation/d/1njVWvkm-bjir6aGeDe9vUsx2A0vdp2bBLKrYIkKy4O0/edit#slide=id.g415fa6f76_018">Day 7 Deck</a></br>
 
-        <a href="https://GitHub.com/learn-co-curriculum/hs-oo-raccoon-puma-todo">To-Do: Raccooon-Puma</a>
+        <a href="https://GitHub.com/learn-co-curriculum/hs-oo-raccoon-puma-todo">To-Do: Raccoon-Puma</a>
     </td>
   </tr>
   <tr>
@@ -40,7 +40,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     	<a href="https://GitHub.com/learn-co-curriculum/hs-empire-state-css-challenge">Lab: Empire State CSS Challenge</a></br>
     	<a href="https://GitHub.com/learn-co-curriculum/hs-my-little-rainbow">Lab: My Little Rainbow</a></br>
       <a href="https://Github.com/learn-co-curriculum/hs-intro-software-engineering-css-selectors"> Lab: CSS Gems</a><br>
-    	<a href="https://GitHub.com/learn-co-curriculum/hs-css-graffiti-override">Lab: Grafitti Override</a></br>
+    	<a href="https://GitHub.com/learn-co-curriculum/hs-css-graffiti-override">Lab: Graffiti Override</a></br>
     	<a href="https://GitHub.com/learn-co-curriculum/hs-zetsy">Lab: Zetsy</a></br>
     	<a href="https://GitHub.com/learn-co-curriculum/hs-zhw-shoes-layout">Lab: ZHW Shoes</a></br>
     	<a href="https://GitHub.com/learn-co-curriculum/css-issue-bot-9000">Lab: CSS Issue Bot 9000</a></br>
