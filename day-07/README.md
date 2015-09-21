@@ -34,16 +34,13 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     	<a href="https://GitHub.com/learn-co-curriculum/hs-album-cover">Lab: Album Cover</a></br>
     	<a href="https://GitHub.com/learn-co-curriculum/dev-tools-super-power">Lab: Dev Tools Super Power</a></br>
       <a href="https://github.com/learn-co-curriculum/hs-ruby1-my-website"> HTML and CSS Lab: Personal Website</a><br>
-      <a href="https://GitHub.com/learn-co-curriculum/html-issue-bot-9000">Lab: HTML Issue Bot 9000</a></br>
-    	<a href="https://GitHub.com/learn-co-curriculum/fe-riyadh-blog">Lab: Riyadh Blog</a></br>
+      <a href="https://GitHub.com/learn-co-curriculum/hs-issue-bot-9000">Lab: HTML Issue Bot 9000</a></br>
     	CSS Labs</br>
     	<a href="https://GitHub.com/learn-co-curriculum/hs-empire-state-css-challenge">Lab: Empire State CSS Challenge</a></br>
-    	<a href="https://GitHub.com/learn-co-curriculum/hs-my-little-rainbow">Lab: My Little Rainbow</a></br>
       <a href="https://Github.com/learn-co-curriculum/hs-intro-software-engineering-css-selectors"> Lab: CSS Gems</a><br>
-    	<a href="https://GitHub.com/learn-co-curriculum/hs-css-graffiti-override">Lab: Graffiti Override</a></br>
-    	<a href="https://GitHub.com/learn-co-curriculum/hs-zetsy">Lab: Zetsy</a></br>
-    	<a href="https://GitHub.com/learn-co-curriculum/hs-zhw-shoes-layout">Lab: ZHW Shoes</a></br>
-    	<a href="https://GitHub.com/learn-co-curriculum/css-issue-bot-9000">Lab: CSS Issue Bot 9000</a></br>
+    	<a href="https://GitHub.com/learn-co-curriculum/hs-zetsy">Stretch Lab: Zetsy</a></br>
+    	<a href="https://GitHub.com/learn-co-curriculum/hs-zhw-shoes-layout">Stretch Lab: ZHW Shoes</a></br>
+    	<a href="https://GitHub.com/learn-co-curriculum/hs-css-issue-bot-9000">Lab: CSS Issue Bot 9000</a></br>
       <a href="https://github.com/learn-co-curriculum/kitten-wheelbarrow"> Stretch Lab: Kitten Wheelbarrow</a> <br>
     	<a href="https://GitHub.com/learn-co-curriculum/animal-save">Stretch Lab: Animal Save</a></br>
     	<a href="https://GitHub.com/learn-co-curriculum/hs-responsive-web-design-stretch">Stretch Lab: Responsive Web Design</a></br>
