@@ -1,5 +1,5 @@
 # A Lot of Material To Get Through?
-## And too many labs to chose from?
+## And too many labs to choose from?
 
 ###Option 1:
 
