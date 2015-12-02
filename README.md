@@ -30,3 +30,5 @@ Here you'll find:
 
 ### [Day 10 - Graduation](day-10)
 
+
+<a href='https://learn.co/lessons/precollege-summer-intro-software-engineering-track' data-visibility='hidden'>View this lesson on Learn.co</a>
