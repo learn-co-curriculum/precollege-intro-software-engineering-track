@@ -92,7 +92,7 @@ say_hey(names)
 + ***Mini-Lab - Iteration through arrays***
 
 ## Conclusion
-Arrays are incredible important data structures that allow us organize our data into manageable chunks. You will literally never escape them
+Arrays are incredibly important data structures that allow us organize our data into manageable chunks. You will literally never escape them
 
 ## Hints and Hurdles 
 + Students confuse the `[]` notation for arrays and hashes with `()` used in method arguments.
