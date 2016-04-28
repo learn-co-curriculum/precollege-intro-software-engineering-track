@@ -32,7 +32,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>
             <a href="lectures/intro-to-command-line/LECTURE.md">Lecture: Intro to the Command Line</a></br>
             <a href="lectures/intro-to-command-line">Lecture Notes</a></br>
-            <a href="lectures/complete-a-lab/LECTURE.MD">5 minutes - How To Submit A Lab</a><br>
+            <a href="lectures/complete-a-lab/LECTURE.md">5 minutes - How To Submit A Lab</a><br>
             <a href="https://GitHub.com/learn-co-curriculum/find-missing-pet">Lab: Find the Missing Pet</a></br>
             <a href="https://GitHub.com/learn-co-curriculum/hs-sinatra-organizer">Lab: Sinatra Organizer</a></br>
             <a href="https://GitHub.com/learn-co-curriculum/hs-advanced-cli">Stretch Lab: Bash Script</a>
